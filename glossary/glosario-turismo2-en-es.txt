@@ -1,0 +1,493 @@
+districtwide	a través del distrito
+abuse	abuso
+child abuse	abuso de menores
+corrective action	acción correctiva
+harassment	acoso,  hostigamiento
+birth certificate	acta de nacimiento, partida de nacimiento
+pull-out activity	actividad de refuerzo fuera del salón
+update, to	actualizar, poner al día
+accommodation	adaptación, acomodamiento
+administrator	administrador/a 
+adolescence	adolescencia
+adoption	adopción
+textbook adoption	adopción de libros de texto
+adopt, to	adoptar
+language acquisition	adquisición del idioma
+local educational agency (LEA)	agencia local de educación (conocido en inglés como LEA)
+visual acuity	agudeza visual
+acute	agudo
+adjustment	ajuste
+early literacy	alfabetización temprana
+align (to), alignment	alineado, basado en
+high expectations	altas expectativas
+high academic level	alto nivel académico
+high achievement	alto rendimiento
+student body	alumnado
+illiteracy	analfabetismo
+functional illiteracy	analfabetismo funcional
+native English speakers	angloparlantes nativos, anglohablantes nativos
+abnormality	anormalidad
+Reading First	Antes que nada, la lectura
+Early Reading First	Antes que nada, la lectura infantil
+grade level	año académico, grado escolar
+calendar year	año civil
+school year	año escolar
+extended school year	año escolar prolongado
+grade	año, grado
+administer, administration	aplicar, se aplica, aplicación, dar, administrar, administración
+technical support	apoyo técnico
+active learning	aprendizaje activo
+cooperative learning	aprendizaje conjunto o grupal
+acquisition	aprendizaje, adquisición
+career adviser	asesor/a vocacional, profesional
+attendance	asistencía
+audit	auditoria
+unexcused absence	ausencia injustificada
+absence(s)	ausencia(s)
+bilingual educational aide	auxiliar educativo/a bilingüe
+advanced (CST performance level or CELDT proficiency level) 	avanzado (como el nivel avanzado)
+technical assistance	ayuda técnica
+basic (CST performance level)	básico (como el nivel básico)
+scholarship	beca
+grade card	boleta, reporte de calificaciones
+bulletin	boletín
+newsletter	boletín
+first-aid kit	botiquín de primeros auxilios
+teacher quality	calidad de maestros
+scale score	calificación de escala (scale score)
+letter grade	calificación en forma de letra
+raw score	calificación original
+score	calificación, resultado
+student scores	calificaciones de los estudiantes
+handwriting	caligrafía, escritura or letra manuscrita
+Basic Interpersonal Communication Skills (BICS)	Capacidad básica de comunicación interpersonal (conocido en inglés como BICS)
+oral language skills	capacidad o aptitud de expresión oral
+competency	capacidad, aptitud
+ability	capacidad, habilidad
+staff development	capacitación del personal
+professional development	capacitación, desarrollo profesional
+biliterate	capaz de leer y escribir en dos idiomas
+Center on School, Family, and Community Partnerships	Centro de Colaboración entre la Escuela, la Familia, y la Comunidad
+newcomer center	centro para nuevos estudiantes que no hablan inglés 
+preschool	centro, plantel, establecimiento de educación preescolar
+Bilingual Certificate of Competence (BCC)	Certificado de competencia bilingüe (conocido en inglés como BCC)
+Bilingual Cross-cultural Certificate of Competence (BCC)	Certificado de competencia bilingüe transcultural (conocido en inglés como BCC)
+certificate of educational achievement	certificado de rendimiento educativo
+Certificate of Proficiency	Certificado de suficiencia preparatoria
+multitrack	ciclos educativos múltiples
+school tracks	ciclos escolares
+science	ciencias
+kinesthetic	cinestético 
+citizenship	ciudadanía, nacionalidad, conducta cívica
+language classification	clasificación según el dominio del idioma
+code of student behavior	código de conducta, comportamiento estudiantil
+Education Code	Código de Educación
+California Education Code	Código de Educación de California
+dress code	código de vestir
+intelligence quotient (IQ)	coeficiente intelectual (conocido en inglés como IQ)
+Head Start	Comienzo con ventaja
+California Commission on Teacher Credentialing (CCTC)	Comisión de Acreditación de Maestros de California (conocido en inglés como CCTC)
+advisory committee	comité asesor
+community advisory committee (CAC)	comité asesor comunitario (conocido en inglés como CAC)
+Bilingual Advisory Committee	 (BAC)	Comité asesor de la educación bilingüe (conocido en inglés como BAC)
+parent advisory committee	comité asesor de padres de familia
+District English Language Advisory Committee (DELAC)	Comité asesor del distrito escolar para los estudiantes de inglés como segunda lengua (conocido en inglés como DELAC)
+English Learner Advisory Committee (ELAC)	Comité asesor para los estudiantes de inglés como segunda lengua (conocido en inglés como ELAC)
+behavior	comportamiento
+listening	comprensión auditiva
+reading comprehension	comprensión de lectura
+verbal comprehension	comprensión verbal
+English proficient	con dominio del inglés
+fluent-English proficient (FEP)	con dominio total del inglés (conocido en inglés como FEP)
+fluent reader	con fluidez en la lectura
+underrepresented	con poca representación
+school-based	con sede escolar
+adaptive behavior	conducta adaptativa
+aggregate	conjunto, totalidad
+basic skills	conocimientos básicos
+counselor	consejero/a
+school site council (SSC)	consejo del plantel escolar (conocido en inglés como SSC)
+board of directors	consejo directivo
+building and grounds worker 	conserje
+transcript	constancia de estudios
+local control	control local
+field coordinator	coordinador/a de campo
+e-mail	correo electrónico
+fourth	cuarto
+curriculum	Currículo, plan de estsudios
+standards-based curriculum	currículo basado en los estándares 
+core curriculum	currículo principal
+accelerated courses	cursos intensivos
+student achievement data	datos de aprovechamiento académico
+baseline data	datos fundamentales o básicos
+limited-English proficiency	de dominio limitado del inglés
+economically disadvantaged	de escasos recursos económicos
+tenth	décimo
+child advocate	defensor/a de menores de edad
+hard of hearing (HOH)	deficiencia auditiva, sordo (conocido en inglés como HOH)
+budget shortfall	deficiencia del presupuesto
+language and speech impaired (LASI)		deficiente en el lenguaje y habla (conocido en inglés como LASI)
+California Department of Education (CDE)	Departamento de Educación de California (conocido en inglés como CDE)
+U.S. Department of Education 	Departamento de Educación de EEUU
+fees	derechos, costos de matrícula
+English–language development (ELD)	desarrollo del inglés como segunda lengua (conocido en inglés como ELD)
+Cognitive Academic Language Proficiency (CALP)	Desarrollo del lenguaje académico (conocido en inglés como CALP)
+Bilingual Cross-cultural Language and Academic Development (BCLAD)	Desarrollo lingüístico académico y bilingüe transcultural (conocido en inglés como BCLAD)
+Crosscultural, Language, and Academic Development (CLAD)	Desarrollo lingüístico académico y transcultural (conocido en inglés como CLAD)
+pupil-free day	día sin estudiantes (para la capacitación de maestros)
+diagnostic	diagnóstico
+calendar days	días civiles
+buy-back days	días de desarrollo profesional
+learning disabled	discapacidad en el aprendizaje
+handicap	discapacidad, impedimento, desventaja
+budget allocations	distribuciones, asignaciones del presupuesto
+two-way immersion	doble inmersión
+twelfth	doceavo, duodécimo
+drug abuse	drogadicción, uso excesivo de drogas
+bilingual education	educación bilingüe
+Gifted and Talented Education (GATE)	Educación de estudiantes dotados y talentosos (conocido en inglés como GATE)
+special education	educación especial
+multicultural education	educación multicultural
+adult education	educación para adultos
+implementation	ejecución, realización, cumplimiento
+performance tasks	ejercicios de rendimiento
+utterances	emisiones verbales
+home language survey	encuesta de la lengua materna
+nurse’s office	enfermería
+link (as in Web link)	enlace
+home schooling	enseñanza académica en el hogar
+standards-aligned instruction	enseñanza basada en los estándares
+Community Based English Tutoring  (CBET)	Enseñanza individualizada del inglés con instructores comunitarios (conocido en inglés como CBET)
+elementary education	enseñanza primaria
+secondary education	enseñanza secundaria
+School Assistance and Intervention Team (SAIT)	Equipo de asistencia e intervención escolar (conocido en inglés como SAIT)
+full-time equivalent (FTE)	equivalente a un puesto de tiempo completo (conocido en inglés como FTE)
+charter school	escuela charter 
+trade school	escuela de artes y oficios
+National Blue Ribbon School	Escuela de listón azul nacional
+school within a school	escuela dentro de una escuela
+California Distinguished School	Escuela distinguida de California
+junior high school (middle school)	escuela intermedia
+middle school	escuela intermedia, secundaria (middle school)
+magnet school	escuela magnet
+Program Improvement (PI) school or district	escuela o distrito con necesidad de mejoramiento académico (escuela o distrito PI)
+elementary school	escuela primaria
+technical school		escuela técnica
+low-achieving schools	escuelas de bajo rendimiento
+effective schools	escuelas eficaces
+targeted assistance schools	escuelas identificadas para recibir ayuda adicional
+integrales	escuelas preparatorias, high schools
+escuelas remitentes 	comprehensive high schools
+especialista en el desarrollo infantil	feeder schools
+esquema curricular, estructura, esquema conceptual 	child development specialist
+estándares	framework
+estándares académicas del año académico	standards
+estándares académicos	grade-level standards
+estándares académicos para el desarrollo del inglés como segunda lengua	academic standards
+estándares de contenido académico	English-language development (ELD) standards
+estándares de desarrollo	content standards
+estatus migratorio	development standards
+estudiante con discapacidades en el aprendizaje	immigrant status
+estudiante con discapacidades físicas 	educationally handicapped
+estudiante con dominio limitado del inglés (conocido en inglés como LEP)	physically handicapped 
+estudiante de licenciatura	limited-English proficient (LEP)
+estudiante de una minoría lingüística	undergraduate
+estudiante del primer año de la (escuela) preparatoria, del primer año universitario	language minority student
+estudiante motivado	freshman
+estudiante que ha desertado los estudios escolares	motivated learner
+estudiante que no rinde a la altura de la norma establecida	dropout
+estudiante, alumno/a	underachiever
+estudiantes adelantados/as	student
+estudiantes de escasos recursos socioeconómicos	advanced students
+estudiantes de inglés como segunda lengua	socioeconomically disadvantaged students
+estudiantes propensos a fracasar	English learners
+estudio en el hogar	at-risk students
+estudio independiente 	home study
+evaluación	independent study
+evaluación bilingüe	evaluation
+evaluación de la conformidad a los reglamentos	bilingual assessment
+evaluación de la salud	compliance review
+Evaluación individual del aprovechamiento académico básico (conocido en inglés como BASIS)	health assessment
+Evaluación nacional del progreso educativo (conocido en inglés como NAEP)	Basic Achievement Skills Individual Screener (BASIS)
+evaluación, análisis	National Assessment of Educational Progress (NAEP)
+exactitud	assessment
+examen	accuracy
+Examen de aptitud física (conocido en inglés como PFT)	examination
+Examen de conocimientos básicos de California (conocido en inglés como CTBS)	Physical Fitness Test (PFT)
+Examen de egreso de la preparatoria de California	California Test of Basic Skills (CTBS)
+Examen de suficiencia de la escuela preparatoria de California	California High School Exit Examination (CAHSEE)
+exámenes estatales	California High School Proficiency Examination (CHSPE)
+excursión escolar	state exams
+exención 	field trip
+expresión escrita	exemption
+expresión oral	writing
+expulsar	speaking
+extracurricular	expel, to
+faltar a la escuela sin justificación	extracurricular
+familias de bajos ingresos económicos	truant, truancy
+fechas de el/los examen(es) extraordinarios	low-income families
+fichas escolares, registros escolares	make-up dates
+flexibilidad	school records
+fluidez, fluidez al hablar	flexibility
+fondos por categorías	fluency
+fondos traspasados	categorical funds
+grupo de expertos	carryover funds
+grupo, conjunto de expertos, líderes	task force
+guardería infantil	cadre
+guardería infantil	child care center
+guía para los padres de familia y tutores	day care center
+habilidad para comunicarse efectivamente	guide for parents and guardians	
+habilidades de adaptación	effective communication skills
+habilidades y conocimientos fundamentales en el manejo de las computadoras	adaptive skills
+habilidades, capacidades, destrezas	computer literacy
+historia-ciencias sociales	skills
+hogar de crianza, hogar temporal	history–social science
+horario	foster home
+horario principal o maestro	schedule
+idiomas además del inglés	master schedule
+idioma español, lengua española	languages other than English
+idioma materno	Spanish language
+idioma nativo, lengua materna	native language
+impedido, inhabilitado	primary language
+indicaciones visuales	impaired
+indicadores de progreso adecuado	visual cues
+índice de rendimiento académico (conocido en inglés como API)	adequate progress indicators
+indigente, necesitado/a	Academic Performance Index (API)
+individuo con problemas emocionales	indigent
+informe de progreso académico	emotionally disturbed
+informe de rendimiento	progress report
+Informe del progreso del sistema de rendición de cuentas (conocido en inglés como APR)	performance report
+inglés como una segunda lengua (conocido en inglés como ESL)	Annual Progress Report (APR)
+inglés de uso común	English as a second language (ESL)
+inicial (como el nivel inicial)	mainstream English
+inicialmente designado como estudiante que domina el inglés (conocido en inglés como I-FEP)	beginning (CELDT proficiency level)
+iniciativa electoral de emisión de bonos	initially fluent-English proficient (I-FEP)
+institución postsecundaria de dos años	bond measure
+instrucción contextualizada	community college
+instrucción contextualizada para el aprendizaje del inglés	sheltered instruction
+instrucción suplementaria, clases particulares, tutoría	sheltered English
+intermedio (como el nivel intermedio)	tutoring
+internado, pasantía	intermediate (CELDT proficiency level)	
+intervención temprana	internship
+intervenciones	early intervention
+Inventario básico de la lengua materna (conocido en inglés como BINL)	interventions
+jardín infantil, kinder, kindergarten	Basic Inventory of Native Language (BINL)
+lectores principiantes	kindergarten
+lectura	beginning readers
+lectura en silencio	reading
+lectura prolongada en silencio (conocido en inglés como SSR)	silent reading
+Lengua de signos estadounidense (conocido en inglés como ASL)	sustained silent reading (SSR)
+lengua materna	American Sign Language (ASL)
+lengua y literatura	heritage language
+lengua y literatura básicas	language arts
+lengua y literatura en inglés (conocido en inglés como ELA)	language arts core
+Ley de 2001 Que Ningún Niño se Quede Atrás (conocido en inglés como NCLB)	English–language arts (ELA)
+Ley de contabilidad académica de las escuelas de enseñanza pública(conocido en inglés como PSAA)	No Child Left Behind (NCLB) Act of 2001
+Ley de la educación de personas con discapacidades (conocido en inglés como IDEA)	Public School Accountability Act (PSAA)
+libreta, reporte, boleta de calificaciones	Individuals with Disabilities Education Act  (IDEA)
+Licenciatura en ciencias (conocido en inglés como BS)	report card
+Licenciatura en humanidades (conocido en inglés como BA)	Bachelor of Science (BS)
+Lista de lecturas de California (conocido en inglés como CRL)	Bachelor of Arts (BA)
+literatura básica, obras literarias requeridas	California Reading List (CRL)
+logro inferior a lo previsto	core literature
+logro, progreso	underachievement
+maestro/a altamente acreditados/as	achievement
+maestro/a no acreditado/a por NCLB 	highly qualified teacher
+maestro/a particular, instructor/a individual, tutor/a	non-NCLB-qualified teacher
+maestro/a suplente	tutor	
+Marco curricular de lengua y literatura 	substitute teacher
+marco curricular del estado	Reading/Language Arts Framework 
+Marco curricular para las ciencias	state framework
+matemáticas	Science Framework
+materia	mathematics
+materiales adoptados	subject, subject area
+materiales suplementarios	adopted materials
+materias básicas	supplementary materials
+materias de concentración	core subjects
+materias optativas	focus areas
+matriculación, número de matriculados	elective classes
+Matriz de las variaciones, adaptaciones, y modificaciones para la administración de los exámenes estatales de California	enrollment
+medición, medida	Matrix of Test Variations, Accommodations, and Modifications for Administration of California Statewide Assessments
+medios visuales de instrucción	measurement
+Memorándum de entendimiento, acuerdo (conocido en inglés como MOU)	visual aids
+memoria auditiva y visual	Memorandum of Understanding (MOU)
+menor de edad	visual and auditory memory
+Mesa Directiva de Educación	minor
+mesa directiva de educación	Board of Education
+Mesa Directiva de Educación de California 	school board
+Mesa Directiva Estatal de la Educación (conocido en inglés como SBE)	California State Board of Education
+mesa o junta directiva	State Board of Education (SBE)	
+metas académicas establecidas	governing board
+métodos científicamente comprobados 	academic achievement goals
+minorías	scientifically based methods
+monolingüe	minorities
+muestra	monolingual
+muy por debajo del (nivel) básico	sample (as in sample report)
+niño/a que no habla	far below basic (CST performance level)
+niño/a; menor de edad	nonverbal child
+niños/as con discapacidades	child
+niños/as de minorías étnicas, raciales	children with disabilities
+nivel de desarrollo	children of color
+proficiency level	niveles de desarrollo en el CELDT son avanzado, preavanzado, intermedio, preintermedio, inicial
+nivel de rendimiento	CELDT proficiency levels are advanced, early advanced, intermediate, early intermediate, beginning
+performance level	niveles de rendimiento para los CSTs y CAPA son avanzado, proficiente, básico, por debajo del básico, y muy por debajo del básico
+nivel del desarrollo del inglés como segunda lengua	CSTs and CAPA performance levels are advanced, proficient, basic, below basic, far below basic
+no satisface las expectativas mínimas	English-language proficiency level
+Noche de orientación para padres de familia (al inicio del año escolar)	below expectations
+notarizado/a	Back-to-School Night
+notificación a los padres de familia y tutores, notificación de los padres de familia y tutores	notarized
+noveno	parental notification for parents and guardians
+objetivo de comportamiento	ninth
+objectivo de mejora	behavioral objective
+Objetivo medible de logro anual (conocido en inglés como AMAO)	growth target
+objetivos medibles, mensurables	Annual Measurable Achievement Objective (AMAO)
+octavo	measurable objectives
+Oficina para Derechos Civiles (conocido en inglés como OCR) del Departamento de Educación de los EEUU	eighth
+onceavo, undécimo	Office for Civil Rights (OCR) of the U.S. Department of Education
+opción de escuela, elección de escuela	eleventh
+opciones de padres de familia y tutores	school choice
+orientación vocacional y universitaria	parental (and guardian) options
+ortografía	career and college guidance
+padre o madre de crianza, padres adoptivos	spelling	
+padres de familia y tutores	foster parent
+palabras básicas reconocibles a primera vista	parents and guardians
+participación de los padres de familia y tutores	basic sight words
+participar en, tomar	parent/guardian involvement
+pautas, normas generales, principios normativos	take (as in to take a test)
+persona con deficiencias en el desarrollo (conocido en inglés como DH)	guidelines
+persona con deficiencias en el desarrollo (conocido en inglés como DI)	developmentally handicapped (DH)	
+personal auxiliar	developmentally impaired (DI)
+personal clasificado por categoría profesional	support staff
+plan de acción	classified personnel or staff
+plan de estudios correlativo a la capacidad del alumno	action plan
+plan de la Sección 504	competency-based curriculum
+plan de mejoramiento	Section 504 plan
+Plan de mejoramiento escolar de California 	improvement plan
+plan del contenido de la prueba	California School Improvement Plan
+plan del plantel escolar (conocido en inglés como SSP)	test blueprint
+plan escolar de acción	school site plan (SSP)
+Plan maestro de California	school action plan
+Plan maestro para estudiantes del inglés como segunda lengua	California Master Plan
+plantel escolar	Master Plan for English Learners
+poco común, infrecuente 	campus
+por arriba del promedio	low incidence
+por debajo del (nivel) básico	above average
+por debajo del promedio	below basic (CST performance level)
+porcentaje de transitoriedad	below average
+porcentajes, tasas de graduación escolar	rate of transiency
+preavanzado (como el nivel preavanzado)	graduation rates
+preguntas de opción múltiple	early advanced (CELDT proficiency level)
+preintermedio (como el nivel preintermedio)	multiple-choice questions
+preparación o aptitud en la lectura	early intermediate (CELDT proficiency level)
+prescindir	reading readiness skills
+primero, primer (año)	waiver
+proceso de dominar el inglés como segunda lengua	first
+profesionales, facultativos/as itinerantes	English language acquisition
+profesor/a adjunto/a, profesor/a ayudante,	field practitioners
+assistant teacher	maestro/a auxiliar
+proficient (CST performance level)	proficiente (como el nivel proficiente)
+Early Literacy Program	Programa de alfabetización preescolar
+Job Skills Training Program	Programa de capacitación laboral
+individualized education program (IEP)	programa de educación individualizado o programa individualizado de educación (conocido en inglés como IEP)
+Migrant Education Program	Programa de educación para migrantes
+California Assessment Program (CAP)	Programa de evaluación educativa de California (conocido en inglés como CAP)
+Early Assessment Program	Programa de evaluación temprana
+Standardized Testing and Reporting (STAR) Program	Programa de exámenes y reportes estandarizados (conocido en inglés como STAR)
+Bilingual Immersion Program	Programa de inmersión bilingüe
+intervention program	programa de intervención
+Early Intervention Program for School Success	Programa de intervención temprana para el éxito académico
+core program	programa de materias obligatorias
+Program Improvement (PI)	Programa de mejoramiento académico (conocido en inglés como PI)
+college preparatory program	programa de preparación para el ingreso a la universidad
+remediation program	programa de remedio, programa correctivo
+Emergency Immigrant Education Program (EIEP)	Programa educativo de emergencia para inmigrantes
+state-mandated program		programa estatal obligatorio
+Even Start Program	Programa Even Start
+graduation night	programa nocturno para estudiantes del último año de preparatoria
+Infant Development Program		Programa para el desarrollo infantil
+GATE program	Programa para estudiantes dotados y talentosos (conocido en inglés como GATE)
+child abuse prevention program	programa para la prevención del abuso de menores de edad
+gang prevention program		programa para la prevención de pandillas
+child development programs	programas para el desarrollo infantil
+categorical programs	programas por categorías
+categorically funded programs	programas subvencionados por categorías 
+Adequate Yearly Progress (AYP)	Progreso anual adecuado(conocido en inglés como AYP)
+average daily attendance (ADA)	promedio de asistencia diaria (conocido en inglés como ADA)
+grade-point average (GPA)	promedio de calificaciones (en puntos) (conocido en inglés como GPA)
+supplemental educational services provider	proveedor/a de servicios suplementarios de educación
+test	prueba
+California Alternate Performance Assessment (CAPA)	Prueba alternativa de rendimiento de California (conocido en inglés como CAPA)
+benchmark test	prueba basada en estándares específicos
+criterion-referenced test	prueba basada en objetivos específicos
+standardized testing	pruebas estandarizadas
+benchmark	punto de referencia
+weaknesses	puntos débiles
+strengths	puntos fuertes
+English-speaking	que habla inglés
+non-English-speaking	que no habla inglés
+research-based	que tiene base en la investigación científica
+fifth	quinto
+Similar Schools Rank	Rango de escuelas similares
+abstract reasoning	razonamiento abstracto
+critical thinking	razonamiento crítico, pensamiento analítico
+open house	recepción escolar para padres de familia y estudiantes
+reclassification	reclasificación
+reclassified-fluent-English proficient (R-FEP)	reclasificado como un estudiante que domina el inglés (conocido en inglés como R-FEP)
+grant writer	redactor/a de propuestas para solicitar subvenciones, subsidios, fondos
+class size reduction	reducción de la proporción de estudiantes por maestro
+restructuring	reestructuración
+educational reform	reforma educativa
+aggregate performance	rendimiento total
+CAHSEE Student and Parent Report	Reporte de resultados del CAHSEE para padres de familia y estudiantes
+CELDT Student Proficiency Level Report	Reporte del nivel de desarrollo del estudiante en CELDT
+STAR Student Report	Reporte individual de los resultados de STAR 
+flunk, to	reprobar
+minimum academic requirements	requisitos académicos mínimos
+accountability	responsabilidad, rendición de cuentas
+norm-referenced results	resultados con referencia a las normas (de rendimiento académico)
+expected schoolwide learning results (ESLR)	resultados de aprendizaje previstos para todos los estudiantes de la escuela (conocido en inglés como ESLR)
+classroom	salón, aula
+mental health	salud mental
+SAT®	SAT®
+Office of the Secretary of Education	Secretaría de Educación
+Secretary of Education	Secretario/a de Educación
+visual tracking	seguir con la vista
+second	segundo
+seventh	séptimo
+support services		servicios auxiliares
+children’s protective services	servicios de protección a la infancia o niñez
+Child and Family Services	Servicios para Menores de Edad y Familias 
+supplemental/supplementary educational services	servicios suplementarios de educación
+mentor, to	servir como mentor; aconsejar
+board meeting	sesión ordinaria de la mesa directiva
+sixth	sexto
+acronyms	siglas
+non-English-proficient	sin dominio del inglés
+unfunded	sin fondos
+juvenile justice system	sistema judicial para menores
+systemic	sistémico
+Web site	sitio Web
+Consolidated Application (ConApp)	Solicitud consolidada (conocido en inglés como ConApp)
+tested	someter a una prueba, se le aplicó una prueba, se le dio una prueba
+assistant principal (AP)	subdirector/a (conocido en inglés como AP)
+student subgroups	subgrupos de estudiantes
+grant	subvención, subsidio, fondos
+highly gifted	superdotado
+State Superintendent of Public Instruction (SSPI)	Superintendente de instrucción pública del estado (conocido en inglés como SSPI)
+information bulletin	suplemento informativo
+suspension, suspend, suspended (from school)	suspensión, suspender, suspendido
+bulletin board	tablero de anuncios
+dropout rate	tasa, índice de abandono escolar
+third	tercero, tercer (año)
+Title I	Título I
+Associate in Arts (AA)	Título universitario de preparación básica (conocido en inglés como AA)
+credential	título, credencial, licencia
+cap and gown	toga y birrete
+fully mainstreamed	totalmente integrado (al programa educativo regular)
+busing	transporte (de estudiantes) en autobús
+behavior disorder	trastorno de comportamiento
+guardian	tutor/a (legal)
+college	universidad
+California State University (CSU)	Universidad Estatal de California (conocido en inglés como CSU)
+verbalize, to	verbalizar, expresarse con palabras
+videocassette recorder	videograbadora

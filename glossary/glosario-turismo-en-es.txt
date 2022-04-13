@@ -1,0 +1,1220 @@
+Supply with	Abastecer
+Finished	Acabado
+Accessibility	Accesibilidad
+Access	Acceso
+Action	Acción
+Oil	Aceite
+Olive	Aceituna
+Attitude/ Behaviour	Actitud
+Activity	Actividad
+Tourism activities	Actividades turísticas
+Current/ Present	Actual
+Free trade agreement	Acuerdo de libre comercio
+Bilateral agreements	Acuerdos bilaterales
+Multiateral agreements	Acuerdos multilaterales
+Accumulation	Acumulación
+Owe	Adeudar
+Civil service/ The public administration	Administración pública
+Adoption	Adopción
+International Air Transport Association	Aéreo (IATA)
+Airline	Aerolíneas
+Airport	Aeropuerto
+Advertising Agency	Agencia de publicidad
+Tourism Agency	Agencia de turismo
+Travel Agency	Agencia de viajes
+Car rental office	Agencias de alquiler de vehículos
+Tourist information desk	Agencias de información turística
+Travel Issuing Agency	Agencias de viajes emisoras
+Wholesale Travel Agency	Agencias de viajes mayoristas
+Retail Travel Agency	Agencias de viajes minoristas
+Package Travel Agency	Agencias de viajes mixtas
+Inbound Travel Agency	Agencias de viajes receptivas
+Economic agents	Agentes económicos
+Sales agent/ Sales person	Agente de ventas
+Agenda	Agenda
+Saving	Ahorro
+Shelter/ Hostel	Albergue
+Marketing scope/ marketing achieve	Alcance de marketing
+The Alliance of International Tourism (AIT)	Alianza Internacional de Turismo (AIT)
+Warehouse/ Store	Almacén
+Accomodation	Alojamiento
+Hotel accomodation	Alojamiento hotelero
+Non-hotel accomodation	Alojamiento no hotelero
+Alternative	Alternativa
+High/ Tall	Alto
+Friend	Amigo
+Amortize	Amortizar
+Expand/ Extend	Ampliar
+SWOT(Strengths, Weaknesses, Opportunities, Threats) Analysis	Análisis DAFO
+Analysis of the value	Análisis de valor
+Andalusia	Andalucía
+Precedent/ Antecedent/ Background	Antecedente
+Annual	Anual
+Parking Area	Aparcamiento
+Tourist apartment	Apartamento turístico
+Financial support	Apoyo financiero
+Appreciation	Apreciación
+Learning	Aprendizaje
+Aptitude/ Suitability	Aptitud
+Tariff	Arancel
+Argument	Argumento
+Art	Arte
+Article/ Item	Artículo
+General Assembly / General Meeting	Asamblea general
+Ascend	Ascender
+Affordable/ Accessible	Asequible
+Adviser	Asesor
+Budgetary Allocation	Asignación presupuestaria
+Medical-sanitary assistance/ Medical-Health Care Research	Asistencia médico sanitaria
+Helpdesk/ Technical assistance	Asistencia técnica
+Consumer Association	Asociación de consumidores
+European Free Trade Agreement (EFTA)	Asociación Europea de Libre Cambio (EFTA)
+International Air Transport Association (IATA)	Asociación Internacional de Transporte
+Private association	Asociación privada
+Matter/ Issue/ Subject	Asunto
+Customer Service	Atención al cliente
+Selective attention/ Selective service	Atención selectiva
+Atomization	Atomización
+Attraction	Atracción
+Tourist attraction	Atractivo turístico
+Attribute/ Feature	Atributo
+Audience/ Hearing	Audiencia
+Marketing audit	Auditoría de marketing
+Bus/ Coach	Autobús
+Coach	Autocar
+Author/ Writer	Autor
+Endorsement/ Support	Aval
+Advance/ Progress	Avance
+Civil aviation	Aviación civil
+Plane/ Aircraft/ Airplane	Avión
+Help/ Aid	Ayuda
+Council/ City council/ Town hall	Ayuntamiento
+Dance	Baile
+Descent/ Falling	Bajada
+Balance	Balance
+External account	Balanza de pagos
+Resort/ Summer resort/ SPA	Balneario
+European Central Bank	Banco Central Europeo
+World Bank	Banco Mundial
+Flag/ Banner	Bandera
+Banner	Banner
+Banquet	Banquete
+Arab Baths	Baños árabes
+Bar	Bar
+Cheap/ Inexpensive	Barato
+Entry barriers	Barreras de entrada
+Exit barriers	Barreras de salida
+Database	Bases de datos
+Drink/ Beverage	Bebida
+Benchmarking	Benchmarking
+Benefit/ Profit	Beneficio
+Library	Biblioteca
+Bibliography	Bibliografía
+Goods/Estate/Assets	Bienes
+Luxury good	Bien de lujo
+Goods of first necessity	Bien de primera necesidad
+Lower goods	Bien inferior
+Normal goods	Bien normal
+Complementary goods	Bienes complementarios
+Consumer goods	Bienes de consumo
+Independent goods	Bienes independientes
+Public goods	Bienes públicos
+Substitute goods	Bienes sustitutivos
+Social welfare	Bienestar social
+Ticket/ Note/ Banknote	Billete
+Blog	Blog
+Advertising block	Bloque publicitario
+Word of mouth	Boca-oído
+Sketch/ Outline	Boceto
+Discount bonus	Bono de descuento
+Forest	Bosque
+Buttons/ Bellboy/ Bellhop	Botones
+Branding	Branding
+Briefing	Briefing
+Bungalow	Bungalós
+Hotel searcher	Buscador de hoteles
+Suggestions Box	Buzón de sugerencias
+Value chain	Cadena de valor
+Hotel chain	Cadena hotelera
+Cafe/ cafeteria	Cafetería
+Calculation	Cálculo
+Calendar/ Schedule	Calendario
+Quality	Calidad
+Grade/ Capacity	Calidad
+Technical quality of products	Calidad técnica de los productos
+Qualification	Calificación
+Street	Calle
+Bed/ Bedding	Cama
+Camera/ Chamber	Cámara
+Currency exchange/ Foreign exchange	Cambio de divisas
+Tourist camp	Campamento turístico
+Advertising campaign/ Publicity campaign	Campaña publicitaria
+Purchasing channel	Canal de compra
+Distribution channel	Canal de distribución
+Communication channel	Canal de comunicación
+Cancellation of reservation	Cancelación de reserva
+Amount/ Quantity	Cantidad
+Quantity demanded	Cantidad demandada
+Quantity offered	Cantidad ofertada
+Reception capacity	Capacidad de acogida
+Canon	Canon
+Capital/ Equity	Capital
+Character/ Nature	Carácter
+Feature/ Characteristic/Property	Característica
+Lack	Carencia
+Load/Cargo/ Loading	Carga
+Expensive	Caro
+Road/ Highway	Carretera
+Business portfolio	Cartera de negocios
+House/ Home	Casa
+Casino	Casino
+Catalogue/ Catalog	Catálogo
+Category	Categoría
+Castle	Castillo
+Wine tasting	Cata de vino
+Disaster/ Cataclysm	Cataclismo
+Cathedral	Catedral
+Hotel category	Categoría hotelera
+Catering service	Catering
+On-Site Services Centre	Central de reservas
+Switchboard	Centralita
+Center/ centre	Centro
+Shopping centre/ Shopping	Centro comercial
+mall/Commercial centre	Centro de Recepción Turística
+Castelsardo Tourist Centre/ Center of	Cerrado
+Tourist Reception	Ciclo de vida
+Closed	Ciclo económico
+Life cycle	Circulación
+Economic cycle	Ciudad
+Circulation	Ciudad de vacaciones
+City/ Town	Clase intermedia o Bussiness
+Holiday town/ Holiday village	Clase primera
+Business-class	Clase social
+First class	Clase turista
+Social class	Clasificación
+Economy class	Cliente
+Classification	Clima
+Customer/ Client	Cobertura de mercado
+Climate	Cobrar
+Market coverage	Coche
+Charge	Coche alquilado
+Car	Coche propio
+Rented car/ Hired car	Cocina convencional
+Own car	Cocina local
+Conventional cuisine	Cocina nacional
+Local cuisine	Cocina regional
+National cuisine	Codificación
+Regional cuisine	Código
+Coding/ Codification	Código ético mundial
+Code	Coeficiente
+Global Code of Ethics	Cofradía
+Coefficient	Columna
+Brotherhood	Comensal
+Column	Comercialización
+Diner	Comercial
+Marketing/ Commercialization	Comercio
+Commercial/ Trade	Comercio electrónico
+Trade/ Commerce	Comercio internacional
+Electronic commerce/ E-commerce	Comisión Europea de Turismo
+International trade	Comisiones regionales
+European Travel Commission	Comités especializados
+Regional commissions	Compañero
+Specialized committees	Compañía aérea
+Partner/ Companion	Compañía naviera
+Airline company/ Air carrier	Competencia
+Shipping company	Competencia monopolística
+Competition/ Competence	Competencia perfecta
+Monopolistic competition	Competitividad
+Perfect competition	Comportamiento
+Competitiveness	Compras
+Behaviour(GB), behavior(USA)	Compraventa
+Purchases	Comprobar
+Sale of goods	Comunicación
+Check/ Verify	Comunicación de destino
+Communication	Comunicación global
+Communication of destination	Comunicación integrada
+Global communication	Comunidad Autónoma
+Integrated communication	Comunidad internacional
+Autonomous Community	Concentración
+International community	Concentración geográfica
+Concentration/ Consolidation	Concepto
+Geographical concentration	Confianza
+Concept/ Idea	Confirmación de reserva
+Confidence/Trust	Conocimiento
+Confirmation of reservation	Conocimiento del producto
+Knowledge	Conocimiento previo
+Product knowledge	Consejero
+Prior knowledge	Consejo ejecutivo
+Counselor/ Advisor	Consejo Mundial de Turismo (WTTC)
+Executive Council/ Executive Board	Consulados
+World Travel and Tourism Council (WTTC)	Consumidor
+Consulate	Consumo primario
+Consumer	Consumo privado
+Primary consumption	Consumo público
+Private consumption	Consumo secundario
+Public consumption	Consumo turístico
+Secondary consumption	Consumo turístico dentro de las fronteras
+Tourist consumption	Consumo turístico fuera de las fronteras
+Tourist consumption within national	Contabilidad
+borders	Contacto
+Tourist consumption outside national	Contra reembolso
+borders	Control aéreo
+Accounting	Coordinador
+Contact	Cooperación
+Against reimbursement	Correo
+Air traffic control	Corto plazo
+Coordinator	Costa
+Cooperation/ Co-operation	Costalero
+Mail/ Post/ E-mail	Coste
+Short-term	Cotización
+Coast/ Shore/ Seaside	Coyuntura turística (COYUNTUR)
+Costalero	Crear
+Cost/ Fee	Crecimiento económico
+Quote/ Quotation	Credibilidad
+Tourist juncture	Crédito
+Create	Creencias ideológicas
+Economic growth	Creencias religiosas
+Credibility	Crisis económica
+Credit	Crisis energética
+Ideological beliefs	Crítica
+Religious beliefs	Crucero
+Economic crisis	Cualidad
+Energy crisis	Cuantificar
+Criticism	Cuenta corriente
+Cruise	Cuenta de crédito
+Quality	Cuenta Satélite de Turismo (CST)
+Quantify	Cuestionario
+Current account	Cupo de ventas
+Credit account/ Charge account	Cultura
+Tourism Satellite Account (TSA)	Cultura del ocio
+Questionnaire	Cuña publicitaria
+Quota of sales	Cuota de mercado
+Culture	Curva de demanda
+Leisure culture	Curva de oferta
+Advertising wedge	Dato
+Share market	Datos primarios
+Demand curve	Datos secundarios
+Offer curve	Debate
+Data/ Datum	Debe
+Primary data	Decisión compleja
+Secondary data	Decisión rutinaria
+Debate/ Discussion	Decoración
+Debit/ Must/ Need	Déficit exterior
+Complex decision	Déficit público
+Routine decision-making	Definición conceptual
+Decoration	Definición técnica
+External deficit	Deflación
+Public deficit	Degustación de productos
+Conceptual definition	Demanda
+Technical definition	Demanda diferida
+Deflation	Demanda efectiva
+Tasting of products	Demanda potencial
+Demand	Demanda turística
+Deferred demand	Demografía
+Effectiva demand	Demostración
+Potentional demand	Densidad de población
+Tourist demand	Dependencia exterior
+Demography	Deporte
+Demonstration	Depreciación
+Population density	Desajuste
+External dependency	Desarrollo
+Sport	Desarrollo de mercado
+Depreciation	Desarrollo de producto
+Mismatch	Desarrollo económico
+Development	Desarrollo sostenible
+Market development	Desayuno
+Product development	Descanso
+Economic development	Descripción
+Sustainable development	Desastre
+Breakfast	Desempleo
+Rest/ Break/ Relaxation	Deseo
+Description	Desinversión
+Disaster	Despedida
+Unemployment	Desplazamiento
+Desire/ Wish	Desplazamiento de la curva
+Divestiture/ Divestment	Detalle
+Farewell	Destino
+Displacement	Destino emergente
+Displacement of curve	Deuda
+Detail	Devolución
+Destination	Devaluación
+Emerging destination	Día
+Debt	Diario
+Return/ Refund	Difundir
+Devaluation	Dimensión
+Day	Dimensión temporal
+Diary/ Daily	Dinámica de grupo o focus group
+Disseminate/ Diffuse	Dinero
+Dimension	Dirección de marketing
+Temporal dimension	Directiva
+Focus group/ Dynamic group	Dirección
+Money	Director
+Marketing managment	Discapacidad
+Directive/ Manager	Discriminación de precios
+Direction/ Address	Discurso
+Director	Diseño
+Disability	Disonancia cognitiva
+Price discrimination	Disponibilidad de renta
+Speech/ Discourse	Disponibilidad de tiempo libre
+Design	Dispositivos móviles
+Cognitive dissonance	Distancia
+Available income	Distorsión selectiva
+Availability of free time	Distribución
+Mobile devices	Distribución exclusiva
+Distance	Distribución intensiva
+Selective distortion	Distribución selectiva
+Distribution	Diversificación
+Exclusive distribution	Dividir
+Intensive distribution	Divulgar
+Selective distribution	Divisa
+Diversification	Domicilio
+Divide/ Split	Dormitorio
+Disclose	Duda
+Currency	Duración
+Home/ Residence	Duración de estancia
+Bedroom	Economía abierta
+Doubt	Economía cerrada
+Duration	Economía clásica
+Length/Duration of hospital stay	Economía mundial
+Open economy	Economía neoclásica
+Closed economy	Edad
+Classical economy	Edad Antigua
+Global economy	Edad Contemporánea
+Neo-classical economy	Edad Moderna
+Age	Efectivo
+Ancient Age	Efecto
+Contemporary Age	Efectos externos
+Modern Age	Efectos globales
+Cash/ Effective	Efectos multiplicadores sobre la
+Effect	producción
+External effects	Efectos parciales
+Global effects	Efectos sobre el empleo
+Multiplier effects of production	Efectos sobre la Balanza de Pagos
+Partial effects	Efectos sobre la redistribución de la renta
+Employment effects	Efectos sobre los precios
+Effects on the balance of payments	Efectos sobre tipo de cambio
+Effects of redistribution of rents	Eficacia publicitaria
+Price effects	Eficacia publicitaria
+Effects on the exchange rate	Eficiencia
+Advertising efficiency	Ejemplo
+Advertising Effectiveness	Elaborar
+Efficiency	Elástica
+Example	Elasticidad cruzada
+Develop/ Work out	Elasticidad de la demanda
+Elastic	Elasticidad precio
+Cross-price elasticity	Elasticidad renta
+Demand elasticity	Elemento
+Own-price elasticity	Embajadas
+Income elasticity	Embalaje
+Element	Emisor
+Embassy	Emprendedor
+Packaging/ Packing	Empleo
+Issuer	Empresa
+Entrepreneur	Empresa de comida rápida
+Employment	Empresa privada
+Company/ Enterprise/ Corporation	Empresa pública
+Fast food company	Empresas mercantiles
+Private enterprise	Encuesta
+Public corporation	Enfoque
+Commercial companies	Entorno
+Survey/ Opinion	Entorno de marketing
+Approach/ Focus	Entorno internacional
+Environment/ Surroundings	Entrada
+Marketing environment	Entrega de llaves
+International environment	Entrevista de grupo
+Entrance/ Entry	Entrevista en profundidad
+Handover of keys	Envase
+Group interview	Equilibrio presupuestario
+In-depth interview	Equipaje
+Container/Packaging	Equipaje
+Budget equilibrium	Equipaje
+Luggage	Escribir
+Baggage	Eslogan
+Bags	Esnobismo
+Write	Espacio aéreo
+Slogan	Esparcimiento
+Snobbery	Espectáculo
+Airspace	Esquema
+Recreation/ Relaxation/ Entertainment	Estabilidad de precios
+Show/ Perfomance	Estabilizador automático
+Scheme	Establecimiento hotelero
+Price stability	Estacionalidad
+Automatic stabiliser	Estado
+Hotel establishment	Estados soberanos
+Seasonality	Estancia
+State	Estandarización del producto turístico
+Sovereign States	Estadística
+Stay	Estatus
+Standardisation of a tourist product	Estilo
+Statistics	Estilo de vida
+Status	Estimación
+Style	Estímulo
+Lifestyle	Estrategia
+Estimation	Estrategia concentrada
+Stimulus/ Stimulation	Estrategia de atracción o pull
+Strategy	Estrategia de empuje o push
+Focused strategy	Estrategia diferenciada
+Strategy of attracting/ Pull strategy	Estrategia indiferenciada
+Push strategy	Estrellas (hotel de)
+Differentiated strategy	Estructura económica del turismo
+No-differentiated strategy	Estructura social
+Stars( Hotel of...stars)	Estudios causales
+Economic structure of tourism	Estudios descriptivos
+Social structure	Estudios exploratorios
+Causal studies	Estudios longitudinales
+Descriptive studies	Estudios transversales
+Exploratory studies	Etapa de crecimiento
+Longitudinal studies	Etapa de declive
+Cross-sectional studies	Etapa de introducción
+Stage of full-on growth	Etapa de madurez
+Stage of decline	Ética
+Introduction stage	Etnográfico
+Maturity stage	Evento
+Ethics	Evolución
+Ethnographic	Exclusivo/Exclusividad
+Event	Excursionista
+Evolution	Expectativa
+Exclusive/ Exclusivity	Experiencia
+Hiker/ Excursionist	Explorador
+Expectation	Exportaciones
+Experience	Exposición
+Explorer/ Browser	Externo
+Export	Exterior
+Exhibition	Fábrica
+External	Fácil
+Outside/Exterior/Outdoor	Factor humano
+Factory	Factores aleatorios
+Easy	Factores de comunicación
+Human factor	Factores de educativos
+Random factor	Factores de modificación de la estructura
+Comunication factor	social
+Educational factor	Factores del entorno internacional
+Modification factors of a social structure	Factores demográficos
+Factors of international environment	Factores macroeconómicos
+Demographic factors	Factores socioeconómicos
+Macroeconomic factors	Factores tecnológicos
+Socioeconomic factors	Factura
+Technological factors	Facturación
+Invoice/ Bill	Familia
+Invoicing/ Billing	Fase
+Family	Federación Internacional de
+Phase	Touroperadores (IFTO)
+International Fedaration of Tour	Feria turística
+Operators	Ferrocarril
+Tourist fair	Fiabilidad
+Railway/ Train	Ficha
+Reliability	Fidelidad
+Tab/ Chip	Fiesta
+Loyalty/ Fidelity	Fijación de precios
+Festival/ Party	Financiación
+Price fixing	Fines
+Financing	Firma
+Uses/ Purposes	Flujos turísticos a nivel mundial
+Firm/ Sign	Folleto
+Tourist global flows	Fondo Monetario Internacional
+Brochure	Formación profesional
+International Monetary Fund	Foro mundial
+Professional training	Fortaleza
+World Forum	Frontera
+Strength/ Fortress	Fuente
+Border	Fuente de información
+Source	Fuerza
+Information source	Función
+Force	Fundación
+Function	Gabinete de prensa
+Foundation	Gala
+Press Office	Galería de arte
+Gala	Garantía
+Art gallery	Gasto diario
+Guarantee/ Warranty	Gasto medio
+Daily expenditure	Gasto público
+Medium-term expenditure	Gasto total
+Public expenditure	Gasto turístico
+Total expenditure	Gastronomía
+Tourism expenditure	Generación
+Gastronomy	General
+Generation	Generalife
+General	Género
+Generalife	Generosidad
+Gender	Gente
+Generosity	Gerente
+People	Gestión
+Manager	Gestión administrativa
+Management	Gestión por rendimiento o yield
+Administrative management	management
+Yield management	Gobernanta
+Head of Household	Gobierno
+Government	Gráfico
+Graphic	Gran-tour
+Grand Tour	Gremio
+Guild	Grupos de presión
+Pressure group	Grupos de referencia
+Reference groups	Guerra
+War	Guía
+Guide	Guía intérprete
+Guide-interpreter	Gusto
+Taste/ Pleasure/ Like	Hábitos de consumo
+Buying habits	Habitual
+Usual/ Regular/ Habitual	Horario
+Schedule/ Timetable	Hotel
+Hotel	Hotel/apartamento
+Apartment Hotel	Hipótesis
+Hypothesis	Hueco de mercado
+Market gap	Hábito
+Habit/ Custom	Huelga
+Strike	Hombre
+Man/ Human being	Habitación
+Room	Huésped
+Guest/ Host	Hora
+Hour/ Time	Homogéneo
+Homogeneous	Hoy
+Today	Huésped
+Guest	Habitación individual
+Single room	Habitación doble
+Double room	Habitación triple
+Triple room	Habitaciones contiguas
+Adjoining rooms	Habitaciones comunicadas
+Suite	Huella
+Footprint/ Track	Idea
+Idea	Identidad
+Identity	Imagen
+Image	Imagen de marca
+Brand image	Imagen de marca
+Trademark	Impacto ambiental
+Environmental impact	Impacto directo
+Direct impact	Impacto indirecto
+Indirect impact	Impacto inducido
+Induced impact	Implantación del producto
+Product implementation	Implicación
+Implication / Involvement	Importaciones
+Imports	Impuesto directo
+Direct tax	Impuesto indirecto
+Indirect tax	Impuesto sobre el Valor Añadido (IVA)
+Value-added tax	Impuesto sobre la Renta de las Personas
+Personal Income Tax	Físicas (IRPF)
+Bolster/ Push	Impulsar
+Inauguration	Inauguración
+Incentive	Incentivo
+Uncertainty	Incertidumbre
+Inconvenience/Inconveniente	Inconveniente
+Increase	Incrementar
+Consumer Price Index	Índice de Precios al Consumo (IPC)
+Industry	Industria
+Instability	Inestabilidad
+Political instability	Inestabilidad política
+Inflation	Inflación
+Influence/ Impact	Influencia
+Information	Información
+Statistical information	Información estadística
+Report/ Inform	Informe
+Infrastructure	Infraestructura
+Income	Ingresos
+Average income	Ingreso medio
+Total income/ Full income	Ingreso total
+Initiative	Iniciativa
+Innovation	Innovación
+Innovator	Innovador
+Labour insertion	Inserción laboral
+National Institute of Statistics	Instituto Nacional de Estadística
+Instruments	Instrumentos
+Integration	Integración
+Economic integration	Integración económica
+Exchange/ Interchange	Intercambio
+Intermediary	Intermediario
+International	Internacional
+Internationalisation of economic activities	Internacionalización de la actividad
+Internet	económica
+Inner/ Inside	Internet
+Websurfer/ Internet user	Interior
+Introduction	Internauta
+Inventory	Introducción
+Invention	Inventario
+Private investment	Invento
+Public investment	Inversión privada
+Research/ Investigation	Inversión pública
+Market research	Investigación
+Descriptive research	Investigación de mercados
+Experimental research	Investigación descriptiva
+Exploratory research	Investigación experimental
+Survey research	Investigación exploratoria
+Observation research	Investigación por encuesta
+Itinerary	Investigación por observación
+Ham	Itinerario
+Garden	Jamón
+Head chief	Jardín
+Head receptionist	Jefe de cocina
+Work shifts	Jefe de recepción
+Olympic Games	Jornadas de trabajo
+Judge/ Court	Juegos olímpicos
+Board	Juez
+Jury	Junta
+Justice	Jurado
+Justification	Justicia
+Youth/ Youthful/ Young	Justificación
+Keynesians	Juvenil
+Kilo/ Kilogram	Keynesianos
+Kilometre / Kilometer	Kilo
+Laboratory	Kilómetro
+Long distance	Laboratorio
+Long stay	Larga distancia
+Long term	Larga estancia
+Laundry	Largo plazo
+Loyalty	Lavandería
+Legoslation	Lealtad
+Language	Legislación
+Liberalization	Lenguaje
+Freedom of choice	Liberalización
+Press freedom	Libertad de elección
+Complaints Book	Libertad de prensa
+License/ Licence	Libro de reclamaciones
+Opinion leader	Licencia
+Leadership	Líder de opinión
+Limit/Restrict	Liderazgo
+Cleaning	Limitar
+Liquidity	Limpieza
+Key	Liquidez
+Tourist arrivals	Llave
+Location	Llegada de turistas
+Logistics	Localización
+Logo/ Logotype	Logística
+Place/ Location/ Venue	Logotipo
+Luxury	Lugar
+Macroeconomics	Lujo
+Macroenvironment	Macroeconomía
+Morning	Macroentorno
+Magnitude	Madrugada
+Mailing	Magnitud
+Technical maintenance	Mailing
+Map	Mantenimiento técnico
+Concept map	Mapa
+Brand	Mapa conceptual
+Individual brand/ Individual trade mark	Marca
+Trade mark	Marca individual
+Unique trade mark	Marca registrada
+marketing	Marca única
+Direct marketing	Marketing
+Strategic marketing	Marketing directo
+Internal marketing	Marketing estratégico
+Operational marketing	Marketing interno
+Sensory marketing	Marketing operativo
+Marketing-mix	Marketing sensorial
+Material	Marketing-mix
+Wholesale	Material
+Patron	Mayorista
+Patronage	Mecenas
+Half-board	Mecenazgo
+Media	Media pensión
+Economics meisure	Mediático
+Mean/ Environment	Medición económica
+Environment	Medio
+Means of transportation	Medio ambiente
+Medium-term	Medio de transporte
+Advertising media	Medio plazo
+Message	Medio publicitario
+Monthly	Mensaje
+Market	Mensual
+Common market	Mercado
+Hiking market	Mercado común
+Labour market	Mercado de excursionismo
+Target market	Mercado de trabajo
+Tourism market	Mercado objetivo
+Intervened market	Mercado turístico
+Free market	Mercados intervenidos
+Modern market	Mercados libres
+Potential markets	Mercados modernos
+Traditional markets	Mercados potenciales
+Goods	Mercados tradicionales
+Merchandising	Mercancías
+Microeconmics	Merchandising
+Micro environment	Microeconomía
+Affiliate members	Microentorno
+Asociated members	Miembros afiliados
+Effective members	Miembros asociados
+Retailer	Miembros efectivos
+Comunication mix	Minorista
+Furniture	Mix de comunicación
+Fashion	Mobiliario
+Model	Moda
+Change	Modelo
+Currency	Modificar
+Monopoly	Moneda
+Monument	Monopolio
+Motel	Monumento
+Motivation	Motel
+Purpose of travel	Motivación
+Curve variations	Motivo del viaje
+Migratory movements	Movimientos de la curva
+Sample	Movimientos migratorios
+Sampling	Muestra
+Multiple	Muestreo
+Timesharing	Múltiple
+Globalization of economic activity	Multipropiedad
+Municipal	Mundialización de la actividad económica
+Municipality	Municipal
+Museum	Municipio
+National	Museo
+Nationalisation	Nacional
+Natural	Nacionalización
+Nature of the goods	Natural
+Browser	Naturaleza del bien
+Need for	Navegador
+Business	Necesidad
+Negotiation	Negocio
+Neuromarketing	Negociación
+Price level	Neuromarketing
+Educational level	Nivel de precios
+Night	Nivel educativo
+Brand name	Noche
+Rule/ Standard	Nombre de marca
+handout	Norma
+News	Nota
+Brand notoriety	Noticia
+Fashion goods	Notoriedad de la marca
+Core	Novedad
+New	Núcleo
+New international economic order	Nuevo
+Number	Nuevo orden económico internacional
+Objective	Número
+Debenture	Objetivo
+Piece of art	Obligación
+Gift	Obras de arte
+Remarks/ Comments	Obsequio
+Permanent observers	Observación
+Leisure	Observadores permanentes
+Offer/ Supply	Ocio
+Supplementary offer	Oferta
+Tourism offer	Oferta complementaria
+Tourist Information Center	Oferta turística
+International Bureau of Social Tourism	Oficina de Información Turística
+(BITS)	Oficina Internacional de Turismo
+Oligopoly	Sostenible (BITS)
+Olive tree	Oligopolio
+Operator	Olivo
+Opinion	Operadora
+Opportunity	Opinión
+Order	Oportunidad
+Organization chart	Orden
+Organization	Organigrama
+United Nations Organization (UN)	Organización
+International Civil Aviation Organization	Organización de Naciones Unidas (ONU)
+(ICAO)	Organización Internacional de Aviación
+World Trade Organization	Civil (OACI)
+World Tourism Organization (WTO)	Organización Mundial de Comercio (OMC)
+Organization for Economic Cooperation	Organización Mundial de Turismo (OMT)
+and Development (OECD)	Organización para la Cooperación y el
+Tourist organizations	Desarrollo Económico (OCDE)
+Guide	Organizaciones turísticas
+Market-oriented	Orientar
+Origin	Orientación al consumidor
+Original	Origen
+Web page	Original
+Payment	Página Web
+Page	Pago
+Country of destination	Página
+Country of departure	País de destino
+Issuing country	País de origen
+Recipient country	País emisor
+Landscape	País receptor
+Developed countries	Paisaje
+Developing countries	Países desarrollados
+Keyword	Países en vías de desarrollo
+Banner	Palabra clave
+Panel	Pancarta
+Pamphlet	Panel
+Overview/ Landscape	Panfleto
+Screen	Panorama
+Paper	Pantalla
+Package tour	Papel
+Preset package tour	Paquete turístico
+Parador	Paquete turístico preestablecido
+Paradise	Parador turístico
+Parenthesis/ slashes	Paraíso
+Amusement park/ Theme park	Paréntesis
+Science park	Parque de atracciones
+Nature reserve	Parque de las ciencias
+Protected park	Parque natural
+Engage/ participate	Parque protegido
+Passanger	Participar
+Past	Pasajero
+Passive	Pasado
+Heritage/ Wealth	Pasivo
+Sponsorship	Patrimonio
+Boss	Patrocinio
+Pause	Patrón
+Pattern	Pausa
+Order	Pauta
+Negative slope	Pedido
+Full board	Pendiente negativa
+Pension	Pensión completa
+Perception	Pensión
+Perishable	Percepción
+Religious pilgrimages	Perecedero
+Profile	Peregrinaciones religiosas
+Newspaper	Perfil
+Period	Periódico
+Permanent	Período
+Overnight	Permanente
+Person	Pernoctación
+Perspective	Persona
+Cleaning/ Maintenance staff	Perspectiva
+Persuade	Personal de limpieza
+Piece	Persuadir
+Pilot	Pieza
+Kitchen helper	Piloto
+Pioneer	Pinche de cocina
+Marketing plan/ strategy	Pionero
+Economic plan	Plan de marketing
+Business planning	Plan económico
+Strategic planning	Planificación comercial
+Tourism planning	Planificación estratégica
+Parking space	Planificación turística
+Full employment	Plaza de garaje
+Population	Pleno empleo
+Poverty	Población
+Purchasing power	Pobreza
+Executive power	Poder adquisitivo
+Judiciary	Poder ejecutivo
+legislature	Poder judicial
+Policy	Poder legislativo
+Community policy	Política
+Qualitative policy	Política comunitaria
+Quantitative policy	Política cualitativa
+Policy of reform	Política cuantitativa
+Incomes policy	Política de reformas
+Economic policy	Política de rentas
+Fiscal policy	Política económica
+Monetary policy	Política fiscal
+Policy of tying	Política monetaria
+Instrumental policies	Políticas de oferta
+Sectoral policies	Políticas instrumentales
+Percentage	Políticas sectoriales
+Inn	Porcentaje
+Positioning	Posada
+Market positioning	Posicionamiento
+Traineeship	Posicionamiento en el mercado
+Sports practices	Prácticas
+Price	Prácticas deportivas
+Price skimming	Precio
+Break-even price	Precio descremado o desnatación
+Penetration pricing	Precio de equilibrio
+Reference price	Precio de penetración
+Psychological price	Precio de referencia
+Segmented prices	Precio psicológico
+Consumer preferences	Precios segmentados
+Press	Preferencias del consumidor
+Concern	Prensa
+Provision of public services	Preocupación
+Forecast	Prestación de servicio
+Privatization	Previsión
+Problem	Privatización
+Procession	Problema
+Process	Procesión
+Production	Proceso
+Hotel production	Producción
+Productivity	Producción hotelera
+Local product	Productividad
+Gross domestic product (GDP)	Producto autóctono
+Gross national product (GNP)	Producto Interior Bruto
+Tourist product	Producto Nacional Bruto
+Producers	Producto turístico
+Profession	Productores
+Economic programme	Profesión
+Progress	Programa económico
+Promotion	Progreso
+Sales promotion	Promoción
+Private property	Promoción de ventas
+Production factors’ owners	Propiedad privada
+Tip	Propietarios de los factores de producción
+Protectionism	Propina
+Supplier	Proteccionismo
+Project	Proveedor
+Advrtising	Proyecto
+Comparative advertising	Publicidad
+Deceitful advertising	Publicidad comparativa
+Inverted publicity	Publicidad engañosa
+Promotion	Publicidad invertida
+Target group	Publicity
+Stand/ Post	Público objetivo
+Contact point	Puestos
+Weakness	Punto de contacto
+Strength	Puntos débiles
+Complaint	Puntos fuertes
+Complaint	Queja
+Cheese	Querella
+Biweekly	Queso
+Kiosk	Quincenal
+Take away / Remove	Quiosco de prensa
+Slow down	Quitar
+Branch	Ralentizar
+Trace / Track	Rama
+Ratio	Rastrear
+Takings	Ratio
+Reception desk	Recaudación
+Receptionist	Recepción
+Recession	Recepcionista
+Recommendation	Recesión
+Souvenir	Recomendación
+Economic recovery	Recuerdo
+Resource	Recuperación económica
+Tourist resource	Recurso
+Communication network	Recurso turístico
+Distribution network	Red de comunicación
+Social network	Redes de distribución
+Reduce	Redes sociales
+Redundency	Reducir
+Refund	Redundancia
+Reform	Reembolsar
+Meal plan	Reforma
+Discretional system	Régimen de comidas
+Special regime	Régimen discrecional
+Regular regime	Régimen especial
+Regional	Régimen regular
+Register	Regional
+Regular	Registro
+Regulation	Regular
+Ratio/Relation	Regulación
+Quality-price ratio	Relación
+Aid relationships	Relación calidad/precio
+Collaborative relationships	Relaciones de ayuda
+Cooperative relationships	Relaciones de colaboración
+Financing relationships	Relaciones de cooperación
+Planning relationships	Relaciones de financiación
+Public relations	Relaciones de planificación
+International tourism relations	Relaciones públicas
+Relief	Relaciones turísticas internacionales
+Efficiency factor	Relieve
+Income/Rent	Rendimiento
+Disposable income	Renta
+Profitability	Renta disponible
+Distribute	Rentabilidad
+Repetition	Repartir
+News report	Repetición
+Represent	Reportaje
+Hotel representative	Representar
+Reputation	Representante de hotel
+Point out/ Highlight	Reputación
+Reservation	Resaltar
+Resident	Reserva
+Resort	Residente
+Restaurant	Resort
+Summary	Restaurante
+Selective retention	Resumen
+Challenge	Retención selectiva
+Delay	Reto
+Retransmission	Retraso
+Reunion	Retransmisión
+Revaluation	Reunión
+Review	Revaluación
+Magazine	Revisar
+Risk	Revista
+Rigid	Riesgo
+Wealth	Rígido
+Rhythm	Riqueza
+Rivalry	Ritmo
+Role	Rivalidad
+Stock rotations	Rol
+Spanish Radio and Television (RTVE)	Rotación de existencias
+Press conference	RTVE Radiotelevisión Española
+Noise	Rueda de prensa
+Rumour	Ruido
+Rupture	Rumor
+Rural	Ruptura
+Tourist route	Rústico
+Minimum wage	Ruta turística
+Balance	Salario mínimo
+Negative balance	Saldo
+Net balance	Saldo negativo
+Neutral balance	Saldo neto
+Positive balance	Saldo neutro
+Output/ Deparchure (means of	Saldo positivo
+transport)	Salida
+Health	Salud
+Health	Sanidad
+Satisfaction	Satisfacción
+Saturation	Saturación
+Secretariat	Secretaría
+Sector	Sector
+Market segmentation	Segmentación de mercados
+Market segment	Segmento de mercado
+Follow-up	Seguimiento
+Safety/Security	Seguridad
+Protection of civil and political rights	Seguridad cívica y política
+Tourist insurance	Seguros turísticos o de viajes
+Weekly	Semanal
+Easter	Semana Santa
+Sensibility	Sensibilidad
+Tourist signage	Señalización turística
+Customer service	Servicio al cliente
+Accommodation service	Servicio de alojamiento
+Service of animation	Servicio de animación y espectáculos
+Information service	Servicio de información
+Intermediation service	Servicio de intermediación
+Housekeeping	Servicio de pisos
+Catering services	Servicio de restauración
+Transport service	Servicio de transporte
+Air transport service	Servicio de transporte aéreo
+Shipping service	Servicio de transporte marítimo
+Land transport service	Servicio de transporte terrestre
+Services	Servicios
+Bank services	Servicios bancarios
+Basic services	Servicios básicos
+Cumplimentary services	Servicios complementarios
+Servuction	Servucción
+Trading system	Sistema de comercialización
+Franchising system	Sistema de franquicia
+Marketing information system	Sistema de información de marketing
+Fixed exchange rates system	Sistema de tipo de cambio fijo
+Flexible exchange rates system	Sistema de tipo de cambio flexible
+Economic system	Sistema económico
+Market economic system	Sistema económico de mercado
+Mixed economic system	Sistema económico mixto
+Planned economy	Sistema económico planificado
+Financial system	Sistema financiero
+Global Distribution System (GDS)	Sistemas globales de distribución (GDS)
+Reseration Information System	Sistemas informatizados de reservas (CRS)
+Purchase situation	Situación de compra
+Market situation	Situación del mercado
+Welfare society	Sociedad del bienestar
+Sun	Sol
+Sun and sand	Sol y playa
+Advertising vehicle	Soporte publicitario
+Sustainability	Sostenibilidad
+Sustainbale	Sostenible
+Spam	Spam
+Subcultures	Subculturas
+Suite	Suite
+Surplus	Superávit
+Supervisor	Supervisor
+Size	Tamaño
+Tangible	Tangible
+Tapa	Tapa
+Tapeo	Tapeo
+Tariff	Tarifa
+Credit card	Tarjeta de crédito
+Unemployment rate	Tasa de desempleo
+Exchange rate	Tasa de variación
+Taxonomy	Taxonomía
+Projective techniques	Técnicas proyectivas
+Information and communications	Tecnologías de la Información y la
+technology	Comunicación (TICs)
+Telemarketing	Telemarketing
+Theme	Tema
+High season	Temporada alta
+Low season	Temporada baja
+Mid season	Temporada media
+Tendency	Tendencia
+Third age	Tercera edad
+Territory	Territorio
+Thesis	Tesis
+Concept testing	Test de concepto
+Market testing	Test de mercado
+Texture	Textura
+Timeshare	Tiempo compartido
+Leisure	Tiempo libre
+Shop	Tienda
+Ground	Tierra
+Exchange rate	Tipo de cambio
+Interest rate	Tipo de interés
+Ownership	Titularidad
+All inclusive	Todo incluido
+Work	Trabajo
+Passenger flow	Tráfico de pasajeros
+Calm	Tranquilidad
+Transaction	Transacción
+Transition	Transición
+Transfer of ownership	Transmisión de propiedad
+Transarency	Transparencia
+Transport	Transporte
+Railway transport	Transporte ferroviario
+Maritime transport	Transporte marítimo
+Cross-cutting	Transversal
+Background	Trasfondo
+Transfer	Traslado
+Reserves treatment	Tratamiento de las reservas
+Train	Tren
+Touristique train	Tren turístico
+Tipical	Tríptico
+Banal	Trivial
+Barter	Trueque
+Shady	Turbio
+Accessible tourism	Turismo accesible
+Cultural tourism	Turismo cultural
+Adventure tourism	Turismo de aventura
+Business tourism	Turismo de congresos
+Elite tourism	Turismo de élite
+Sun, sea and sand tourism	Turismo de litoral
+Mass tourism	Turismo de masas
+Domestic tourism	Turismo doméstico
+Outbound tourism	Turismo emisor
+Special tourism	Turismo específico
+Individual tourism	Turismo individual
+Internal tourism	Turismo interior
+International tourism	Turismo internacional
+Itinerant tourism	Turismo itinerante
+Nacional tourism	Turismo nacional
+Inbound tourism	Turismo receptor
+Religious tourism	Turismo religioso
+Residental tourism	Turismo residencial
+Responsable tourism	Turismo responsable
+Rural tourism	Turismo rural
+Social tourism	Turismo social
+Sustainable tourism	Turismo sostenible
+Urban tourism	Turismo urbano
+Tourist	Turista
+International tourist	Turista internacional
+Location	Ubicación
+Last minute	Última hora
+Treshold	Umbral (de rentabilidad)
+Unique	Único
+Basic production unit	Unidad básica de producción
+Customs union	Unión aduanera
+Economic and Monetary Union	Unión económica y monetaria
+European union	Unión Europea (UE)
+Unitary	Unitaria
+Universe	Universo
+Use	Uso
+Utility	Utilidad
+Holidays	Vacaciones
+Gap	Vacío
+Dishes	Vajilla
+Voucher	Vale
+Validity	Validez
+Bilboard	Valla publicitaria
+Value added	Valor añadido
+Value	Valores
+Vanguard	Vanguardia
+Variable	Variable
+Variety	Variedad
+Speed, velocity	Velocidad
+Salesperson	Vendedor
+Cross selling	Venta cruzada
+Retail	Venta detallista
+Wholesale	Venta mayorista
+Comparative advantage	Ventaja comparativa
+Competitive advantage	Ventaja competitiva
+Advantage	Ventajas
+Operative advantage	Ventaja operativa
+Technological advantage	Ventaja tecnológica
+Credibility	Verosimilitud
+Sells	Ventas
+Version	Versión
+Portrait	Vertical
+Vertex	Vértice
+Tourist package	Viaje hecho a medida
+Familirization trips	Viaje de familiarización
+Incentive trips	Viaje de incentivo
+Life cycle of a product	Vida de un producto
+Video	Vídeo
+Virtual	Virtual
+Visitor	Visitante
+Visit	Visita
+Give an approval	Visto bueno
+Attractive	Vistoso
+Housing	Vivienda
+Volume	Volumen
+Voice	Voz
+Charter	Vuelos chárter
+Return	Vuelta
+Ditch	Zanja
+Zone	Zona
+Capsize	Zozobra

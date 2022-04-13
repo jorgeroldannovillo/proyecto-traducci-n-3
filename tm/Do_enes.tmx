@@ -1,0 +1,1238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN"/>
+  <body>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Do<ph x="0">&lt;t0/&gt;</ph>[<ph x="1">&lt;t1/&gt;</ph>edit<ph x="2">&lt;t2/&gt;</ph>][<ph x="3">&lt;t3/&gt;</ph>add listing<ph x="4">&lt;t4/&gt;</ph>]</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Qué hacer<ph x="0">&lt;t0/&gt;</ph>[<ph x="1">&lt;t1/&gt;</ph>editar<ph x="2">&lt;t2/&gt;</ph>]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Golf<ph x="0">&lt;t0/&gt;</ph> - see the <ph x="1">&lt;t1/&gt;</ph>Golf in England<ph x="2">&lt;t2/&gt;</ph> article.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Golf</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Walking/hiking<ph x="0">&lt;t0/&gt;</ph> - England has many places for walking in the country, which may be called <ph x="1">&lt;t1/&gt;</ph>hillwalking<ph x="2">&lt;t2/&gt;</ph> or <ph x="3">&lt;t3/&gt;</ph>fellwalking<ph x="4">&lt;t4/&gt;</ph> in some areas.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Senderismo<ph x="0">&lt;t0/&gt;</ph> - Inglaterra cuenta con muchos lugares para pasear por el campo a los que se les llama <ph x="1">&lt;t1/&gt;</ph>hillwalking<ph x="2">&lt;t2/&gt;</ph> o <ph x="3">&lt;t3/&gt;</ph>fellwalking<ph x="4">&lt;t4/&gt;</ph> en algunas zonas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The <ph x="5">&lt;t5/&gt;</ph>Lake District<ph x="6">&lt;t6/&gt;</ph> and <ph x="7">&lt;t7/&gt;</ph>Peak District<ph x="8">&lt;t8/&gt;</ph> are some of the places for more serious walks - see also the itinerary <ph x="9">&lt;t9/&gt;</ph>Hikes in the Lake District<ph x="10">&lt;t10/&gt;</ph>.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>El parque nacional del Distrito de los Lagos y el Distrito de los Picos (Peak District) son algunos de los lugares para hacer paseos más profesionales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The <ph x="11">&lt;t11/&gt;</ph>Pennine Way<ph x="12">&lt;t12/&gt;</ph> (463km) and <ph x="13">&lt;t13/&gt;</ph>Coast To Coast Walk<ph x="14">&lt;t14/&gt;</ph>(309km) are the best-known long-distance walks.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>El Pennine Way (463km) y el Coast to Coast Walk (camino de costa) (309km) son los dos paseos de larga distancia más conocidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>There are <ph x="15">&lt;t15/&gt;</ph>public footpaths<ph x="16">&lt;t16/&gt;</ph> and public bridleways all over the country, and most areas of open land are now generally designated for unlimited access (more noticeably in upland areas).</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>También hay <ph x="5">&lt;t5/&gt;</ph>caminos públicos<ph x="6">&lt;t6/&gt;</ph> y caminos públicos de herradura (para caballos) por todo el país, y la mayoría de zonas de terrenos, en general, se han designado como zonas de acceso ilimitado (esto es más perceptible en las zonas de montaña).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>People have the right to walk along these and local councils are obliged to maintain records of the routes and keep access open, but do not maintain the paths.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>La gente tiene el derecho de caminar a lo largo de estos caminos y los ayuntamientos están obligados a mantener un registro de las rutas así como a mantener el acceso abierto, pero no se encargan de su mantenimiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Paths are usually signposted where they meet a road, but may not be marked across fields.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>En general, los caminos están señalizados cuando éstos están cerca de la carretera, pero no se puede señalizar en las zonas de campo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The paths are shown on the Ordnance Survey Explorer (1:25000) and Landranger (1:50000) maps.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Las rutas de acceso pueden verse en los mapas de la Ordenance Survey Explorer (la agencia nacional de mapeado de Gran Bretaña) (1:25000) y de la Landranger (otra agencia de mapeado).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Enquire locally for details of the best walks, and what kit (boots, waterproofs, etc.) you will need.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Para saber más detalles sobre los mejores caminos y el equipamiento que necesitarás llevar (botas, impermeables, etc.), pregunta a los ciudadanos de la zona.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Beaches<ph x="0">&lt;t0/&gt;</ph> </seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Playas<ph x="0">&lt;t0/&gt;</ph>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Cornwall and Devon have some spectacular natural beaches that would rival those of Australia and California, although they are often much colder.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Cornualles y Devon tienen unas espectaculares playas naturales que pueden competir con las de Australia y California, aunque a menudo son mucho más frías.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Eat<ph x="0">&lt;t0/&gt;</ph>[<ph x="1">&lt;t1/&gt;</ph>edit<ph x="2">&lt;t2/&gt;</ph>][<ph x="3">&lt;t3/&gt;</ph>add listing<ph x="4">&lt;t4/&gt;</ph>]</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Qué comer<ph x="0">&lt;t0/&gt;</ph>[<ph x="1">&lt;t1/&gt;</ph>editar<ph x="2">&lt;t2/&gt;</ph>]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>England has traditional dishes famous the world over from <ph x="0">&lt;t0/&gt;</ph>Beef Wellington<ph x="1">&lt;t1/&gt;</ph> and <ph x="2">&lt;t2/&gt;</ph>Steak and Kidney Pie<ph x="3">&lt;t3/&gt;</ph> to the humble <ph x="4">&lt;t4/&gt;</ph>sandwich<ph x="5">&lt;t5/&gt;</ph>.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Inglaterra cuenta con platos tradicionales famosos en todo el mundo, desde el <ph x="0">&lt;t0/&gt;</ph>Buey Wellington<ph x="1">&lt;t1/&gt;</ph> y el <ph x="2">&lt;t2/&gt;</ph>Steak and Kidney Pie<ph x="3">&lt;t3/&gt;</ph> hasta los humildes <ph x="4">&lt;t4/&gt;</ph>sándwiches<ph x="5">&lt;t5/&gt;</ph>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>However, a modern English meal is just as likely to be Lasagne or Chicken Tikka Masala, with the traditional Italian and Indian meals taking on a decidely English flavour.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Sin embargo, la lasaña o el pollo Tikka Masala pueden ser también comidas inglesas modernas, además de las comidas italianas e indias tradicionales que adoptan un sabor totalmente inglés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The English are great adopters of other countries' cuisines.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>A lo largo de los años, los ingleses han incorporado la cocina de otros países.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>There are many low-quality establishments and mediocre chain restaurants, and the motorway services can often still manage to produce food that is barely edible,</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Hay muchos establecimientos de baja calidad y cadenas de restaurantes mediocres, y las áreas de servicio de las autopistas todavía consiguen vender comida apenas comestible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>however, you can generally expect pubs and restaurants to provide interesting and well-presented meals.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Sin embargo, generalmente se puede esperar que en los <ph x="6">&lt;t6/&gt;</ph>pubs<ph x="7">&lt;t7/&gt;</ph> y en los restaurantes se sirvan comidas apetitosas y bien presentadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>"A meal out" is the usual way to celebrate a special family event, and people expect the meal to live up to the occasion.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Un "meal out" es la forma habitual de celebrar un evento especial en familia, y la gente espera que la comida esté a la altura de la ocasión.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Cooking programmes are now among the most popular on the television, supermarkets have turned many previously unknown foods into everyday items, and Farm Shops and Farmers' Markets have surprised all the commentators by becoming extremely popular weekend "leisure" destinations where people can buy excellent English meat, fruit, and vegetables.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Los programas de cocina se encuentran ahora entre lo más visto de la televisión. Los supermercados han convertido muchos alimentos anteriormente desconocidos en productos de uso diario. Las Farm Shops (tiendas que venden productos directamente provenientes de la granja) y los Farmer's Market (mercados al aire libre donde los agricultores venden directamente al público) han sorprendido a todos los medios al haberse convertido en destinos de ocio muy populares para el fin de semana, donde la gente puede comprar carne, fruta y verdura locales de calidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Typical/traditional English food:</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Comida típica/tradicional inglesa:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Fish and chips<ph x="0">&lt;t0/&gt;</ph> — deep-fried, battered fish (usually cod or haddock) with chips (french fries in America), best from specialist fish and chip shops (very different article from "fish and chips" on a general restaurant or pub menu).</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Fish and chips<ph x="0">&lt;t0/&gt;</ph> — pescado frito empanado (generalmente bacalao o eglefino) con patatas fritas. Donde mejor se sirve es en los establecimientos especializados en "fish and chips" (muy diferente del "fish and chips" que se sirve en los restaurantes comunes o en los bares).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Available throughout the <ph x="1">&lt;t1/&gt;</ph>UK<ph x="2">&lt;t2/&gt;</ph> (see that article for more information on finding perfect fish and chips).</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Este plato está disponible en todo el <ph x="1">&lt;t1/&gt;</ph>Reino Unido<ph x="2">&lt;t2/&gt;</ph> (véase este artículo para más información sobre cómo encontrar el perfecto <ph x="3">&lt;t3/&gt;</ph>fish and chips<ph x="4">&lt;t4/&gt;</ph>).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Pies<ph x="0">&lt;t0/&gt;</ph> - The Pie is a central part of English Cooking.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Coming with many different fillings, Steak &amp; Kidney, Chicken &amp; Ham, being two popular options of many.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Can be served made with either Puff or Shortcrust pastry and eaten Hot of Cold.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Roast dinner<ph x="0">&lt;t0/&gt;</ph> (also known as the "Sunday roast" due to the day it is traditionally consumed on) is available between lunchtime and early evening in virtually any English pub serving food.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Roast dinner<ph x="0">&lt;t0/&gt;</ph> — (también conocido como el "Sunday roast", asado de domingo, por el día de la semana en que tradicionalmente se consume) está disponible entre la hora <ph x="1">&lt;t1/&gt;</ph>del almuerzo y la media tarde en, prácticamente, cualquier bar inglés que sirva comida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Quality will vary greatly depending on how freshly cooked the food is (home cooked is invariably better).</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>La calidad de este plato variará en gran medida dependiendo de si está recién hecho o no (la comida casera es siempre mejor).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Yorkshire Pudding<ph x="0">&lt;t0/&gt;</ph> — a batter pudding served with a roast (usually beef); originally used instead of a plate and eaten with the meal.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Yorkshire Pudding<ph x="0">&lt;t0/&gt;</ph> — un pudín empanado servido con carne asada (generalmente carne de vaca); originalmente servido en lugar de un plato y digerido junto a la comida principal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Giant version often <ph x="1">&lt;t1/&gt;</ph>appears on (not very refined) pub menus as a main meal item, with a "filling" (<ph x="2">&lt;t2/&gt;</ph>Giant Yorkshire Pudding filled with beef stew<ph x="3">&lt;t3/&gt;</ph>).</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Su versión gigante se puede encontrar a menudo en los (no muy refinados) menús de los bares, como una parte principal de la comida, con un "relleno" ("Yorkshire Pudding gigante relleno de estofado de carne").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Toad in the Hole<ph x="0">&lt;t0/&gt;</ph> — sausages in Yorkshire pudding batter</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Toad in the Hole<ph x="0">&lt;t0/&gt;</ph> — salchichas rebozadas en el pudin tradicional de Yorkshire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Steak and Kidney Pie<ph x="0">&lt;t0/&gt;</ph> — a suet pudding made with beef steak and kidneys</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Steak and Kidney Pie<ph x="0">&lt;t0/&gt;</ph> — pudín a base de sebo hecho con riñón y filete de carne de vaca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Lancashire Hotpot<ph x="0">&lt;t0/&gt;</ph> — a hearty vegetable and meat stew from Lancashire</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Lancashire Hotpot<ph x="0">&lt;t0/&gt;</ph> — estofado saludable a base de verduras y carne de Lancashire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Cornish Pasty<ph x="0">&lt;t0/&gt;</ph> (and other forms of meat pie around the country) — beef and vegetables in a pastry case</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Cornish Pasty<ph x="0">&lt;t0/&gt;</ph> — (y otras formas de pastel de carne del país) ternera y verduras envueltas en masa de hojaldre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Full English Breakfast<ph x="0">&lt;t0/&gt;</ph> — (often abbreviated: do not be alarmed if your server at the hotel breakfast table asks you "Do you want the Full English?")</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Desayuno completo inglés<ph x="0">&lt;t0/&gt;</ph> — (a menudo abreviado a: "no te alarmes si el camarero del hotel te pregunta durante el desayuno «¿Quieres el inglés completo?»).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>At its "fullest", it might consist of fried bacon, fried eggs, fried sausages, fried bread, fried black pudding (blood sausage), mushrooms, scrambled eggs, baked beans in tomato sauce, and toast and butter - "washed down" by a large amount of hot strong tea or coffee with milk.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>En su versión "más completa", puede consistir en bacón frito, huevos fritos, salchichas fritas, pan frito, pudín negro frito, setas, huevos revueltos, judías al horno en salsa de tomate y pan tostado con mantequilla - todo esto "bañado" con una gran cantidad de fuerte té caliente o café con leche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>An Americanised version is now emerging, with hash browns instead of fried bread.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Hoy en día, está emergiendo una nueva versión americanizada de este desayuno, que sustituye el pan frito por las croquetas de patata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Served in less refined versions in truckers' stops, and posher versions in hotels (where there will often be a buffet of these items to "help yourself" from).</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Sus versiones menos refinadas se sirven en las áreas de servicio para camioneros, y las más elegantes en los hoteles (donde a menudo habrá un bufet de autoservicio con todos estos alimentos).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>It is sometimes said that this meal is only a legend foisted on tourists, because the English are now too busy for breakfast.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>A veces se dice que esta comida es sólo una leyenda impuesta a los turistas, ya que actualmente los ingleses están demasiado ocupados para preparar el desayuno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Typically, however, the English perceive the 'fry-up' (as it is known) as a suitable meal to consume when hungover after a night of drinking or as a weekend treat.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Sin embargo, normalmente, los ingleses conciben el 'fry-up' (como se denomina también al desayuno completo) como una comida apropiada para los días de resaca o como premio de fin de semana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Any inexpensive café (of the type with day-glo price stickers in the window, and whose name is pronounced "caff" in northern England) will have "all-day breakfast" on the menu (for the finest examples, look for the EBCB website). The Full English Breakfast is often immitated in the neighbouring regions of Scotland, Wales &amp; Ireland. Ploughman's Lunch<ph x="0">&lt;t0/&gt;</ph> — Typical in the West of England. A cold lunch consisting of cheese, chutney and bread. <ph x="1">&lt;t1/&gt;</ph>Additional ingredients include ham, apples and eggs.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Cualquier cafetería barata (del tipo de las que tienen carteles fluorescentes con los precios en la ventana, y cuyo nombre se pronuncia "caff" en el norte de Inglaterra) tendrá este desayuno durante todo el día en el menú (para ejemplos más exactos, busca la web de EBCB).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Pubs are a good place to get reasonably priced food, though most stop serving food at around 9-9:30PM. Others may stop serving food between lunch and dinner.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Los bares son un buen lugar para comer a precios razonables, aunque la mayoría deja de servir comida alrededor de las 21-21:30h.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Pub food has become quite sophisticated in recent years and as well as serving the more traditional hearty English fare, more exotic dishes are now prepared in the majority of the larger pubs and specialist "gastropubs".</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>La comida de los bares se ha vuelto muy sofisticada en los últimos años y, además de servir la comida inglesa más tradicional, ahora también se preparan platos más exóticos en la mayoría de los <ph x="0">&lt;t0/&gt;</ph>pubs<ph x="1">&lt;t1/&gt;</ph> más grandes y los "gastropubs" especializados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>English food has recently undergone a revolution with many larger cities having award-winning restaurants run by the many 'famous' TV chefs who have now become part of the English obsession with food.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>La gastronomía inglesa ha sido recientemente objeto de una revolución en la que se ha premiado a muchos restaurantes de ciudades grandes dirigidos por muchos chefs 'famosos' de televisión que ahora forman parte de la obsesión inglesa por la comida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Eating out at a high-quality restaurant can be an expensive experience: at the very top end (Michelin Star level) expect to pay £100 per head including wine.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Salir a comer a un restaurante de alta calidad puede ser una experiencia costosa: en el nivel superior de estrellas de Michelín, no esperes pagar menos de 100£ por cabeza, incluyendo el vino.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>A decent three-course meal out at a respectable restaurant will normally cost around £30-£40 per head including wine.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Una comida decente de tres platos en un restaurante respetable normalmente cuesta alrededor entre 30-40£ por cabeza incluyendo el vino.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>If good quality and cheaply priced food is more your choice, try one of the many ethnic restaurants such as Chinese, Asian or Mexican.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Si prefieres la buena calidad y la comida a un precio más bajo, prueba uno de los muchos restaurantes étnicos como el chino, el asiático o el mexicano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Eating a curry or balti in an Indian restaurant is tantamount to an English obsession.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Comer curry o balti en un restaurante hindú es una obsesión inglesa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>These restaurants are found everywhere — even the larger villages have them — and usually the food is of good quality and they will cater for most tastes.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Estos restaurantes se encuentran en todas partes - incluso los pueblos más grandes cuentan con ellos - y por lo general la comida es de buena calidad y está dirigida a todos los gustos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>A good curry with side dishes can be had for around £10-15 per head, and some without liquor licences allow you to bring your own alcoholic beverages in.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Un buen curry con guarnición se puede comer por alrededor de 10 a 15£ por persona, y los establecimientos que no tienen licencia para vender alcohol te permiten traer tus propias bebidas alcohólicas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Eating a curry out is a social occasion and often you will find the men try to challenge their own taste buds to a duel, opting for spicier curries than they find comfortable!</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Salir a comer curry es un evento social y, con frecuencia, se pueden encontrar hombres que tratan de desafiar sus papilas gustativas, optando por un curry más picante del que pueden soportar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>In the towns and cities these restaurants are usually open late (especially on a Friday and Saturday night) to cater for people eating after the pubs have closed.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>En los pueblos y ciudades, estos restaurantes suelen estar abiertos hasta tarde (especialmente las noches de los viernes y los sábados) para atender a la gente que acude tras el cierre <ph x="0">&lt;t0/&gt;</ph>de los <ph x="1">&lt;t1/&gt;</ph>pubs<ph x="2">&lt;t2/&gt;</ph>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>It is at this time that they can get very busy and lively, so if you want to avoid the crowds then visit the restaurants before the local pubs shut.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Es en este momento cuando pueden llegar a estar muy concurridos y animados, así que si quieres evitar las multitudes es mejor que visites los restaurantes antes de que los <ph x="3">&lt;t3/&gt;</ph>pubs<ph x="4">&lt;t4/&gt;</ph> locales cierren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Unlike many other European countries, vegetarian (and to a lesser extent, vegan) food is widely available and appreciated in pubs and restaurants with several dishes usually appearing on the menu alongside the more normal meat and fish options.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>A diferencia de muchos otros países europeos, la comida vegetariana (y, en menor medida, vegana) está ampliamente valorada y se encuentra disponible en bares y restaurantes que disponen de varios platos que, por lo general, aparecen en el menú junto a las opciones de carne y pescado más habituales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>However, vegetarians may still find the variety of dishes rather limited - particularly in pubs, where certain dishes such as "veggie" lasagne or mushroom stroganoff feature all too regularly.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Sin embargo, para los vegetarianos esta variedad de platos puede ser todavía bastante limitada - particularmente en los bares, donde ciertos platos como la lasaña "veggie" (vegetariana) o la <ph x="0">&lt;t0/&gt;</ph>stroganoff<ph x="1">&lt;t1/&gt;</ph>de hongos aparecen con demasiada regularidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Tipping is generally expected in restaurants unless a service charge has been added to the bill, with a tip of around 10% considered to be the norm.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>En general, en los restaurantes se espera recibir propina, a menos que ya se haya añadido este cargo a la cuenta, que según la norma, suele ser del 10%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Tipping in bars and cafes is less common.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Dar propina en bares y cafeterías es menos común.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Drink<ph x="0">&lt;t0/&gt;</ph>[<ph x="1">&lt;t1/&gt;</ph>edit<ph x="2">&lt;t2/&gt;</ph>][<ph x="3">&lt;t3/&gt;</ph>add listing<ph x="4">&lt;t4/&gt;</ph>]</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Qué beber<ph x="0">&lt;t0/&gt;</ph>[<ph x="1">&lt;t1/&gt;</ph>editar<ph x="2">&lt;t2/&gt;</ph>]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Places<ph x="0">&lt;t0/&gt;</ph>[<ph x="1">&lt;t1/&gt;</ph>edit<ph x="2">&lt;t2/&gt;</ph>]</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Lugares<ph x="0">&lt;t0/&gt;</ph>[<ph x="1">&lt;t1/&gt;</ph>editar<ph x="2">&lt;t2/&gt;</ph>]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The traditional drinking establishment is the "pub" (short for "public house").</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>El establecimiento de bebidas tradicional es el <ph x="0">&lt;t0/&gt;</ph>pub<ph x="1">&lt;t1/&gt;</ph> (abreviatura de <ph x="2">&lt;t2/&gt;</ph>public house<ph x="3">&lt;t3/&gt;</ph>, que significa "casa pública").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg><ph x="0">&lt;t0/&gt;</ph>These are normally named after local landmarks or events, and most will have a heraldic (or pseudo-heraldic) symbol on the sign outside;</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>A éstos normalmente se les pone el nombre de algún evento o acontecimiento local, y la mayoría cuenta con un símbolo heráldico (o pseudo-heráldico) en el cartel de la entrada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>more recent establishments may poke fun of this tradition (e.g. "The Queen's Head" featuring a portrait of Freddie Mercury, lead singer for the rock band Queen).</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Los establecimientos más recientes, sin embargo, se burlan de esta tradición (por ejemplo, "The Queen's Head", con un retrato de Freddie Mercury, cantante principal de la banda de rock Queen).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>England seems to have an incredible number of pubs.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Inglaterra cuenta con un increíble número de <ph x="4">&lt;t4/&gt;</ph>pubs<ph x="5">&lt;t5/&gt;</ph>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>While in a city you are usually not more than a 5 min walk from any pub.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>En una ciudad, por lo general, nunca estarás a más de 5 minutos a pie de uno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The pub is an English institution, though a declining one.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>El <ph x="0">&lt;t0/&gt;</ph>pub<ph x="1">&lt;t1/&gt;</ph> es una institución inglesa, aunque una institución en decadencia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Tastes are changing, smoking has been banned inside pubs, beer is ever cheaper in supermarkets, drink-driving is taboo, and pub landlords are often squeezed by sharp practice by the big firms which supply beers, and which also own many pub buildings.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Los gustos están cambiando, se ha prohibido fumar dentro de los <ph x="2">&lt;t2/&gt;</ph>pubs<ph x="3">&lt;t3/&gt;</ph>, la cerveza es cada vez más barata en los supermercados, conducir bajo la influencia del alcohol está prohibido y los propietarios los de bares a menudo se ven presionados por la astuta labor de las grandes empresas que suministran cerveza y, que a su vez, son propietarias de muchos locales de <ph x="4">&lt;t4/&gt;</ph>pubs<ph x="5">&lt;t5/&gt;</ph>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>There are many different kinds of pub.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Hay muchos tipos diferentes de <ph x="0">&lt;t0/&gt;</ph>pubs<ph x="1">&lt;t1/&gt;</ph>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Some are traditional 'locals', and a real part of the community.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Algunos son "locales" tradicionales, y una parte real de la comunidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>In most neighbourhood pubs you will find all generations mingling together, which often gives patrons a feeling of community.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>En la mayoría de los <ph x="2">&lt;t2/&gt;</ph>pubs<ph x="3">&lt;t3/&gt;</ph> de barrio, se puede encontrar gente de todas las generaciones mezcladas, lo que a menudo proporciona a los clientes un cierto sentimiento de comunidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>It would not be uncommon to see three generations of one family congregating in a neighbourhood pub.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>No sería raro ver a tres generaciones de una misma familia congregándose en uno de estos <ph x="4">&lt;t4/&gt;</ph>pubs<ph x="5">&lt;t5/&gt;</ph>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Nevertheless, pubs can vary widely in character.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Sin embargo, el carácter de los <ph x="6">&lt;t6/&gt;</ph>pubs<ph x="7">&lt;t7/&gt;</ph> puede variar en gran medida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Depending on the area, you can find a warm and friendly welcome, or drunken youths spoiling for a fight.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Dependiendo de la zona, se puede encontrar tanto un ambiente cálido y acogedor como jóvenes borrachos con ganas de armar jaleo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>However, pubs are becoming more and more specialized.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Sin embargo, los bares se están especializando cada vez más.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>In city centres, many have been taken over by big chains; some are soulless, some are moderately pleasant.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>En los centros de las ciudades, muchos han sido adquiridos por grandes cadenas; en algunos el ambiente es monótono, en otros es moderadamente agradable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Some independent pubs have become wine bars or cocktail bars; perhaps the least pleasant are those pubs which pack in customers on their way to a nightclub, with loud music, no space, and super-cheap spirits to make sure their clients are as drunk as possible by 11pm.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Algunos <ph x="0">&lt;t0/&gt;</ph>pubs<ph x="1">&lt;t1/&gt;</ph> independientes se han convertido en bares especialistas en vino o en bares de copas. Quizá los menos agradables sean los bares que albergan de manera abarrotada a los clientes en su camino a la discoteca, con música fuerte, sin espacio y con bebidas súper baratas para asegurarse de que sus clientes están lo más borrachos posible sobre las 23:00h.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>However, many pubs are evolving in a more healthy direction.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Sin embargo, muchos <ph x="0">&lt;t0/&gt;</ph>pubs<ph x="1">&lt;t1/&gt;</ph> están evolucionando en una dirección más saludable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>There are now many pubs which pride themselves on serving 'real ales' - beer brewed on a smaller scale to traditional English methods and recipes.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>En la actualidad, hay muchos <ph x="2">&lt;t2/&gt;</ph>pubs<ph x="3">&lt;t3/&gt;</ph> que pueden presumir de servir 'real ales' - cerveza de barril tradicional, es decir, fabricada a menor escala siguiendo el método tradicional inglés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Any visiting beer lover should track these down.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Cualquier turista amante de la cerveza debe saber dónde encontrarla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Many pubs, both in the countryside and in cities, have moved towards serving good food.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Muchos <ph x="4">&lt;t4/&gt;</ph>pubs<ph x="5">&lt;t5/&gt;</ph>, tanto en el campo como en las ciudades, han ido mejorando su servicio y ofrecen ahora una comida de mayor calidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>And while most pubs will serve food, it's in these 'gastropubs' that you'll find well-prepared food, generally a mixture of traditional English dishes and international influences.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Y, mientras que la mayoría de los <ph x="6">&lt;t6/&gt;</ph>pubs<ph x="7">&lt;t7/&gt;</ph> sirven comida, es en estos "gastropubs<ph x="8">&lt;t8/&gt;</ph> donde encontrarás comida bien preparada, que consistirá generalmente en una mezcla de platos tradicionales ingleses con influencias internacionales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The prices will tend to match.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Los precios tienden a ser los mismos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Pubs have a little of their own etiquette.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Todo <ph x="0">&lt;t0/&gt;</ph>pub<ph x="1">&lt;t1/&gt;</ph> tiene un poco de su propia identidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>At any proper pub, service is always at the bar.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>En cualquier buen <ph x="2">&lt;t2/&gt;</ph>pub<ph x="3">&lt;t3/&gt;</ph>, el servicio siempre se encontrará en la barra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>It's polite to strike up a conversation with anyone else who is standing or sitting at the bar.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Es de buena educación entablar una conversación con las personas que estén de pie o sentadas en ésta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>And if someone buys you a drink, you will be expected to 'stand your round' later on, buying for whoever you're drinking with.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Y si alguien te invita a una copa, esperarán que contestes con un 'stand your round' más adelante, es decir, tendrás que invitar a las personas con las que estés bebiendo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>If you're planning to leave promptly, or don't have enough money, then you should politely decline the offer.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Si tienes pensado irte pronto o no tienes suficiente dinero, debes rechazar educadamente la oferta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Although traditional pub licensing laws severely restricted their hours of operation, laws enacted in 2005 allow pubs to request more flexible opening hours.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Aunque las leyes tradicionales de concesión de licencias de <ph x="0">&lt;t0/&gt;</ph>pub<ph x="1">&lt;t1/&gt;</ph>restringían severamente sus horas de apertura y cierre, las leyes promulgadas en 2005 permiten a los <ph x="2">&lt;t2/&gt;</ph>pubs<ph x="3">&lt;t3/&gt;</ph> solicitar horarios más flexibles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Few pubs have requested anywhere near the "24 hour drinking" that is theoretically possible:</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Pocos <ph x="4">&lt;t4/&gt;</ph>pubs<ph x="5">&lt;t5/&gt;</ph> han solicitado algo parecido al "24 hour drinking" (beber durante 24 horas), lo cual es teóricamente posible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>as a general rule more traditional pubs will close at 11PM still.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Sin embargo, como regla general, los <ph x="6">&lt;t6/&gt;</ph>pubs<ph x="7">&lt;t7/&gt;</ph> más tradicionales suelen cerrar todavía a las 23:00h.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Some of the more trendy bars will close nearer to 1AM, filling a niche in the market between traditional pub and nightclub.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Algunos de los bares más de moda cierran sobre la 1:00h, creando un nicho en el mercado entre el <ph x="8">&lt;t8/&gt;</ph>pub<ph x="9">&lt;t9/&gt;</ph> tradicional y la discoteca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>However in most cities and many towns, centrally located pubs and bars will stay open anytime from 2AM till 6AM, especially on Friday and Saturday nights.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Sin embargo en la mayoría de las ciudades y muchos pueblos, los <ph x="10">&lt;t10/&gt;</ph>pubs<ph x="11">&lt;t11/&gt;</ph> del centro y los bares permanecen abiertos desde las 2:00h hasta las 6:00h, especialmente los viernes y sábados por la noche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Also, at public holiday times, many pubs extend their closing times — especially New Year's Eve.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>A su vez, en los días festivos, muchos bares amplían sus horarios de cierre - sobre todo en la víspera de Año Nuevo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Alcoholic drinks<ph x="0">&lt;t0/&gt;</ph>[<ph x="1">&lt;t1/&gt;</ph>edit<ph x="2">&lt;t2/&gt;</ph>]</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Bebidas alcohólicas<ph x="0">&lt;t0/&gt;</ph>[<ph x="1">&lt;t1/&gt;</ph>editar<ph x="2">&lt;t2/&gt;</ph>]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>England is home to a huge variety of alcoholic drinks.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Inglaterra es el hogar de una gran variedad de bebidas alcohólicas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>As well as wines and spirits (mainly imported, but <ph x="0">&lt;t0/&gt;</ph>some<ph x="1">&lt;t1/&gt;</ph> local), all pubs sell several beers and at least one cider.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Además de los vinos y licores (principalmente importados, pero "algunos" locales), todos los <ph x="0">&lt;t0/&gt;</ph>pubs<ph x="1">&lt;t1/&gt;</ph> sirven varias cervezas y, al menos, un tipo de sidra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The main types of beer you will come across are <ph x="2">&lt;t2/&gt;</ph>lager<ph x="3">&lt;t3/&gt;</ph> , <ph x="4">&lt;t4/&gt;</ph>bitter<ph x="5">&lt;t5/&gt;</ph> and <ph x="6">&lt;t6/&gt;</ph>stout<ph x="7">&lt;t7/&gt;</ph>. </seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Los principales tipos de cerveza que se encuentran son <ph x="2">&lt;t2/&gt;</ph>lager<ph x="3">&lt;t3/&gt;</ph>(rubia),<ph x="4">&lt;t4/&gt;</ph>bitter<ph x="5">&lt;t5/&gt;</ph> (amarga) y <ph x="6">&lt;t6/&gt;</ph>stout<ph x="7">&lt;t7/&gt;</ph> (negra).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg><ph x="8">&lt;t8/&gt;</ph>Real Ale<ph x="9">&lt;t9/&gt;</ph> is not a separate classification, it refers to beer made and served by traditional methods.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>La <ph x="8">&lt;t8/&gt;</ph>Real Ale<ph x="9">&lt;t9/&gt;</ph> no está clasificada aparte, se refiere a la cerveza elaborada y servida siguiendo los métodos tradicionales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Lager<ph x="0">&lt;t0/&gt;</ph> — Predominantly the pilsner type: pale, fizzy and cold.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Lager<ph x="0">&lt;t0/&gt;</ph> — Predominantemente del tipo <ph x="1">&lt;t1/&gt;</ph>pilsner<ph x="2">&lt;t2/&gt;</ph>: pálida, con gas y fría.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Because of the popularity of this type of beer amongst the young, there are many mass-market national brands brewed in the UK (and widely advertised with "having fun" type ads) which may disappoint anyone wanting more than simply cold, fizzy, alcohol.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Debido a la popularidad de este tipo de cerveza entre los jóvenes, hay muchas marcas nacionales del mercado popular elaboradas en el Reino Unido (y ampliamente anunciadas con carteles del tipo "diviértete") que pueden decepcionar a todo aquél que quiera algo más que alcohol frío y con gas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Some national brands are much better, and often stronger, and may be sold in bottles as well as on draught.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Algunas de las marcas nacionales son mucho mejores, y con frecuencia más fuertes. La cerveza se puede vender en botellas, así como en barril.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Purists often prefer imported European-brewed lagers.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Los puristas prefieren a menudo la cerveza rubia importada que se elabora en Europa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Bitter<ph x="0">&lt;t0/&gt;</ph> — The most common example of the English type of beer technically called "ale" (see below).</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Bitter<ph x="0">&lt;t0/&gt;</ph> — El ejemplo más común del tipo de cerveza inglesa que técnicamente se llama "ale" (ver abajo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>They are typically darker than lagers - they are called bitter because they have more hops than mild (another less-common kind of ale).</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Por lo general es más oscura que la cerveza rubia - se llama "bitter" (amargo) porque contiene más lúpulo que la "mild" (otro tipo menos común de cerveza).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Again, there are well-advertised national brands for the mass market, usually less strong than lagers.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Una vez más, hay marcas nacionales que están bien anunciadas por los grandes mercados, por lo general menos fuertes que la "lager".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Most are now not "real ales": they are not matured in the barrel; they are often called "smooth" or "cream" (which means that they are infused with nitrogen to give a small-bubbled head) and are often served very cold from a small tap on a tall, illuminated stand.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Actualmente, la mayoría no son <ph x="1">&lt;t1/&gt;</ph>real ales<ph x="2">&lt;t2/&gt;</ph>: no se dejan madurar en el barril, se las suele calificar de "suaves" o de "crema" (lo que significa que se les suministra nitrógeno para que puedan tener algo de espuma) y a menudo se sirven muy frías desde un pequeño grifo situado en un soporte alto e iluminado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Stout<ph x="0">&lt;t0/&gt;</ph> — A dark, heavy, usually very bitter beer.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Stout<ph x="0">&lt;t0/&gt;</ph> — Cerveza oscura, fuerte y normalmente muy amarga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Originally called Porter,</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Originalmente denominada "Porter".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Arthur Guinness decided he could do better and made Guinness which he branded a Stout Porter.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Arthur Guinness decidió que podía elaborarla mejor y creó la Guinness, a la que nombró "Stout Porter".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Guinness is one world-famous Irish brand that is available almost everywhere in England, often in "normal" and "extra cold" versions.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Guinness es una marca irlandesa conocida mundialmente que se puede encontrar prácticamente en cualquier lugar de Inglaterra, a menudo en las versiones "extra fría" y "normal".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>All of the mass-market types above can be bought in cans - often with a "widget" that when the can is opened, forces nitrogen bubbles through the beer to simulate "draught" beer.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Todos los tipos de mercado popular mencionados anteriormente se pueden comprar en latas - a menudo con un "artilugio" que hace que, cuando se abre la lata, las burbujas de nitrógeno de la cerveza simulen que se trata de cerveza de barril.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Ale<ph x="0">&lt;t0/&gt;</ph> — This is not simply another word for "Bitter" or "Beer".</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Ale<ph x="0">&lt;t0/&gt;</ph> — Ésta no es simplemente otra palabra para referirnos a "bitter" o "cerveza".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Technically it simply means any beer other than lager (ie it is a beer brewed at cellar temperatures using floating yeast, ie bitters, milds and stouts).</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Técnicamente, se refiere simplemente a cualquier cerveza que no sea "lager" (es decir, se trata de una cerveza elaborada a temperatura de bodega utilizando levadura, como con las <ph x="1">&lt;t1/&gt;</ph>bitters<ph x="2">&lt;t2/&gt;</ph>, <ph x="3">&lt;t3/&gt;</ph>milds<ph x="4">&lt;t4/&gt;</ph> y <ph x="5">&lt;t5/&gt;</ph>stouts<ph x="6">&lt;t6/&gt;</ph>).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>However, these days "ale" is often used a little self-consciously, usually either as a "matey" word for any type of beer ("Anyone fancy a few ales?") or in a consciously "traditional" way ("Try a pint of good old English ale").</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Sin embargo, hoy en día la "ale" se utiliza a menudo un poco auto-conscientemente, ya sea como una palabra "afable" para cualquier tipo de cerveza ("¿Os apetecen unas <ph x="7">&lt;t7/&gt;</ph>ales<ph x="8">&lt;t8/&gt;</ph>?") o de una manera consciente y "tradicional" (<ph x="9">&lt;t9/&gt;</ph>Prueba una pinta de buen "ale" inglés<ph x="10">&lt;t10/&gt;</ph>).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>To ask for "A pint of ale, please." would sound like a line from a period film.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Pedir: "Una pinta de cerveza, por favor" sonaría a guión de una <ph x="11">&lt;t11/&gt;</ph>película de época.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>However "Real Ale" is an accepted term, so to ask "What real ales do you have on?" would be quite normal.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Sin embargo, "real Ale" es un término aceptado, así que preguntar "¿Qué "real ales" tenéis?" sería bastante normal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Real Ale<ph x="0">&lt;t0/&gt;</ph> — The Campaign for Real Ale (CAMRA) has been a very successful consumer campaign, its aims have been to ensure that mass-market beers do not completely force out beers made in the traditional way.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Real Ale<ph x="0">&lt;t0/&gt;</ph> — La Campaña por la Real Ale (CAMRA en sus siglas en inglés) ha sido una campaña muy exitosa que han llevado a cabo los consumidores y cuyo objetivo ha sido asegurar que las cervezas de los grandes mercados no causen la retirada total de las cervezas hechas de forma tradicional.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>CAMRA created the term "Real Ale" to summarise the type of beer they wanted to keep alive: it must be allowed to continue maturing after it leaves the brewery (ie not be pasteurised or filtered to remove living yeast; be stored and served without additional gas (ie does not have carbon dioxide or nitrogen forced into the beer); and be served at the appropriate temperature for the style: traditional ales are not generally served warm, as many people believe, but at the temperature of the 'cool' cellar they have been maturing in for several days (ideally, 8–12°C) .</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>CAMRA creó el término "Real Ale" para resumir el tipo de cerveza que querían mantener viva: se tiene que permitir que continúe madurando después de salir de la fábrica (es decir, no ser pasteurizadas o filtradas para eliminar la levadura viva), ser almacenada y servida sin gas añadido (es decir, que no contenga dióxido de carbono o nitrógeno) y a la temperatura adecuada para cada estilo: las cervezas tradicionales no se sirven generalmente calientes, como mucha gente cree, sino a la temperatura 'fresca' de la bodega en la que se ha ido madurando durante varios días (lo ideal es de 8 a 12°C).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Most real ales are served from the distinctive "handpumps" which allow a pint to be "pulled" from the cellar by several full-length strokes requiring visible effort on the part of the server.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>La mayoría de las <ph x="1">&lt;t1/&gt;</ph>real ales<ph x="2">&lt;t2/&gt;</ph> se sirven directamente desde las conocidas "handpumps" (bombas manuales) que permiten que una pinta pueda ser "extraída" desde la bodega mediante una serie de tirones manuales que requieren un esfuerzo visible por parte del camarero.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Most "real ales" served in ordinary pubs are bitters, but these come in a wide range of strengths, colours, and bitterness.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>La mayoría de las "real ales" que se sirven en bares normales son amargas, pero éstas vienen con una amplia variedad de intensidad, color y amargor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>A majority of pubs now serve at least one or two national brands of real ale, and perhaps one or even two local ones.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>La mayoría de los bares sirven ahora por lo menos una o dos marcas nacionales de <ph x="3">&lt;t3/&gt;</ph>real ale<ph x="4">&lt;t4/&gt;</ph>, y tal vez una o incluso dos marcas locales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>"Real ale pubs" — At a pub which especially caters to lovers of real ale, or at a beer festival, there will be more local brands (and "guests" from some distance away) and a wider range of bitters, and even a good choice of other types.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Real Ale Pubs<ph x="0">&lt;t0/&gt;</ph> — En un <ph x="1">&lt;t1/&gt;</ph>pub<ph x="2">&lt;t2/&gt;</ph> que atiende especialmente a los amantes de la auténtica cerveza, o incluso en un festival de la cerveza, habrá más variedad de marcas locales (y algunas "invitadas" de zonas más alejadas), así como una gama más amplia en el grado de amargor e incluso una buena selección de otros tipos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Expect to see summer ales, winter ales, exotic beers (containing ingredients such as heather, honey or ginger), light milds, dark milds, lagers, stouts and, increasingly, porters (like a stronger dark mild, or a lighter, sweeter stout).</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Prepárate para ver cervezas de verano, cervezas de invierno, cervezas exóticas (que contienen ingredientes como brezo, miel o jengibre), <ph x="3">&lt;t3/&gt;</ph>milds<ph x="4">&lt;t4/&gt;</ph> ligeros, <ph x="5">&lt;t5/&gt;</ph>milds<ph x="6">&lt;t6/&gt;</ph> oscuros, <ph x="7">&lt;t7/&gt;</ph>lagers<ph x="8">&lt;t8/&gt;</ph>, <ph x="9">&lt;t9/&gt;</ph>stouts<ph x="10">&lt;t10/&gt;</ph> y cada vez más <ph x="11">&lt;t11/&gt;</ph>porters<ph x="12">&lt;t12/&gt;</ph> (como un <ph x="13">&lt;t13/&gt;</ph>mild<ph x="14">&lt;t14/&gt;</ph> oscuro más fuerte o un <ph x="15">&lt;t15/&gt;</ph>stout<ph x="16">&lt;t16/&gt;</ph> más suave y dulce).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>These will be served from a long row of <ph x="0">&lt;t0/&gt;</ph>handpumps or (even more traditionally) straight from barrels sitting on the bar or (especially at beer festivals) in racks.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Éstas son servidas a partir de una larga hilera de bombas manuales o, de manera aún más tradicional, directamente de los barriles que se encuentran en el bar o (especialmente en los festivales de la cerveza) en los estantes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>There will also be a wide range of "bottle-conditioned" beers ("real ale in a bottle") usually either versions of English bitters, often called "pale ales", or very strong beers from France or Belgium.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>También hay una amplia variedad de cervezas en botella ("real ale in a bottle"), ya sea por lo general versiones inglesas de <ph x="17">&lt;t17/&gt;</ph>bitter<ph x="18">&lt;t18/&gt;</ph>, a menudo llamadas "pale ale" o cervezas muy fuertes procedentes de Francia o Bélgica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>There will also be several ciders and perries.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>También hay varias sidras y "perries" (sidra de pera).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Cider<ph x="0">&lt;t0/&gt;</ph> — In England this means an alcoholic drink made from apples (often much stronger than beer).</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Sidra<ph x="0">&lt;t0/&gt;</ph> — En Inglaterra es sinónimo de una bebida alcohólica hecha a partir de manzanas (a menudo mucho más fuerte que la cerveza).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>These are generally brewed in the West Country (Somerset, Devon &amp; Cornwall) but not exclusively so as Herefordshire is also another region famous for its cider.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Se elabora generalmente en la zona oeste (Somerset, Devon y Cornwall), pero no de forma exclusiva, ya que Herefordshire es también otra región famosa por su sidra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The more commercial brands of cider, served from pressurised kegs and so available at any pub, are clear, fizzy and cold , and quite strong (they are usually moderately or very sweet, so the high alcohol content may go unnoticed by a novice).</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Las marcas más comerciales de sidra, que se sirve a partir de barriles presurizados y accesibles en cualquier <ph x="1">&lt;t1/&gt;</ph>pub<ph x="2">&lt;t2/&gt;</ph>, son de un color claro, gaseosas, frías y bastante fuertes (por lo general son moderadamente dulces o muy dulces, por lo que el alto contenido de alcohol puede pasar desapercibido a un novato).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>A real ale pub will usually sell at least one "real", unpressurised, cider, perhaps from a barrel sitting on the bar.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Un <ph x="3">&lt;t3/&gt;</ph>pub<ph x="4">&lt;t4/&gt;</ph> de <ph x="5">&lt;t5/&gt;</ph>real ale<ph x="6">&lt;t6/&gt;</ph> suele vender por lo menos una sidra "real", sin presión, probablemente de un barril que se encuentre en la misma barra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>This may may be clear or slightly cloudy, but will be almost certainly be still, not too sweet, and very strong (7% alcohol is only average for this type of cider).</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Puede ser transparente o ligeramente turbia, pero casi con toda seguridad será muy fuerte y no demasiado dulce (el contenido medio de alcohol para este tipo de sidra es del 7%).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The most traditional cider is called <ph x="1">&lt;t1/&gt;</ph>Scrumpy<ph x="2">&lt;t2/&gt;</ph> and is usually very strong, very cloudy and possibly (but not always) rather sour.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>La sidra más tradicional se llama "'Scrumpy"' y es por lo general muy fuerte, muy turbia y posiblemente (pero no siempre) más bien amarga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Some commercial ciders have "scrumpy" in their name, but these are not <ph x="3">&lt;t3/&gt;</ph>quite<ph x="4">&lt;t4/&gt;</ph> the same as a gallon jug bought at the farmhouse door.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Algunas sidras comerciales llevan "scrumpy" como nombre, pero no son "exactamente" lo mismo que comprarle una jarra de 4 litros a un granjero en la puerta de su casa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Perry<ph x="0">&lt;t0/&gt;</ph> — Similar to cider but made from pears (is sometimes called <ph x="1">&lt;t1/&gt;</ph>pear cider<ph x="2">&lt;t2/&gt;</ph>, especially if imported).</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Perry<ph x="0">&lt;t0/&gt;</ph> — De manera similar a la sidra, pero hecha a partir de peras (a veces se le llama <ph x="1">&lt;t1/&gt;</ph>pear cider<ph x="2">&lt;t2/&gt;</ph>, sidra de pera, especialmente si es importada).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Farmhouse perry was always difficult to get hold of outside the West Country, but this is improving, and there will nearly always be some available at a beer festival.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Comprar <ph x="3">&lt;t3/&gt;</ph>perry<ph x="4">&lt;t4/&gt;</ph> directamente de la granja ha sido siempre difícil fuera de la zona oeste de Inglaterra, pero esto está mejorando, y hoy en día casi siempre habrá una cierta cantidad disponible en cualquier festival de cerveza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Keen perry-spotters might notice the sweetish "undercover" commercial versions : advertised nationwide with a "girls night out" theme and sold in wine-shaped bottles with "inexpensive white wine"-type labels bearing the legend "Perry" in small letters.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Los amantes de esta sidra pueden percibir el sabor dulzón "secreto" que añaden las versiones comerciales: se anuncian por todo el país con un eslogan del tipo "noche de chicas" y se venden en botellas con forma de botella de vino con etiquetas de "vino blanco barato" que llevan la inscripción "Perry" en letra pequeña.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Non-alcoholic drinks<ph x="0">&lt;t0/&gt;</ph>[<ph x="1">&lt;t1/&gt;</ph>edit<ph x="2">&lt;t2/&gt;</ph>]</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Bebidas no alcohólicas<ph x="0">&lt;t0/&gt;</ph>[<ph x="1">&lt;t1/&gt;</ph>editar<ph x="2">&lt;t2/&gt;</ph>]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Tea<ph x="0">&lt;t0/&gt;</ph> is widely drunk throughout the country, almost always hot, usually strong, usually with milk, and quite often with sugar.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>El <ph x="0">&lt;t0/&gt;</ph>té<ph x="1">&lt;t1/&gt;</ph> se bebe de manera habitual en todo el país, casi siempre caliente, por lo general fuerte o con leche, y muy a menudo con azúcar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>There are many popular brands (the most recognisable brands are PG Tips and Tetley).</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Hay muchas marcas populares (las más reconocidas son PG Tips y Tetley).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Tea is usually drunk at home or at work or to accompany breakfast in inexpensive restaurants (where it will usually arrive with milk in a separate jug), or with afternoon tea (scones, cream, jam, and cakes) at a "tea-room" (less-frequently seen these days, except in expensive hotels or in holiday areas).</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>El té se bebe normalmente en casa o en el trabajo o para acompañar el desayuno en restaurantes baratos (donde se suele servir junto a una jarra aparte con leche), o con el té de la tarde (bollos, crema, mermelada y pasteles) en un "salón de té" (menos frecuente hoy en día, excepto en hoteles elegantes o zonas de vacaciones).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>It is often the cheapest drink in coffee shops.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Suele ser la bebida más barata en las cafeterías.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Tea is often served in pubs and bars too.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>El té se sirve a menudo en <ph x="2">&lt;t2/&gt;</ph>pubs<ph x="3">&lt;t3/&gt;</ph> y bares.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Coffee<ph x="0">&lt;t0/&gt;</ph> is as popular as tea.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>El <ph x="0">&lt;t0/&gt;</ph>café<ph x="1">&lt;t1/&gt;</ph> es tan popular como el té.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Instant coffee (made with hot water, hot milk, or "half and half") is much used at home and work, and in inexpensive restaurants.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>El café instantáneo (preparado con agua caliente, leche caliente, o "mitad y mitad") se toma tanto en los hogares como en el trabajo y en restaurantes baratos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>If it is made with just hot water, then it is "black coffee"; with added cold milk it becomes "white coffee".</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Si se hace sólo con agua caliente, es "black coffee" (café solo); con leche fría añadida se convierte en "white coffee" (café con leche).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Percolators are little used, and machines with paper filters are less common than they once were: they often fill a restaurant with a coffee aroma, but a mediocre restaurant will often leave the made coffee heating for too long.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Las cafeteras no se usan demasiado, y las máquinas con filtros de papel son menos comunes de lo que una vez fueron: a menudo llenan un restaurante con el aroma a café, pero en un restaurante ordinario se suele dejar el café hecho hirviendo durante mucho tiempo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Therefore, at dinner parties or good restaurants, the "french press" (cafetiere) has become the standard way to serve "real" ("ground") coffee: the customer can leave the coffee infusing until it as as strong as they like, then press the filter down to stop the brew and restrain the grounds from getting into the cup.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Por lo tanto, en las cenas o en los buenos restaurantes, la "french press" o "cafetiere" se ha convertido en la forma estándar de servir café "real" ("molido"): el cliente puede dejar el café en infusión hasta que esté lo fuerte que quiera para, a continuación, presionar el filtro hacia abajo para detener la infusión e impedir que el café molido entre en el vaso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The drinker then adds their own milk (hot milk is often provided; cream less often) and sugar.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Luego añade su propia leche (a menudo se sirve leche caliente; o, con menos frecuencia, crema) y el azúcar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Seattle-style coffee bars serve the usual types of espresso-based coffees (but with a less-bewildering choice of combinations of coffee, milk, sugar, and flavourings).</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Los bares de café al estilo Seattle sirven los tipos habituales de café <ph x="2">&lt;t2/&gt;</ph>espresso<ph x="3">&lt;t3/&gt;</ph> (pero con una elección más normal de combinaciones de café, leche, azúcar y aromas).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Decaffeinated coffee is available, but not standard.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>El café descafeinado está disponible, pero no es muy común.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>A Pub <ph x="1">&lt;t1/&gt;</ph>may<ph x="2">&lt;t2/&gt;</ph> serve coffee, and indeed chains (especially Wetherspoons) invariably do, but "Bar" type of pub (at a non-busy time of day) is a better option.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Un <ph x="4">&lt;t4/&gt;</ph>pub<ph x="5">&lt;t5/&gt;</ph>también "puede" servir café, y de hecho las cadenas (especialmente Wetherspoons) lo hacen constantemente, pero los <ph x="6">&lt;t6/&gt;</ph>pubs<ph x="7">&lt;t7/&gt;</ph> con barra (en un momento del día en el que no estén muy llenos) son una mejor opción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>International coffeshops such as Starbucks, Costa's and Cafe Nero are very common in large towns and cities.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Las <ph x="8">&lt;t8/&gt;</ph>coffeshops<ph x="9">&lt;t9/&gt;</ph> internacionales como Starbucks, Costa's y Cafe Nero son muy comunes en las ciudades y en los pueblos grandes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>These often serve a wide range of coffees, teas and hot chocolate.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>A menudo, éstos sirven una amplia variedad de cafés, tés y chocolates calientes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Hot Chocolate</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Chocolate caliente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Fruit juices<ph x="0">&lt;t0/&gt;</ph> are popular, particularly apple.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Los zumos de frutas<ph x="0">&lt;t0/&gt;</ph> son muy populares, especialmente los de manzana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Smoothies are becoming big too, and you will find many varieties at places like Starbucks.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T204154Z">
+        <seg>Los <ph x="1">&lt;t1/&gt;</ph>smoothies<ph x="2">&lt;t2/&gt;</ph> se están volviendo también muy populares; y se pueden encontrar muchas variedades en lugares como Starbucks.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

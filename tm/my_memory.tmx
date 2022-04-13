@@ -1,0 +1,638 @@
+<?xml version="1.0" ?>
+		<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+		<tmx version="1.1">
+		<header
+		creationtool="MyMemory - mymemory.translated.net"
+		creationtoolversion="Beta"
+		segtype="sentence"
+		o-tmf="TW4Win 2.0 Format"
+		adminlang="EN-US"
+		srclang="EN-GB"
+		datatype="rtf"
+		creationdate="20190912T143829Z"
+		creationid="Translated">
+		<prop type="RTFFontTable">
+		{\fonttbl
+			{\f1 \fmodern\fprq1 \fcharset0 Courier New;}
+			{\f2 \fswiss\fprq2 \fcharset0 Arial;}
+			{\f3 \froman\fprq2 {\*\panose 02020603050405020304}\fcharset0 Times New Roman;}
+			{\f4 \froman\fprq2 {\*\panose 05050102010706020507}\fcharset2 Symbol;}
+			{\f5 \fnil\fprq2 {\*\panose 05000000000000000000}\fcharset2 Wingdings;}
+			{\f6 \fswiss\fprq2 {\*\panose 020b0506020202030204}\fcharset0 Arial Narrow;}
+			{\f7 \froman\fprq2 \fcharset238 Times New Roman CE;}
+			{\f8 \froman\fprq2 \fcharset204 Times New Roman Cyr;}
+			{\f9 \froman\fprq2 \fcharset161 Times New Roman Greek;}
+			{\f10 \froman\fprq2 \fcharset162 Times New Roman Tur;}
+			{\f11 \froman\fprq2 \fcharset177 Times New Roman (Hebrew);}
+			{\f12 \froman\fprq2 \fcharset178 Times New Roman (Arabic);}
+			{\f13 \froman\fprq2 \fcharset186 Times New Roman Baltic;}
+			{\f14 \froman\fprq2 \fcharset163 Times New Roman (Vietnamese);}
+			{\f15 \fswiss\fprq2 \fcharset238 Arial CE;}
+			{\f16 \fswiss\fprq2 \fcharset204 Arial Cyr;}
+			{\f17 \fswiss\fprq2 \fcharset161 Arial Greek;}
+			{\f18 \fswiss\fprq2 \fcharset162 Arial Tur;}
+			{\f19 \fswiss\fprq2 \fcharset177 Arial (Hebrew);}
+			{\f20 \fswiss\fprq2 \fcharset178 Arial (Arabic);}
+			{\f21 \fswiss\fprq2 \fcharset186 Arial Baltic;}
+			{\f22 \fswiss\fprq2 \fcharset163 Arial (Vietnamese);}
+			{\f23 \fmodern\fprq1 \fcharset238 Courier New CE;}
+			{\f24 \fmodern\fprq1 \fcharset204 Courier New Cyr;}
+			{\f25 \fmodern\fprq1 \fcharset161 Courier New Greek;}
+			{\f26 \fmodern\fprq1 \fcharset162 Courier New Tur;}
+			{\f27 \fmodern\fprq1 \fcharset177 Courier New (Hebrew);}
+			{\f28 \fmodern\fprq1 \fcharset178 Courier New (Arabic);}
+			{\f29 \fmodern\fprq1 \fcharset186 Courier New Baltic;}
+			{\f30 \fmodern\fprq1 \fcharset163 Courier New (Vietnamese);}
+			{\f31 \fswiss\fprq2 \fcharset238 Arial Narrow CE;}
+			{\f32 \fswiss\fprq2 \fcharset204 Arial Narrow Cyr;}
+			{\f33 \fswiss\fprq2 \fcharset161 Arial Narrow Greek;}
+			{\f34 \fswiss\fprq2 \fcharset162 Arial Narrow Tur;}
+			{\f35 \fswiss\fprq2 \fcharset186 Arial Narrow Baltic;}}</prop>
+	<prop type="RTFStyleSheet">
+	{\stylesheet
+		{\St \s0 {\StN Normal}}
+		{\St \cs1 {\StB \v\f1\fs24\sub\cf12 }{\StN tw4winMark}}
+		{\St \cs2 {\StB \cf4\fs40\f1 }{\StN tw4winError}}
+		{\St \cs3 {\StB \f1\cf11\lang1024 }{\StN tw4winPopup}}
+		{\St \cs4 {\StB \f1\cf10\lang1024 }{\StN tw4winJump}}
+		{\St \cs5 {\StB \f1\cf15\lang1024 }{\StN tw4winExternal}}
+		{\St \cs6 {\StB \f1\cf6\lang1024 }{\StN tw4winInternal}}
+		{\St \cs7 {\StB \cf2 }{\StN tw4winTerm}}
+		{\St \cs8 {\StB \f1\cf13\lang1024 }{\StN DO_NOT_TRANSLATE}}
+		{\St \cs9 \additive\ssemihidden {\StN Default Paragraph Font}}}</prop>
+	</header>
+
+		<body>
+
+		<tu tuid="0" creationdate="20190912T143829Z" creationid="MT!" usagecount="2" lastusagedate="20190912T143829Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="EN-GB"  creationdate="20190912T143829Z" creationid="MT!">
+				<seg>Open House is an excellent Indian restaurant nearby Westlands area of Nairobi.</seg>
+				</tuv>
+				<tuv lang="ES-ES" creationdate="20190912T143829Z" creationid="MT!" changedate="20190912T143811Z" changeid="MT!">
+				<seg>Open House es un excelente restaurante indio cerca del área de Westlands de Nairobi.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="1" creationdate="20190912T143829Z" creationid="MT!" usagecount="2" lastusagedate="20190912T143829Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="EN-GB"  creationdate="20190912T143829Z" creationid="MT!">
+				<seg>With such a high predominance of Indians in the country, this is one of the best places to get authentic cuisine in an upscale environment at a reasonable price.</seg>
+				</tuv>
+				<tuv lang="ES-ES" creationdate="20190912T143829Z" creationid="MT!" changedate="20190912T143811Z" changeid="MT!">
+				<seg>Con un predominio tan alto de indios en el país, este es uno de los mejores lugares para obtener cocina auténtica en un ambiente exclusivo a un precio razonable.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="2" creationdate="20190912T143829Z" creationid="MT!" usagecount="2" lastusagedate="20190912T143829Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="EN-GB"  creationdate="20190912T143829Z" creationid="MT!">
+				<seg>Do not miss the ginger chicken wings   very unique!</seg>
+				</tuv>
+				<tuv lang="ES-ES" creationdate="20190912T143829Z" creationid="MT!" changedate="20190912T143812Z" changeid="MT!">
+				<seg>¡No te pierdas las alitas de pollo de jengibre muy únicas!</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="3" creationdate="20190912T143829Z" creationid="MT!" usagecount="2" lastusagedate="20190912T143829Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="EN-GB"  creationdate="20190912T143829Z" creationid="MT!">
+				<seg>Mesob is an authentic Ethiopian restaurant located at the China Centre on Ngong Road near the Chinese embassy.</seg>
+				</tuv>
+				<tuv lang="ES-ES" creationdate="20190912T143829Z" creationid="MT!" changedate="20190912T143812Z" changeid="MT!">
+				<seg>Mesob es un auténtico restaurante etíope ubicado en el Centro de China en Ngong Road, cerca de la embajada china.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="4" creationdate="20190912T143829Z" creationid="MT!" usagecount="2" lastusagedate="20190912T143829Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="EN-GB"  creationdate="20190912T143829Z" creationid="MT!">
+				<seg>Meals cost around Kshand the food is excellent.</seg>
+				</tuv>
+				<tuv lang="ES-ES" creationdate="20190912T143829Z" creationid="MT!" changedate="20190912T143812Z" changeid="MT!">
+				<seg>Las comidas cuestan alrededor de Kshand, la comida es excelente.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="5" creationdate="20190912T143829Z" creationid="MT!" usagecount="2" lastusagedate="20190912T143829Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="EN-GB"  creationdate="20190912T143829Z" creationid="MT!">
+				<seg>Java House, with quite a few locations, including The Junction, ABC Place, and close to the United Nations, features a western coffee house menu, from bagels to burritos, with excellent coffees and milkshakes, and a full breakfast menu.KShfor a complete meal.</seg>
+				</tuv>
+				<tuv lang="ES-ES" creationdate="20190912T143829Z" creationid="MT!" changedate="20190912T143813Z" changeid="MT!">
+				<seg>Java House, con bastantes ubicaciones, incluyendo The Junction, ABC Place y cerca de las Naciones Unidas, ofrece un menú de cafetería occidental, desde bagels hasta burritos, con excelentes cafés y batidos, y un menú de desayuno completo. comida.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="6" creationdate="20190912T143829Z" creationid="MT!" usagecount="2" lastusagedate="20190912T143829Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="EN-GB"  creationdate="20190912T143829Z" creationid="MT!">
+				<seg>Another popular coffeehouse is Dormans</seg>
+				</tuv>
+				<tuv lang="ES-ES" creationdate="20190912T143829Z" creationid="MT!" changedate="20190912T143813Z" changeid="MT!">
+				<seg>Otra cafetería popular es Dormans</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="7" creationdate="20190912T143829Z" creationid="MT!" usagecount="2" lastusagedate="20190912T143829Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="EN-GB"  creationdate="20190912T143829Z" creationid="MT!">
+				<seg>Trattoria is an Italian restaurant.</seg>
+				</tuv>
+				<tuv lang="ES-ES" creationdate="20190912T143829Z" creationid="MT!" changedate="20190912T143813Z" changeid="MT!">
+				<seg>Trattoria es un restaurante italiano.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="8" creationdate="20190912T143829Z" creationid="MT!" usagecount="2" lastusagedate="20190912T143829Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="EN-GB"  creationdate="20190912T143829Z" creationid="MT!">
+				<seg>Do not expect anything decent when it comes to the mains (all aroundKSh).</seg>
+				</tuv>
+				<tuv lang="ES-ES" creationdate="20190912T143829Z" creationid="MT!" changedate="20190912T143813Z" changeid="MT!">
+				<seg>No esperes nada decente cuando se trata de la red eléctrica (todo alrededor de SH).</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="9" creationdate="20190912T143829Z" creationid="MT!" usagecount="2" lastusagedate="20190912T143829Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="EN-GB"  creationdate="20190912T143829Z" creationid="MT!">
+				<seg>However, there is a fabulous and extensive dessert menu, including crepes, tiramisu, souffle, and a coffee granita with fresh cream (KSh).</seg>
+				</tuv>
+				<tuv lang="ES-ES" creationdate="20190912T143829Z" creationid="MT!" changedate="20190912T143814Z" changeid="MT!">
+				<seg>Sin embargo, hay un fabuloso y extenso menú de postres, que incluye crepes, tiramisú, soufflé y un granizado de café con crema fresca (KSh).</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="10" creationdate="20190912T143829Z" creationid="MT!" usagecount="2" lastusagedate="20190912T143829Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="EN-GB"  creationdate="20190912T143829Z" creationid="MT!">
+				<seg>Motherland, is an authentic Ethiopian restaurant with great and affordable food (typical of Ethiopian restaurants in Nairobi!).</seg>
+				</tuv>
+				<tuv lang="ES-ES" creationdate="20190912T143829Z" creationid="MT!" changedate="20190912T143814Z" changeid="MT!">
+				<seg>Motherland, es un auténtico restaurante etíope con comida excelente y asequible (¡típico de los restaurantes etíopes en Nairobi!).</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="11" creationdate="20190912T143829Z" creationid="MT!" usagecount="2" lastusagedate="20190912T143829Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="EN-GB"  creationdate="20190912T143829Z" creationid="MT!">
+				<seg>Havana Bar, Woodvale Grove, Westlands.</seg>
+				</tuv>
+				<tuv lang="ES-ES" creationdate="20190912T143829Z" creationid="MT!" changedate="20190912T143814Z" changeid="MT!">
+				<seg>Havana Bar, Woodvale Grove, Westlands.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="12" creationdate="20190912T143829Z" creationid="MT!" usagecount="2" lastusagedate="20190912T143829Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="EN-GB"  creationdate="20190912T143829Z" creationid="MT!">
+				<seg>Popular bar and restaurant with a laid back Latin theme.</seg>
+				</tuv>
+				<tuv lang="ES-ES" creationdate="20190912T143829Z" creationid="MT!" changedate="20190912T143815Z" changeid="MT!">
+				<seg>Popular bar y restaurante con un tema latino relajado.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="13" creationdate="20190912T143829Z" creationid="MT!" usagecount="2" lastusagedate="20190912T143829Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="EN-GB"  creationdate="20190912T143829Z" creationid="MT!">
+				<seg>Renowned for their sizzling Fajitas, steaks and seafood dishes.</seg>
+				</tuv>
+				<tuv lang="ES-ES" creationdate="20190912T143829Z" creationid="MT!" changedate="20190912T143815Z" changeid="MT!">
+				<seg>Reconocidos por sus fajitas, bistecs y platos de mariscos.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="14" creationdate="20190912T143829Z" creationid="MT!" usagecount="2" lastusagedate="20190912T143829Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="EN-GB"  creationdate="20190912T143829Z" creationid="MT!">
+				<seg>Reasonably priced.</seg>
+				</tuv>
+				<tuv lang="ES-ES" creationdate="20190912T143829Z" creationid="MT!" changedate="20190912T143815Z" changeid="MT!">
+				<seg>A un precio razonable.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="15" creationdate="20190912T143829Z" creationid="MT!" usagecount="2" lastusagedate="20190912T143829Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="EN-GB"  creationdate="20190912T143829Z" creationid="MT!">
+				<seg>The kitchen is open daily from noon til late.</seg>
+				</tuv>
+				<tuv lang="ES-ES" creationdate="20190912T143829Z" creationid="MT!" changedate="20190912T143815Z" changeid="MT!">
+				<seg>La cocina está abierta todos los días desde el mediodía hasta tarde.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="16" creationdate="20190912T143829Z" creationid="MT!" usagecount="2" lastusagedate="20190912T143829Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="EN-GB"  creationdate="20190912T143829Z" creationid="MT!">
+				<seg>[] Tel:</seg>
+				</tuv>
+				<tuv lang="ES-ES" creationdate="20190912T143829Z" creationid="MT!" changedate="20190912T143816Z" changeid="MT!">
+				<seg>[] Tel:</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="17" creationdate="20190912T143829Z" creationid="MT!" usagecount="2" lastusagedate="20190912T143829Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="EN-GB"  creationdate="20190912T143829Z" creationid="MT!">
+				<seg>Village Market Food Court, Has an array of different ethnic cuisines, including Thai, Italian, Chinese and German, as well as a Mongolian Barbeque.</seg>
+				</tuv>
+				<tuv lang="ES-ES" creationdate="20190912T143829Z" creationid="MT!" changedate="20190912T143816Z" changeid="MT!">
+				<seg>Village Market Food Court, tiene una variedad de diferentes cocinas étnicas, incluyendo tailandesa, italiana, china y alemana, así como una barbacoa mongol.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="18" creationdate="20190912T143829Z" creationid="MT!" usagecount="2" lastusagedate="20190912T143829Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="EN-GB"  creationdate="20190912T143829Z" creationid="MT!">
+				<seg>Good prices as well.</seg>
+				</tuv>
+				<tuv lang="ES-ES" creationdate="20190912T143829Z" creationid="MT!" changedate="20190912T143816Z" changeid="MT!">
+				<seg>Buenos precios también.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="19" creationdate="20190912T143829Z" creationid="MT!" usagecount="2" lastusagedate="20190912T143829Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="EN-GB"  creationdate="20190912T143829Z" creationid="MT!">
+				<seg>Venture further into Village Market to find a good Japanese restaurant as well, though with slightly steeper prices.</seg>
+				</tuv>
+				<tuv lang="ES-ES" creationdate="20190912T143829Z" creationid="MT!" changedate="20190912T143816Z" changeid="MT!">
+				<seg>Aventúrate más en Village Market para encontrar un buen restaurante japonés también, aunque con precios ligeramente más altos.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="20" creationdate="20190912T143829Z" creationid="MT!" usagecount="2" lastusagedate="20190912T143829Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="EN-GB"  creationdate="20190912T143829Z" creationid="MT!">
+				<seg>There are also food courts at other malls in the city.</seg>
+				</tuv>
+				<tuv lang="ES-ES" creationdate="20190912T143829Z" creationid="MT!" changedate="20190912T143817Z" changeid="MT!">
+				<seg>También hay patios de comida en otros centros comerciales de la ciudad.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="21" creationdate="20190912T143829Z" creationid="MT!" usagecount="2" lastusagedate="20190912T143829Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="EN-GB"  creationdate="20190912T143829Z" creationid="MT!">
+				<seg>Nairobi has a wide range of Indian restaurants that speaks to the significant South Asian community in Kenya.</seg>
+				</tuv>
+				<tuv lang="ES-ES" creationdate="20190912T143829Z" creationid="MT!" changedate="20190912T143817Z" changeid="MT!">
+				<seg>Nairobi tiene una amplia gama de restaurantes indios que hablan con la importante comunidad del sur de Asia en Kenia.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="22" creationdate="20190912T143829Z" creationid="MT!" usagecount="2" lastusagedate="20190912T143829Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="EN-GB"  creationdate="20190912T143829Z" creationid="MT!">
+				<seg>The city also offers other restaurants specializing in different European and Asian cuisine.</seg>
+				</tuv>
+				<tuv lang="ES-ES" creationdate="20190912T143829Z" creationid="MT!" changedate="20190912T143817Z" changeid="MT!">
+				<seg>La ciudad también ofrece otros restaurantes especializados en diferentes platos europeos y asiáticos.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="23" creationdate="20190912T143829Z" creationid="MT!" usagecount="2" lastusagedate="20190912T143829Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="EN-GB"  creationdate="20190912T143829Z" creationid="MT!">
+				<seg>Common fast food restaurants include Steers, Debonairs, Wimpy, Galito&apos;s, local favourite, Kenchic among others.</seg>
+				</tuv>
+				<tuv lang="ES-ES" creationdate="20190912T143829Z" creationid="MT!" changedate="20190912T143818Z" changeid="MT!">
+				<seg>Los restaurantes de comida rápida comunes incluyen Steers, Debonairs, Wimpy, Galito&#39;s, el favorito local, Kenchic entre otros.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="24" creationdate="20190912T143829Z" creationid="MT!" usagecount="2" lastusagedate="20190912T143829Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="EN-GB"  creationdate="20190912T143829Z" creationid="MT!">
+				<seg>In addition, there are several local restaurants that cater to local cuisine like sukuma wiki (green spinach like vegetable, &apos;Kale&apos; in English), ugali (corn bread, ground maize flour and made to a tasty white bread/porridge form), nyama choma (lit:</seg>
+				</tuv>
+				<tuv lang="ES-ES" creationdate="20190912T143829Z" creationid="MT!" changedate="20190912T143818Z" changeid="MT!">
+				<seg>Además, hay varios restaurantes locales que atienden a la cocina local como sukuma wiki (espinacas verdes como vegetales, &#39;Kale&#39; en inglés), ugali (pan de maíz, harina de maíz molida y hecho en una sabrosa forma de pan blanco / gachas), nyama choma (encendido:</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="25" creationdate="20190912T143829Z" creationid="MT!" usagecount="2" lastusagedate="20190912T143829Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="EN-GB"  creationdate="20190912T143829Z" creationid="MT!">
+				<seg>meat roast), chapati, and other specialties..  Plurge</seg>
+				</tuv>
+				<tuv lang="ES-ES" creationdate="20190912T143829Z" creationid="MT!" changedate="20190912T143818Z" changeid="MT!">
+				<seg>carne asada), chapati y otras especialidades .. Plurge</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="26" creationdate="20190912T143829Z" creationid="MT!" usagecount="2" lastusagedate="20190912T143829Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="EN-GB"  creationdate="20190912T143829Z" creationid="MT!">
+				<seg>The Carnivore, located just outside the city, close to the Uhuru Gardens, is a luxury restaurant famous for its meats.</seg>
+				</tuv>
+				<tuv lang="ES-ES" creationdate="20190912T143829Z" creationid="MT!" changedate="20190912T143819Z" changeid="MT!">
+				<seg>El Carnivore, ubicado a las afueras de la ciudad, cerca de los Jardines Uhuru, es un restaurante de lujo famoso por sus carnes.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="27" creationdate="20190912T143829Z" creationid="MT!" usagecount="2" lastusagedate="20190912T143829Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="EN-GB"  creationdate="20190912T143829Z" creationid="MT!">
+				<seg>In, the restaurant was listed as one of the toprestaurants in the world.</seg>
+				</tuv>
+				<tuv lang="ES-ES" creationdate="20190912T143829Z" creationid="MT!" changedate="20190912T143819Z" changeid="MT!">
+				<seg>En, el restaurante figuraba como uno de los mejores restaurantes del mundo.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="28" creationdate="20190912T143829Z" creationid="MT!" usagecount="2" lastusagedate="20190912T143829Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="EN-GB"  creationdate="20190912T143829Z" creationid="MT!">
+				<seg>Once seated, different masai grilled meats will be carried around on sticks and carved to your plate at request.</seg>
+				</tuv>
+				<tuv lang="ES-ES" creationdate="20190912T143829Z" creationid="MT!" changedate="20190912T143819Z" changeid="MT!">
+				<seg>Una vez sentados, se llevarán diferentes carnes a la parrilla en palos y se tallarán en su plato a pedido.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="29" creationdate="20190912T143829Z" creationid="MT!" usagecount="2" lastusagedate="20190912T143829Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="EN-GB"  creationdate="20190912T143829Z" creationid="MT!">
+				<seg>Very expensive by Kenyan standards, beware of additional taxes and catering levys.</seg>
+				</tuv>
+				<tuv lang="ES-ES" creationdate="20190912T143829Z" creationid="MT!" changedate="20190912T143819Z" changeid="MT!">
+				<seg>Muy caro para los estándares de Kenia, tenga cuidado con los impuestos adicionales y los servicios de catering.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="30" creationdate="20190912T143829Z" creationid="MT!" usagecount="2" lastusagedate="20190912T143829Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="EN-GB"  creationdate="20190912T143829Z" creationid="MT!">
+				<seg>Reservations might be a good idea, ask at your hotel.</seg>
+				</tuv>
+				<tuv lang="ES-ES" creationdate="20190912T143829Z" creationid="MT!" changedate="20190912T143820Z" changeid="MT!">
+				<seg>Las reservas pueden ser una buena idea, pregunte en su hotel.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="31" creationdate="20190912T143829Z" creationid="MT!" usagecount="2" lastusagedate="20190912T143829Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="EN-GB"  creationdate="20190912T143829Z" creationid="MT!">
+				<seg>Furusato, located in Westlands, has fantastic Japanese food.</seg>
+				</tuv>
+				<tuv lang="ES-ES" creationdate="20190912T143829Z" creationid="MT!" changedate="20190912T143820Z" changeid="MT!">
+				<seg>Furusato, ubicado en Westlands, tiene una fantástica comida japonesa.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="32" creationdate="20190912T143829Z" creationid="MT!" usagecount="2" lastusagedate="20190912T143829Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="EN-GB"  creationdate="20190912T143829Z" creationid="MT!">
+				<seg>For a price.</seg>
+				</tuv>
+				<tuv lang="ES-ES" creationdate="20190912T143829Z" creationid="MT!" changedate="20190912T143820Z" changeid="MT!">
+				<seg>Por un precio.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="33" creationdate="20190912T143829Z" creationid="MT!" usagecount="2" lastusagedate="20190912T143829Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="EN-GB"  creationdate="20190912T143829Z" creationid="MT!">
+				<seg>The Rusty Nail, in Karen, has been super in the past, but mediocre of late.</seg>
+				</tuv>
+				<tuv lang="ES-ES" creationdate="20190912T143829Z" creationid="MT!" changedate="20190912T143821Z" changeid="MT!">
+				<seg>The Rusty Nail, en Karen, ha sido súper en el pasado, pero mediocre últimamente.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="34" creationdate="20190912T143829Z" creationid="MT!" usagecount="2" lastusagedate="20190912T143829Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="EN-GB"  creationdate="20190912T143829Z" creationid="MT!">
+				<seg>No reason not to give it another chance.This restaurant has now closed.</seg>
+				</tuv>
+				<tuv lang="ES-ES" creationdate="20190912T143829Z" creationid="MT!" changedate="20190912T143821Z" changeid="MT!">
+				<seg>No hay razón para no darle otra oportunidad. Este restaurante ya ha cerrado.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="35" creationdate="20190912T143829Z" creationid="MT!" usagecount="2" lastusagedate="20190912T143829Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="EN-GB"  creationdate="20190912T143829Z" creationid="MT!">
+				<seg>The Lord Errol, past Village Market and into Runda, is said to have very good food, and is popular with the expat crowd.</seg>
+				</tuv>
+				<tuv lang="ES-ES" creationdate="20190912T143829Z" creationid="MT!" changedate="20190912T143821Z" changeid="MT!">
+				<seg>Se dice que Lord Errol, pasado Village Market y en Runda, tiene muy buena comida, y es popular entre la multitud de expatriados.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="36" creationdate="20190912T143829Z" creationid="MT!" usagecount="2" lastusagedate="20190912T143829Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="EN-GB"  creationdate="20190912T143829Z" creationid="MT!">
+				<seg>&quot;Moonflower,&quot; on State House hill at the Palacina hotel, is a very upscale bistro / fusion / grill restaurant in a lovely outdoor setting.</seg>
+				</tuv>
+				<tuv lang="ES-ES" creationdate="20190912T143829Z" creationid="MT!" changedate="20190912T143821Z" changeid="MT!">
+				<seg>&quot;Moonflower&quot;, en la colina de State House en el hotel Palacina, es un restaurante bistro / fusión / parrilla muy exclusivo en un entorno encantador al aire libre.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="37" creationdate="20190912T143829Z" creationid="MT!" usagecount="2" lastusagedate="20190912T143829Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="EN-GB"  creationdate="20190912T143829Z" creationid="MT!">
+				<seg>Fantastic food.</seg>
+				</tuv>
+				<tuv lang="ES-ES" creationdate="20190912T143829Z" creationid="MT!" changedate="20190912T143822Z" changeid="MT!">
+				<seg>Fantástica comida.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="38" creationdate="20190912T143829Z" creationid="MT!" usagecount="2" lastusagedate="20190912T143829Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="EN-GB"  creationdate="20190912T143829Z" creationid="MT!">
+				<seg>&quot;Pango Brasserie&quot; at the Fairview Hotel features upscale french and continental dishes.</seg>
+				</tuv>
+				<tuv lang="ES-ES" creationdate="20190912T143829Z" creationid="MT!" changedate="20190912T143822Z" changeid="MT!">
+				<seg>&quot;Pango Brasserie&quot; en el Fairview Hotel ofrece platos franceses y continentales de lujo.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="39" creationdate="20190912T143829Z" creationid="MT!" usagecount="2" lastusagedate="20190912T143829Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="EN-GB"  creationdate="20190912T143829Z" creationid="MT!">
+				<seg>Dinner begins in an underground stone wine cellar where the chef will send out complimentary tasters while you sip a bottle of wine of your choice.</seg>
+				</tuv>
+				<tuv lang="ES-ES" creationdate="20190912T143829Z" creationid="MT!" changedate="20190912T143822Z" changeid="MT!">
+				<seg>La cena comienza en una bodega subterránea de piedra donde el chef enviará degustadores de cortesía mientras usted bebe una botella de vino de su elección.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="40" creationdate="20190912T143829Z" creationid="MT!" usagecount="2" lastusagedate="20190912T143829Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="EN-GB"  creationdate="20190912T143829Z" creationid="MT!">
+				<seg>&quot;Alan Bobbe&apos;s Bistro&quot; is a venerable, legendary restaurant now located on Rhapta Road (near St.</seg>
+				</tuv>
+				<tuv lang="ES-ES" creationdate="20190912T143829Z" creationid="MT!" changedate="20190912T143823Z" changeid="MT!">
+				<seg>&quot;Alan Bobbe&#39;s Bistro&quot; es un venerable y legendario restaurante ahora ubicado en Rhapta Road (cerca de St.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="41" creationdate="20190912T143829Z" creationid="MT!" usagecount="2" lastusagedate="20190912T143829Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="EN-GB"  creationdate="20190912T143829Z" creationid="MT!">
+				<seg>Marys School).</seg>
+				</tuv>
+				<tuv lang="ES-ES" creationdate="20190912T143829Z" creationid="MT!" changedate="20190912T143823Z" changeid="MT!">
+				<seg>Escuela Marys).</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="42" creationdate="20190912T143829Z" creationid="MT!" usagecount="2" lastusagedate="20190912T143829Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="EN-GB"  creationdate="20190912T143829Z" creationid="MT!">
+				<seg>Founded in, the restaurant features French haute cuisine at about a third of what you would pay in Paris!. Drink</seg>
+				</tuv>
+				<tuv lang="ES-ES" creationdate="20190912T143829Z" creationid="MT!" changedate="20190912T143823Z" changeid="MT!">
+				<seg>Fundado en, el restaurante ofrece alta cocina francesa en aproximadamente un tercio de lo que pagarías en París. Beber</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="43" creationdate="20190912T143829Z" creationid="MT!" usagecount="2" lastusagedate="20190912T143829Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="EN-GB"  creationdate="20190912T143829Z" creationid="MT!">
+				<seg>• Little Temple Night Club and Bar, Tom Mboya Street, downtown Nairobi.pm till late.</seg>
+				</tuv>
+				<tuv lang="ES-ES" creationdate="20190912T143829Z" creationid="MT!" changedate="20190912T143823Z" changeid="MT!">
+				<seg>• Little Temple Night Club and Bar, Tom Mboya Street, en el centro de Nairobi.pm hasta tarde.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="44" creationdate="20190912T143829Z" creationid="MT!" usagecount="2" lastusagedate="20190912T143829Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="EN-GB"  creationdate="20190912T143829Z" creationid="MT!">
+				<seg>Beer from Ksh.</seg>
+				</tuv>
+				<tuv lang="ES-ES" creationdate="20190912T143829Z" creationid="MT!" changedate="20190912T143824Z" changeid="MT!">
+				<seg>Cerveza de Ksh.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="45" creationdate="20190912T143829Z" creationid="MT!" usagecount="2" lastusagedate="20190912T143829Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="EN-GB"  creationdate="20190912T143829Z" creationid="MT!">
+				<seg>• Gipsy:</seg>
+				</tuv>
+				<tuv lang="ES-ES" creationdate="20190912T143829Z" creationid="MT!" changedate="20190912T143824Z" changeid="MT!">
+				<seg>• Gitano:</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="46" creationdate="20190912T143829Z" creationid="MT!" usagecount="2" lastusagedate="20190912T143829Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="EN-GB"  creationdate="20190912T143829Z" creationid="MT!">
+				<seg>Opposite Barclays Bank Westland, Tel: , Mob: , Email:gipsy@nbi.ispkenya.com</seg>
+				</tuv>
+				<tuv lang="ES-ES" creationdate="20190912T143829Z" creationid="MT!" changedate="20190912T143824Z" changeid="MT!">
+				<seg>Frente a Barclays Bank Westland, Tel:, Mob:, Correo electrónico: gipsy@nbi.ispkenya.com</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="47" creationdate="20190912T143829Z" creationid="MT!" usagecount="2" lastusagedate="20190912T143829Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="EN-GB"  creationdate="20190912T143829Z" creationid="MT!">
+				<seg>• Klub House(K): is located along Ojijo Road in Parklands, Tel:</seg>
+				</tuv>
+				<tuv lang="ES-ES" creationdate="20190912T143829Z" creationid="MT!" changedate="20190912T143824Z" changeid="MT!">
+				<seg>• Klub House (K): se encuentra a lo largo de Ojijo Road en Parklands, Tel:</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="48" creationdate="20190912T143829Z" creationid="MT!" usagecount="2" lastusagedate="20190912T143829Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="EN-GB"  creationdate="20190912T143829Z" creationid="MT!">
+				<seg>+   , Fax:   , Mob:+    , Email.info@klubhouse.co.ke.</seg>
+				</tuv>
+				<tuv lang="ES-ES" creationdate="20190912T143829Z" creationid="MT!" changedate="20190912T143825Z" changeid="MT!">
+				<seg>+, Fax:, Multitud: +, Email.info@klubhouse.co.ke.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="49" creationdate="20190912T143829Z" creationid="MT!" usagecount="2" lastusagedate="20190912T143829Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="EN-GB"  creationdate="20190912T143829Z" creationid="MT!">
+				<seg>• Klub House(K): Baricho Road, Industrial Area is home to KKlubhouse</seg>
+				</tuv>
+				<tuv lang="ES-ES" creationdate="20190912T143829Z" creationid="MT!" changedate="20190912T143825Z" changeid="MT!">
+				<seg>• Klub House (K): Baricho Road, área industrial es el hogar de KKlubhouse</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="50" creationdate="20190912T143829Z" creationid="MT!" usagecount="2" lastusagedate="20190912T143829Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="EN-GB"  creationdate="20190912T143829Z" creationid="MT!">
+				<seg>• Choices:</seg>
+				</tuv>
+				<tuv lang="ES-ES" creationdate="20190912T143829Z" creationid="MT!" changedate="20190912T143825Z" changeid="MT!">
+				<seg>• Elecciones:</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="51" creationdate="20190912T143829Z" creationid="MT!" usagecount="2" lastusagedate="20190912T143829Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="EN-GB"  creationdate="20190912T143829Z" creationid="MT!">
+				<seg>Majestic House, Moi Avenue, Tel:</seg>
+				</tuv>
+				<tuv lang="ES-ES" creationdate="20190912T143829Z" creationid="MT!" changedate="20190912T143825Z" changeid="MT!">
+				<seg>Majestic House, Moi Avenue, Tel .:</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="52" creationdate="20190912T143829Z" creationid="MT!" usagecount="2" lastusagedate="20190912T143829Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="EN-GB"  creationdate="20190912T143829Z" creationid="MT!">
+				<seg>+   , Mob:</seg>
+				</tuv>
+				<tuv lang="ES-ES" creationdate="20190912T143829Z" creationid="MT!" changedate="20190912T143826Z" changeid="MT!">
+				<seg>+, Mob:</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="53" creationdate="20190912T143829Z" creationid="MT!" usagecount="2" lastusagedate="20190912T143829Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="EN-GB"  creationdate="20190912T143829Z" creationid="MT!">
+				<seg>+  , Email:</seg>
+				</tuv>
+				<tuv lang="ES-ES" creationdate="20190912T143829Z" creationid="MT!" changedate="20190912T143826Z" changeid="MT!">
+				<seg>+, Correo electrónico:</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="54" creationdate="20190912T143829Z" creationid="MT!" usagecount="2" lastusagedate="20190912T143829Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="EN-GB"  creationdate="20190912T143829Z" creationid="MT!">
+				<seg>mmuchami@yahoo.com, Leobag Investment Ltd, Baricho Road</seg>
+				</tuv>
+				<tuv lang="ES-ES" creationdate="20190912T143829Z" creationid="MT!" changedate="20190912T143826Z" changeid="MT!">
+				<seg>mmuchami@yahoo.com, Leobag Investment Ltd, Baricho Road</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="55" creationdate="20190912T143829Z" creationid="MT!" usagecount="2" lastusagedate="20190912T143829Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="EN-GB"  creationdate="20190912T143829Z" creationid="MT!">
+				<seg>• Chillers:</seg>
+				</tuv>
+				<tuv lang="ES-ES" creationdate="20190912T143829Z" creationid="MT!" changedate="20190912T143826Z" changeid="MT!">
+				<seg>• Enfriadores:</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="56" creationdate="20190912T143829Z" creationid="MT!" usagecount="2" lastusagedate="20190912T143829Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="EN-GB"  creationdate="20190912T143829Z" creationid="MT!">
+				<seg>Anniv Towers</seg>
+				</tuv>
+				<tuv lang="ES-ES" creationdate="20190912T143829Z" creationid="MT!" changedate="20190912T143827Z" changeid="MT!">
+				<seg>Anniv Towers</seg>
+				</tuv>
+				</tu>
+
+</body>
+		</tmx>

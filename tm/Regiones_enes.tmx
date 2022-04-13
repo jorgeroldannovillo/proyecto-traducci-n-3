@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN"/>
+  <body>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>England</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T195514Z">
+        <seg>Inglaterra<ph x="0">&lt;t0/&gt;</ph>Final del formulario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Not to be confused with the United Kingdom, of which England is a constituent country.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T195514Z">
+        <seg>No hay que confundirla con el <ph x="0">&lt;t0/&gt;</ph>Reino Unido<ph x="1">&lt;t1/&gt;</ph>, del que Inglaterra es una nación constituyente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>England<ph x="0">&lt;t0/&gt;</ph> (Cornish:Pow Sows) is the largest of the four "home nations" that make up the <ph x="1">&lt;t1/&gt;</ph>United Kingdom<ph x="2">&lt;t2/&gt;</ph>.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T195514Z">
+        <seg>Inglaterra es la más grande de las cuatro naciones británicas que conforman el <ph x="0">&lt;t0/&gt;</ph>Reino Unido<ph x="1">&lt;t1/&gt;</ph>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg><ph x="3">&lt;t3/&gt;</ph>It is also the most populous of the four with almost 52 million inhabitants (roughly 84% of the total population of the UK).</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T195514Z">
+        <seg>También es la más poblada de las cuatro, con casi 52 millones de habitantes (aproximadamente el 84 % de la población total del Reino Unido).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>On the island of Great Britain, <ph x="4">&lt;t4/&gt;</ph>Scotland<ph x="5">&lt;t5/&gt;</ph>sits to the north of England and <ph x="6">&lt;t6/&gt;</ph>Wales<ph x="7">&lt;t7/&gt;</ph> is to the west. <ph x="8">&lt;t8/&gt;</ph>Northern Ireland<ph x="9">&lt;t9/&gt;</ph> (also part of the UK) and the <ph x="10">&lt;t10/&gt;</ph>Republic of Ireland<ph x="11">&lt;t11/&gt;</ph> lie across the Irish Sea to west of England (and Wales). <ph x="12">&lt;t12/&gt;</ph>France<ph x="13">&lt;t13/&gt;</ph> and the <ph x="14">&lt;t14/&gt;</ph>Channel Islands<ph x="15">&lt;t15/&gt;</ph> are across the English Channel to the south, and to the east is the North Sea.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T195514Z">
+        <seg>En la isla de Gran Bretaña, <ph x="2">&lt;t2/&gt;</ph>Escocia<ph x="3">&lt;t3/&gt;</ph> se encuentra al norte de Inglaterra y <ph x="4">&lt;t4/&gt;</ph>Gales<ph x="5">&lt;t5/&gt;</ph> se encuentra al oeste. <ph x="6">&lt;t6/&gt;</ph>Irlanda del Norte<ph x="7">&lt;t7/&gt;</ph>(también parte del Reino Unido) e <ph x="8">&lt;t8/&gt;</ph>Irlanda<ph x="9">&lt;t9/&gt;</ph> se extienden a través del mar de Irlanda al oeste de Inglaterra (y Gales). <ph x="10">&lt;t10/&gt;</ph>Francia<ph x="11">&lt;t11/&gt;</ph> y las islas anglonormandas se extienden a través del canal de la Mancha al sur y, al este, se encuentra el mar del Norte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Regions<ph x="0">&lt;t0/&gt;</ph>[<ph x="1">&lt;t1/&gt;</ph>edit<ph x="2">&lt;t2/&gt;</ph>]</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T195514Z">
+        <seg>Regiones<ph x="0">&lt;t0/&gt;</ph>[<ph x="1">&lt;t1/&gt;</ph>editar<ph x="2">&lt;t2/&gt;</ph>]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>England is a country that can be divided most generally into three sections, with deep historical and linguistic roots for each of them.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T195514Z">
+        <seg>Inglaterra puede dividirse a grandes rasgos en tres secciones, con profundas raíces históricas y lingüísticas en cada una de ellas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>These can be further divided into counties, which in turn consist of cities (most of which also have long histories, but have been revised in many cases for administrative reasons).</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T195514Z">
+        <seg>Éstas pueden dividirse en regiones, que a su vez se componen de condados (la mayoría de los cuales también tienen una larga historia, pero ésta ha sido modificada en muchas ocasiones por razones administrativas).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Southern England<ph x="0">&lt;t0/&gt;</ph>[<ph x="1">&lt;t1/&gt;</ph>edit<ph x="2">&lt;t2/&gt;</ph>]</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T195514Z">
+        <seg>Sur de Inglaterra<ph x="0">&lt;t0/&gt;</ph>[<ph x="1">&lt;t1/&gt;</ph>editar<ph x="2">&lt;t2/&gt;</ph>]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Regions of England</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T195514Z">
+        <seg>El sur de Inglaterra es aproximadamente el área al sur del río Támesis y el canal de Bristol.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>London<ph x="0">&lt;t0/&gt;</ph></seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T195514Z">
+        <seg>Londres<ph x="0">&lt;t0/&gt;</ph></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>A vast and diverse metropolitan region to itself, the capital city of both England and the <ph x="0">&lt;t0/&gt;</ph>United Kingdom<ph x="1">&lt;t1/&gt;</ph>, a global capital of finance, fashion, and culture.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T195514Z">
+        <seg>Una región metropolitana grande y variada por sí misma, la capital tanto de Inglaterra como del <ph x="0">&lt;t0/&gt;</ph>Reino Unido<ph x="1">&lt;t1/&gt;</ph>, una capital global de las finanzas, la moda y la cultura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>South East England<ph x="0">&lt;t0/&gt;</ph></seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T195514Z">
+        <seg>Sureste de Inglaterra<ph x="0">&lt;t0/&gt;</ph></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Broadly speaking, the area around and south of <ph x="0">&lt;t0/&gt;</ph>London<ph x="1">&lt;t1/&gt;</ph>, including the territory along the English Channel.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T195514Z">
+        <seg>En términos generales, el área de alrededor y del sur de <ph x="0">&lt;t0/&gt;</ph>Londres<ph x="1">&lt;t1/&gt;</ph>, incluyendo el territorio del Canal de la Mancha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The often-rugged peninsula extending southwest into the Atlantic and adjoining counties.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T195514Z">
+        <seg>La península, escarpada en su mayoría, se extiende desde el suroeste hacia el Atlántico y los condados adyacentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Midlands<ph x="0">&lt;t0/&gt;</ph>[<ph x="1">&lt;t1/&gt;</ph>edit<ph x="2">&lt;t2/&gt;</ph>]</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T195514Z">
+        <seg>Cornualles se considera a veces como una entidad característica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The Midlands is roughly the part of England east of <ph x="0">&lt;t0/&gt;</ph>Wales<ph x="1">&lt;t1/&gt;</ph> (excluding <ph x="2">&lt;t2/&gt;</ph>Gloucestershire<ph x="3">&lt;t3/&gt;</ph> and <ph x="4">&lt;t4/&gt;</ph>Cheshire<ph x="5">&lt;t5/&gt;</ph> which are in the <ph x="6">&lt;t6/&gt;</ph>West Country<ph x="7">&lt;t7/&gt;</ph> and the <ph x="8">&lt;t8/&gt;</ph>North West<ph x="9">&lt;t9/&gt;</ph> respectively) and across to the North Sea.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T195514Z">
+        <seg>Midlands<ph x="0">&lt;t0/&gt;</ph>[<ph x="1">&lt;t1/&gt;</ph>editar<ph x="2">&lt;t2/&gt;</ph>] Las Midlands, o parte central de Inglaterra, es la parte de Inglaterra al este de Gales (exceptuando Chesire que está en el noroeste) que llega hasta el mar del Norte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>East of England<ph x="0">&lt;t0/&gt;</ph></seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T195514Z">
+        <seg>Este de Inglaterra<ph x="0">&lt;t0/&gt;</ph></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>A low-lying territory northeast of London, mostly rural.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T195514Z">
+        <seg>Un territorio de baja altitud al noreste de Londres, en su mayoría rural.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>East Midlands<ph x="0">&lt;t0/&gt;</ph></seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T195514Z">
+        <seg>Midlands del Este<ph x="0">&lt;t0/&gt;</ph></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The geographic centre of England, reaching to the North Sea.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T195514Z">
+        <seg>El centro geográfico de Inglaterra, que llega hasta el mar del Norte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>West Midlands<ph x="0">&lt;t0/&gt;</ph></seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T195514Z">
+        <seg>Midlands del Oeste<ph x="0">&lt;t0/&gt;</ph></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The industrial and rural area east of Wales.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T195514Z">
+        <seg>El área industrial y rural al este de Gales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Northern England<ph x="0">&lt;t0/&gt;</ph>[<ph x="1">&lt;t1/&gt;</ph>edit<ph x="2">&lt;t2/&gt;</ph>]</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T195514Z">
+        <seg>Norte de Inglaterra<ph x="0">&lt;t0/&gt;</ph>[<ph x="1">&lt;t1/&gt;</ph>editar<ph x="2">&lt;t2/&gt;</ph>]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Northern England (<ph x="0">&lt;t0/&gt;</ph>the North<ph x="1">&lt;t1/&gt;</ph>) is anywhere north of Staffordshire in the west and roughly north of the Humber river, in the east, up to the Scottish border.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T195514Z">
+        <seg>El norte de Inglaterra es todo aquello que se encuentra al norte de Staffordshire, al oeste y, en líneas generales, al norte del río Humber y al este, hasta la frontera con Escocia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Regarded as one of the most scenic, varied and interesting of all the traditional counties.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T195514Z">
+        <seg>Considerado como el condado tradicional más pintoresco, variado e interesante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>North West England<ph x="0">&lt;t0/&gt;</ph></seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T195514Z">
+        <seg>Noroeste de Inglaterra<ph x="0">&lt;t0/&gt;</ph></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Major industrial cities and breathtaking scenery between Wales and Scotland.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T195514Z">
+        <seg>Principales ciudades industriales y un paisaje impresionante entre Gales y Escocia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>North East England<ph x="0">&lt;t0/&gt;</ph></seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T195514Z">
+        <seg>Noreste de Inglaterra<ph x="0">&lt;t0/&gt;</ph></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The urbanised areas of Teesside and Tyne and Wear plus the largely rural large county of Northumberland with its sparsely populated borders with Scotland and beautiful countryside and coastline.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T195514Z">
+        <seg>Las áreas urbanizadas de Teesside y Tyne y Wear, más el gran condado de Northumberland en gran parte rural, con sus fronteras escasamente pobladas con Escocia y su bonito campo y costa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Cities<ph x="0">&lt;t0/&gt;</ph>[<ph x="1">&lt;t1/&gt;</ph>edit<ph x="2">&lt;t2/&gt;</ph>]</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T195514Z">
+        <seg>Ciudades<ph x="0">&lt;t0/&gt;</ph>[<ph x="1">&lt;t1/&gt;</ph>editar<ph x="2">&lt;t2/&gt;</ph>]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>London is already the most touristy city in the whole world, however there are other cities to visit. Listed below are nine of the most popular:</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T195514Z">
+        <seg>Inglaterra tiene muchas grandes ciudades En esta lista se encuentran nueve de las más populares:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>London<ph x="0">&lt;t0/&gt;</ph> — largest metropolitan area in Western Europe, and a global capital of finance, fashion and culture.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T195514Z">
+        <seg>Londres<ph x="0">&lt;t0/&gt;</ph> — El área metropolitana más grande de Europa Occidental, y una capital global de las finanzas, la moda y la cultura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Birmingham<ph x="0">&lt;t0/&gt;</ph> — the UK's second largest city (by population) in the industrial heartland.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T195514Z">
+        <seg>Birmingham — La segunda ciudad más grande del Reino Unido (por el número de habitantes) en el corazón industrial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Bristol<ph x="0">&lt;t0/&gt;</ph> — vibrant music and art scene, lovely historic buildings, an attractive waterfront and a laid back, friendly, amiable, mellow atmosphere in the West Country's largest city.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T195514Z">
+        <seg>Bristol — Música animada y panorama artístico, encantadores edificios históricos, un atractivo paseo marítimo y una atmósfera relajada, agradable, amable y apacible en la ciudad más grande del oeste del país.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Brighton<ph x="0">&lt;t0/&gt;</ph> — regency seaside resort and university town with quirky shopping, good eating, rich culture and vibrant gay nightlife.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T195514Z">
+        <seg>Brighton — Balneario junto al mar estilo Regencia y ciudad universitaria con compras extravagantes, comida sabrosa, cultura rica y animada vida nocturna gay.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Liverpool<ph x="0">&lt;t0/&gt;</ph> — "The home of the Beatles", a booming cosmopolitan city famous for its vibrant nightlife, rich cultural heritage, magnificent waterfront, superb architecture, and excellence in music and sport.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T195514Z">
+        <seg>Liverpool — Próspera ciudad cosmopolita, famosa por sus monumentos históricos, el deporte, la música y la vida nocturna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Manchester<ph x="0">&lt;t0/&gt;</ph> — third most visited city in the UK, a cultural, sporting, entertainment, shopping and media hub.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T195514Z">
+        <seg>Manchester — La tercera ciudad más visitada del Reino Unido, un eje cultural, deportivo, de entretenimiento, con tiendas y medios de comunicación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Nottingham<ph x="0">&lt;t0/&gt;</ph> — "Queen of the Midlands", home of Robin Hood, Sherwood Forest and Nottingham Castle.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T195514Z">
+        <seg>Nottingham — " La reina de Midlands ", hogar de Robin Hood, del bosque de Sherwood y del castillo de Nottingham.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Newcastle upon Tyne<ph x="0">&lt;t0/&gt;</ph> — a thriving northern city with world-famous nightlife.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T195514Z">
+        <seg>Newcastle upon Tyne — una próspera ciudad del norte con una vida nocturna mundialmente famosa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>York<ph x="0">&lt;t0/&gt;</ph> — ancient capital of Yorkshire, with Roman, Viking and Medieval remains.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T195514Z">
+        <seg>York — Antigua capital de Yorkshire, con ruinas romanas, vikingas y medievales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Other destinations<ph x="0">&lt;t0/&gt;</ph>[<ph x="1">&lt;t1/&gt;</ph>edit<ph x="2">&lt;t2/&gt;</ph>]</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T195514Z">
+        <seg>Otros destinos<ph x="0">&lt;t0/&gt;</ph>[<ph x="1">&lt;t1/&gt;</ph>editar<ph x="2">&lt;t2/&gt;</ph>]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>England has many outstanding landmarks and sites of interest.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T195514Z">
+        <seg>Inglaterra tiene muchos edificios históricos extraordinarios y sitios de interés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Listed below are nine of the most notable:</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T195514Z">
+        <seg>A continuación se mencionan nueve de los más notables:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Hadrian's Wall<ph x="0">&lt;t0/&gt;</ph> — the Romans built this 87 mile wall to protect their English outpost from northern raiders.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T195514Z">
+        <seg>El Muro de Adriano - Los romanos construyeron este muro de 87 millas de extensión (140 km) para proteger su reducto inglés de los invasores del norte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Isles of Scilly<ph x="0">&lt;t0/&gt;</ph> — magical archipelago of tiny islands off the south western coast of Cornwall.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T195514Z">
+        <seg>Islas de Scilly - mágico archipiélago de pequeñas islas frente a la costa sur occidental de Cornualles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Lake District National Park<ph x="0">&lt;t0/&gt;</ph> — glorious mountains, lakes and woodlands; the land of Wordsworth.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T195514Z">
+        <seg>Lake District National Park - maravillosas montañas, lagos y bosques; la tierra del poeta romántico Wordsworth.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>New Forest National Park<ph x="0">&lt;t0/&gt;</ph> — one of the few remnants of the great oak and hornbeam woodland that once covered southern England.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T195514Z">
+        <seg> Parque Nacional de New Forest - uno de los pocos restos de los grandes bosques de robles y carpes que en su día cubrieron el sur de Inglaterra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>North York Moors National Park<ph x="0">&lt;t0/&gt;</ph> — with heather-clad hills, woodlands, impressive sea cliffs and secluded beaches, this area is one of the true English gems.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T195514Z">
+        <seg>Parque Nacional de North York Moors - con colinas cubiertas de brezo, bosques, impresionantes acantilados y playas solitarias, esta zona es una de las verdaderas joyas inglesas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Peak District National Park<ph x="0">&lt;t0/&gt;</ph> — rugged moors and hills which form the northern spine of England.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T195514Z">
+        <seg>Parque Nacional del Distrito de los Picos - páramos escarpados y colinas que forman la columna vertebral del norte de Inglaterra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>South Downs National Park<ph x="0">&lt;t0/&gt;</ph> — the gentle rolling chalk downs of southern England.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T195514Z">
+        <seg>Parque Nacional de South Downs - las colinas de caliza poco empinadas y onduladas del sur de Inglaterra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Stonehenge<ph x="0">&lt;t0/&gt;</ph> — the iconic Neolithic and Bronze Age monument; as mysterious as it is famous.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T195514Z">
+        <seg>Stonehenge - el emblemático monumento del Neolítico y la Edad de Bronce; tan misterioso como famoso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Yorkshire Dales National Park<ph x="0">&lt;t0/&gt;</ph> — charming, picture postcard villages set in some of the finest landscapes anywhere in Britain.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T195514Z">
+        <seg>Parque Nacional de Yorkshire Dales - encantadores pueblos de postal establecidos en algunos de los mejores paisajes de toda Gran Bretaña.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

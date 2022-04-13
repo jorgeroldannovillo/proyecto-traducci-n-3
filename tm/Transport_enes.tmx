@@ -1,0 +1,838 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN"/>
+  <body>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Get in<ph x="0">&lt;t0/&gt;</ph>[<ph x="1">&lt;t1/&gt;</ph>edit<ph x="2">&lt;t2/&gt;</ph>]</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>Cómo llegar<ph x="0">&lt;t0/&gt;</ph>[<ph x="1">&lt;t1/&gt;</ph>editar<ph x="2">&lt;t2/&gt;</ph>]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>From outside Great Britain<ph x="0">&lt;t0/&gt;</ph>[<ph x="1">&lt;t1/&gt;</ph>edit<ph x="2">&lt;t2/&gt;</ph>]</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>Por carretera<ph x="0">&lt;t0/&gt;</ph>[<ph x="1">&lt;t1/&gt;</ph>editar<ph x="2">&lt;t2/&gt;</ph>] Desde fuera de Gran Bretaña<ph x="0">&lt;t0/&gt;</ph>[<ph x="1">&lt;t1/&gt;</ph>editar<ph x="2">&lt;t2/&gt;</ph>]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Since England is on an island, it is not possible to drive directly into England from outside Great Britain.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>Dado que Inglaterra está en una isla, no es posible entrar en coche directamente desde fuera de Gran Bretaña.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Motorists have two choices to enter England from outside Great Britain, by various car ferry routes, or the Channel Tunnel.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>Los automovilistas tienen dos opciones para entrar en Inglaterra desde fuera de Gran Bretaña: por varias rutas de <ph x="0">&lt;t0/&gt;</ph>ferry<ph x="1">&lt;t1/&gt;</ph> para automóviles o por el Eurotúnel (Channel tunnel).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Car ferries<ph x="0">&lt;t0/&gt;</ph>[<ph x="1">&lt;t1/&gt;</ph>edit<ph x="2">&lt;t2/&gt;</ph>]</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>Ferries<ph x="0">&lt;t0/&gt;</ph> de automóviles<ph x="1">&lt;t1/&gt;</ph>[<ph x="2">&lt;t2/&gt;</ph>editar<ph x="3">&lt;t3/&gt;</ph>]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>From mainland <ph x="0">&lt;t0/&gt;</ph>Europe<ph x="1">&lt;t1/&gt;</ph>.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>Desde la parte continental de <ph x="0">&lt;t0/&gt;</ph>Europa<ph x="1">&lt;t1/&gt;</ph>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>- there are a wide variety of routes and operators from various countries. <ph x="2">&lt;t2/&gt;</ph>Ferry routes to British Mainland</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>- hay una amplia variedad de rutas y operadores desde varios países. Rutas de <ph x="2">&lt;t2/&gt;</ph>ferry<ph x="3">&lt;t3/&gt;</ph> hacia la isla principal de Gran Bretaña.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>From the <ph x="0">&lt;t0/&gt;</ph>Channel Islands<ph x="1">&lt;t1/&gt;</ph>.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>Desde las Islas del Canal, Reino Unido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Services connect <ph x="2">&lt;t2/&gt;</ph>Jersey<ph x="3">&lt;t3/&gt;</ph> and <ph x="4">&lt;t4/&gt;</ph>Guernsey<ph x="5">&lt;t5/&gt;</ph> with the south of England.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>Los servicios conectan Jersey y Guernsey con el sur de Inglaterra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>From the <ph x="0">&lt;t0/&gt;</ph>Isle of Man<ph x="1">&lt;t1/&gt;</ph>.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>Desde la Isla de Man.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Services connect <ph x="2">&lt;t2/&gt;</ph>Douglas<ph x="3">&lt;t3/&gt;</ph>, <ph x="4">&lt;t4/&gt;</ph>Isle of Man<ph x="5">&lt;t5/&gt;</ph> with the north west of England</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>Los servicios conectan Douglas (Isla de Man) con el noroeste de Inglaterra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>From <ph x="0">&lt;t0/&gt;</ph>Ireland<ph x="1">&lt;t1/&gt;</ph>.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>Desde <ph x="0">&lt;t0/&gt;</ph>Irlanda<ph x="1">&lt;t1/&gt;</ph>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>There are only limited car ferry services connecting <ph x="2">&lt;t2/&gt;</ph>Ireland<ph x="3">&lt;t3/&gt;</ph> directly with England.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>Sólo hay servicios de <ph x="2">&lt;t2/&gt;</ph>ferry<ph x="3">&lt;t3/&gt;</ph> de automóviles limitados que conecten <ph x="4">&lt;t4/&gt;</ph>Irlanda<ph x="5">&lt;t5/&gt;</ph> directamente con Inglaterra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Alternatively it is possible to take a ferry from <ph x="4">&lt;t4/&gt;</ph>Ireland<ph x="5">&lt;t5/&gt;</ph> to <ph x="6">&lt;t6/&gt;</ph>Wales<ph x="7">&lt;t7/&gt;</ph> or <ph x="8">&lt;t8/&gt;</ph>Scotland<ph x="9">&lt;t9/&gt;</ph> and then continue the journey by road to England.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>Otra posibilidad es coger un <ph x="6">&lt;t6/&gt;</ph>ferry<ph x="7">&lt;t7/&gt;</ph> desde <ph x="8">&lt;t8/&gt;</ph>Irlanda<ph x="9">&lt;t9/&gt;</ph> hacia Gales o <ph x="10">&lt;t10/&gt;</ph>Escocia<ph x="11">&lt;t11/&gt;</ph> y luego continuar el viaje por carretera a Inglaterra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>See "by boat" for further details.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>Véase la sección "por barco" para mayor información.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Channel Tunnel<ph x="0">&lt;t0/&gt;</ph>[<ph x="1">&lt;t1/&gt;</ph>edit<ph x="2">&lt;t2/&gt;</ph>]</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>Eurotúnel (Channel Tunnel)<ph x="0">&lt;t0/&gt;</ph>[<ph x="1">&lt;t1/&gt;</ph>editar<ph x="2">&lt;t2/&gt;</ph>]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>From <ph x="0">&lt;t0/&gt;</ph>France<ph x="1">&lt;t1/&gt;</ph>.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>Desde <ph x="0">&lt;t0/&gt;</ph>Francia<ph x="1">&lt;t1/&gt;</ph>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Eurotunnel <ph x="2">&lt;t2/&gt;</ph>[1]<ph x="3">&lt;t3/&gt;</ph> run a frequent train service from <ph x="4">&lt;t4/&gt;</ph>Calais<ph x="5">&lt;t5/&gt;</ph>, <ph x="6">&lt;t6/&gt;</ph>France<ph x="7">&lt;t7/&gt;</ph>, to <ph x="8">&lt;t8/&gt;</ph>Folkestone<ph x="9">&lt;t9/&gt;</ph> which carries vehicles and their passengers.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>El Eurotúnel <ph x="2">&lt;t2/&gt;</ph>[2]<ph x="3">&lt;t3/&gt;</ph> pone a disposición un servicio frecuente de trenes desde Calais (Francia) hacia Folkestone que transporta vehículos y a sus pasajeros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>From elsewhere in Great Britain<ph x="0">&lt;t0/&gt;</ph>[<ph x="1">&lt;t1/&gt;</ph>edit<ph x="2">&lt;t2/&gt;</ph>]</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>Desde otra parte de Gran Bretaña<ph x="0">&lt;t0/&gt;</ph>[<ph x="1">&lt;t1/&gt;</ph>editar<ph x="2">&lt;t2/&gt;</ph>]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>A number of roads cross England's borders with its British neighbours.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>Un gran número de carreteras atraviesan las fronteras de Inglaterra con sus vecinos británicos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>These roads range from the simple country lanes to motorways.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>Estas carreteras varían desde los carriles más simples a las autopistas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>There are no border controls with <ph x="0">&lt;t0/&gt;</ph>Scotland<ph x="1">&lt;t1/&gt;</ph> or <ph x="2">&lt;t2/&gt;</ph>Wales<ph x="3">&lt;t3/&gt;</ph>; indeed, on smaller roads the border may not be noticed at all.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>No hay controles fronterizos con <ph x="0">&lt;t0/&gt;</ph>Escocia<ph x="1">&lt;t1/&gt;</ph> o Gales. De hecho, en las carreteras más pequeñas es probable que ni siquiera se note la frontera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>There are no tolls to cross into England; however, motorists need to be aware that crossing from England into <ph x="0">&lt;t0/&gt;</ph>Wales<ph x="1">&lt;t1/&gt;</ph> via the M4 and M48 Severn Bridges will need to pay a toll.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>Tampoco hay peajes para entrar a Inglaterra. Sin embargo, los conductores deben ser conscientes de que se deberá pagar un peaje en el cruce de Inglaterra con Gales a través de las autopistas M4 y M48 que transcurren por los puentes de Severn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Also, there is a M6 toll road to bypass the congestion of <ph x="2">&lt;t2/&gt;</ph>Birmingham<ph x="3">&lt;t3/&gt;</ph> (England's second largest city) on the main M6 motorway.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>Además, hay una autopista de peaje para evitar el tráfico de Birmingham (la segunda ciudad más grande de Inglaterra) en la M6, que es la autopista principal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The most important road connections into and out of England are.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>Las conexiones por carretera más importantes dentro y fuera de Inglaterra son:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>A1 from Edinburgh to Eastern Scotland</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>La A1 desde Edimburgo al este de Escocia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>M4 from South Wales</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>La M4 desde el sur de Gales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>M74/A74/M6 from Western Scotland</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>La M74/A74/M6 desde el oeste de Escocia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>A55 from North Wales.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>La A55 desde Gales del Norte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>By plane<ph x="0">&lt;t0/&gt;</ph>[<ph x="1">&lt;t1/&gt;</ph>edit<ph x="2">&lt;t2/&gt;</ph>]</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>En avión<ph x="0">&lt;t0/&gt;</ph>[<ph x="1">&lt;t1/&gt;</ph>editar<ph x="2">&lt;t2/&gt;</ph>]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>England has numerous airports:</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>Inglaterra cuenta con numerosos aeropuertos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>London and the South East</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>Londres y el sureste</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>London Gatwick <ph x="0">&lt;t0/&gt;</ph>[2]</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>London Gatwick <ph x="0">&lt;t0/&gt;</ph>[3]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Heathrow Airport<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>[3]<ph x="2">&lt;t2/&gt;</ph> - Largest airport in UK, and third busiest in the world.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>Aeropuerto de Heathrow <ph x="0">&lt;t0/&gt;</ph>[4]<ph x="1">&lt;t1/&gt;</ph> - El aeropuerto más grande del Reino Unido y el tercer aeropuerto más transitado del mundo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>London Stansted <ph x="0">&lt;t0/&gt;</ph>[4]</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>El sur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>London Luton <ph x="0">&lt;t0/&gt;</ph>[5]</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>Southampton <ph x="0">&lt;t0/&gt;</ph>[5]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>London City <ph x="0">&lt;t0/&gt;</ph>[6]</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>Bournemouth <ph x="0">&lt;t0/&gt;</ph>[6]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The South</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>El sur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The South West</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>El sudoeste</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The Midlands</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>Las Midlands</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Coventry Airport <ph x="0">&lt;t0/&gt;</ph>[16]</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>Aeropuerto de Coventry <ph x="0">&lt;t0/&gt;</ph>[16]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The North</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>El norte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Doncaster Sheffield Airport <ph x="0">&lt;t0/&gt;</ph>[21]</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>Doncaster-Sheffield <ph x="0">&lt;t0/&gt;</ph>[21]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>By train<ph x="0">&lt;t0/&gt;</ph>[<ph x="1">&lt;t1/&gt;</ph>edit<ph x="2">&lt;t2/&gt;</ph>]</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>En tren<ph x="0">&lt;t0/&gt;</ph>[<ph x="1">&lt;t1/&gt;</ph>editar<ph x="2">&lt;t2/&gt;</ph>]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Eurostar <ph x="0">&lt;t0/&gt;</ph>[25]<ph x="1">&lt;t1/&gt;</ph> links mainland <ph x="2">&lt;t2/&gt;</ph>Europe<ph x="3">&lt;t3/&gt;</ph> to England.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>Los servicios ferroviarios de Eurostar <ph x="0">&lt;t0/&gt;</ph>[25]<ph x="1">&lt;t1/&gt;</ph> conectan el continente europeo con Inglaterra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Trains run from <ph x="4">&lt;t4/&gt;</ph>Paris<ph x="5">&lt;t5/&gt;</ph>, <ph x="6">&lt;t6/&gt;</ph>France<ph x="7">&lt;t7/&gt;</ph> and <ph x="8">&lt;t8/&gt;</ph>Brussels<ph x="9">&lt;t9/&gt;</ph>, <ph x="10">&lt;t10/&gt;</ph>Belgium<ph x="11">&lt;t11/&gt;</ph> (via <ph x="12">&lt;t12/&gt;</ph>Lille<ph x="13">&lt;t13/&gt;</ph> and <ph x="14">&lt;t14/&gt;</ph>Calais<ph x="15">&lt;t15/&gt;</ph>) crossing into England via the Channel Tunnel (and often stopping at either Ebbsfleet or <ph x="16">&lt;t16/&gt;</ph>Ashford<ph x="17">&lt;t17/&gt;</ph>) before continuing to St. Pancras Station in London.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>Los trenes circulan desde <ph x="2">&lt;t2/&gt;</ph>París<ph x="3">&lt;t3/&gt;</ph> ( <ph x="4">&lt;t4/&gt;</ph>Francia<ph x="5">&lt;t5/&gt;</ph> ) y <ph x="6">&lt;t6/&gt;</ph>Bruselas<ph x="7">&lt;t7/&gt;</ph> ( <ph x="8">&lt;t8/&gt;</ph>Bélgica<ph x="9">&lt;t9/&gt;</ph> ) (pasando por <ph x="10">&lt;t10/&gt;</ph>Lille<ph x="11">&lt;t11/&gt;</ph> y Calais) y atraviesan Inglaterra pasando por el Eurotúnel (deteniéndose a menudo o bien en Ebbsfleet o bien en Ashford) antes de continuar hasta la estación de St. Pancras en Londres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Occasional services run from other destinations in <ph x="18">&lt;t18/&gt;</ph>France<ph x="19">&lt;t19/&gt;</ph>.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>Algunos servicios ocasionales circulan desde otros destinos en <ph x="12">&lt;t12/&gt;</ph>Francia<ph x="13">&lt;t13/&gt;</ph>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Book as early as possible as fares can be considerably more expensive if trying to book at the last minute.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>Reserva lo antes posible, puesto que las tarifas pueden ser considerablemente más caras si se intenta reservar en el último momento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>From Wales and Scotland regular services cross the borders into England.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>Desde Gales y Escocia hay servicios regulares que atraviesan las fronteras hacia Inglaterra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>BritRail Passes are also available to non-UK citizens which allow the traveller unlimited rail travel in England on one ticket. <ph x="0">&lt;t0/&gt;</ph>Wikitravel has a guide to <ph x="1">&lt;t1/&gt;</ph>Rail travel in the United Kingdom<ph x="2">&lt;t2/&gt;</ph>.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>Los pasajes del BritRail también están disponibles para los ciudadanos extranjeros, y además, permiten al viajero disfrutar de viajes de tren ilimitados en Inglaterra con sólo un billete <ph x="0">&lt;t0/&gt;</ph>[26]<ph x="1">&lt;t1/&gt;</ph>. <ph x="2">&lt;t2/&gt;</ph>Wikitravel dispone de una guía para los viajes de tren en el Reino Unido sólo disponible en inglés (<ph x="3">&lt;t3/&gt;</ph>Rail travel in the United Kingdom<ph x="4">&lt;t4/&gt;</ph>).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>By boat<ph x="0">&lt;t0/&gt;</ph>[<ph x="1">&lt;t1/&gt;</ph>edit<ph x="2">&lt;t2/&gt;</ph>]</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>En barco<ph x="0">&lt;t0/&gt;</ph>[<ph x="1">&lt;t1/&gt;</ph>editar<ph x="2">&lt;t2/&gt;</ph>]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>With so much coastline and so many ports, England has extensive shipping links with many countries worldwide.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>Debido a sus costas kilométricas y a la gran cantidad de puertos, Inglaterra tiene extensos enlaces marítimos con muchos países del mundo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Major ports are <ph x="0">&lt;t0/&gt;</ph>Dover<ph x="1">&lt;t1/&gt;</ph>, <ph x="2">&lt;t2/&gt;</ph>Folkestone<ph x="3">&lt;t3/&gt;</ph>, <ph x="4">&lt;t4/&gt;</ph>Harwich<ph x="5">&lt;t5/&gt;</ph>, <ph x="6">&lt;t6/&gt;</ph>Hull<ph x="7">&lt;t7/&gt;</ph>, <ph x="8">&lt;t8/&gt;</ph>Plymouth<ph x="9">&lt;t9/&gt;</ph>, <ph x="10">&lt;t10/&gt;</ph>Portsmouth<ph x="11">&lt;t11/&gt;</ph>, <ph x="12">&lt;t12/&gt;</ph>Southampton<ph x="13">&lt;t13/&gt;</ph>, <ph x="14">&lt;t14/&gt;</ph>Liverpool<ph x="15">&lt;t15/&gt;</ph>, <ph x="16">&lt;t16/&gt;</ph>Ipswich<ph x="17">&lt;t17/&gt;</ph> and <ph x="18">&lt;t18/&gt;</ph>Newcastle<ph x="19">&lt;t19/&gt;</ph>.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>Los puertos principales son Dover, <ph x="0">&lt;t0/&gt;</ph>Folkestone, Harwich, Hull, Plymouth, Portsmouth, Southampton, Liverpool, Ipswich y Newcastle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>See <ph x="20">&lt;t20/&gt;</ph>Ferry routes to British Mainland<ph x="21">&lt;t21/&gt;</ph>.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>Véase <ph x="1">&lt;t1/&gt;</ph>Ferry routes to British Mainland<ph x="2">&lt;t2/&gt;</ph> para más información sobre las rutas de <ph x="3">&lt;t3/&gt;</ph>ferry<ph x="4">&lt;t4/&gt;</ph> por el continente británico en inglés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>If you're visiting the <ph x="0">&lt;t0/&gt;</ph>Cardiff<ph x="1">&lt;t1/&gt;</ph> area in <ph x="2">&lt;t2/&gt;</ph>Wales<ph x="3">&lt;t3/&gt;</ph> during the summer, then there is the opportunity to sail to the West Somerset/ North Devon resorts such as Minehead, <ph x="4">&lt;t4/&gt;</ph>Ilfracombe<ph x="5">&lt;t5/&gt;</ph>, <ph x="6">&lt;t6/&gt;</ph>Bideford<ph x="7">&lt;t7/&gt;</ph> and <ph x="8">&lt;t8/&gt;</ph>Lundy Island<ph x="9">&lt;t9/&gt;</ph> across the <ph x="10">&lt;t10/&gt;</ph>Bristol Channel<ph x="11">&lt;t11/&gt;</ph> (the funnel shaped stretch of water that seperates the coasts of Wales and the West Country) via the paddle steamers the Waverly and Balmoral (usually <ph x="12">&lt;t12/&gt;</ph>Penarth<ph x="13">&lt;t13/&gt;</ph> just to the west of Cardiff).</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>Si estás de visita por la zona de Cardiff, en Gales, durante el verano, tendrás entonces la oportunidad de navegar a los centros turísticos de North Somerset y North Devon como Minehead, Ilfracombe, Bideford y la isla de Lundy a través del Canal de Bristol (el estrecho en forma de embudo que separa las costas de Gales y el oeste del país) pasando por Waverly y Balmorar mediante barcos de vapor (normalmente también por Penarth, al oeste justo de Cardiff).Esto es altamente recomendable por varias razones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>This is highly recommended for a few reasons - firstly, the M5, the main route into the West Country is a dreary, slow, lethargic and often congested and frustrating road that is very easily prone to snarl ups - sitting on a hot summers day in a car stuck in traffic on the M5 is frustrating to say the least.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>En primer lugar, la M5, la carretera principal hacia el oeste del país, es una carretera aburrida, lenta, letárgica y con frecuencia congestionada y agobiante, por lo que es muy propensa a tener atascos (estar metido en el coche durante un atasco de la M5 en un sofocante día de verano es, como mínimo, frustrante).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Secondly, the journey from <ph x="14">&lt;t14/&gt;</ph>Penarth<ph x="15">&lt;t15/&gt;</ph> to <ph x="16">&lt;t16/&gt;</ph>Ilfracombe<ph x="17">&lt;t17/&gt;</ph> on a warm <ph x="18">&lt;t18/&gt;</ph>summers day, you can get to see a sea-going perspective of <ph x="19">&lt;t19/&gt;</ph>Minehead<ph x="20">&lt;t20/&gt;</ph>, Porlock, the picture postcard villages of Lynton and Lynmouth, the wild and raw Valley of the Rocks and the majestic "Great Hangman", a 1043 feet hogback hill with a cliff face of 820 feet making it the highest cliff in Southern England.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>En segundo lugar, en el viaje desde Penarth hacia Ilfracombe en un cálido día de verano, se puede apreciar una perspectiva marítima de Minehead, Porlock, los pueblos de Lynton y Lynmouth (que parecen sacados de una postal), el salvaje Valle de las Rocas (Valley of the Rocks) y la majestuosa "Great Hangman", una colina escarpada de 318 metros de altura con un acantilado de 250 metros, lo que hace que sea el acantilado más alto del sur de Inglaterra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Heading west from Ilfracombe to Lundy Island is an opportunity to see the majestic <ph x="21">&lt;t21/&gt;</ph>Bay of Naples<ph x="22">&lt;t22/&gt;</ph> styled curve of Bideford Bay with the magnificent surf beaches of <ph x="23">&lt;t23/&gt;</ph>Woolacombe<ph x="24">&lt;t24/&gt;</ph>, <ph x="25">&lt;t25/&gt;</ph>Croyde<ph x="26">&lt;t26/&gt;</ph>, <ph x="27">&lt;t27/&gt;</ph>Staunton<ph x="28">&lt;t28/&gt;</ph> and Westward Ho!</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>Si se navega rumbo oeste desde Ilfracombe hacia la isla de Lundy se tiene la oportunidad de ver la majestuosa bahía inglesa de Nápoles (bahía de Weymouth), de estilo curvado como la bahía de Bideford, con sus magníficas playas surferas de Woolacombe, Croyde, Staunton and Westward Ho!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>in all their glory.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>en todo su esplendor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Sailing from Wales to the West Country is definetly better than driving down the awful M5!!!</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>¡Navegar desde Gales al oeste del país es, sin duda, mucho mejor que conducir por la terrible M5!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Get around<ph x="0">&lt;t0/&gt;</ph>[<ph x="1">&lt;t1/&gt;</ph>edit<ph x="2">&lt;t2/&gt;</ph>]</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>Cómo moverse<ph x="0">&lt;t0/&gt;</ph>[<ph x="1">&lt;t1/&gt;</ph>editar<ph x="2">&lt;t2/&gt;</ph>]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>England is well serviced by domestic air, land and sea routes.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>Inglaterra cuenta con un servicio de rutas por aire, por tierra y por mar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>There are taxi firms everywhere (many are by booking only - find the phone number of the local company and phone ahead), and every town has a bus service.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>Hay empresas de taxis en todas partes (muchas requieren reserva, por lo que debes encontrar el número de teléfono de la empresa local y llamar con antelación), y cada ciudad cuenta con un servicio de autobús.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>'Black Cabs' are also common in cities and can be hailed from the side of the road.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>Los <ph x="0">&lt;t0/&gt;</ph>Black Cabs<ph x="1">&lt;t1/&gt;</ph> (taxis negros) también son comunes en las ciudades y se pueden parar desde la misma acera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Sometimes in city centres, usually just after the nightclubs have closed, there will be queue for taxis which will sometimes be monitored by marshals or police.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>A veces, en el centro de las ciudades, normalmente después de que cierren los <ph x="2">&lt;t2/&gt;</ph>pubs<ph x="3">&lt;t3/&gt;</ph>, se forman colas de taxis que suelen ser dirigidas por los alguaciles o por la policía.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>To be safe, make sure you take a registered taxi or black cab; despite government action, many unlawful unregistered private taxi drivers exist - these do have a reputation for being unsafe, particularly if you are a woman.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>Por tu propia seguridad, asegúrate de coger un taxi registrado o un <ph x="0">&lt;t0/&gt;</ph>black cab<ph x="1">&lt;t1/&gt;</ph>. A pesar de las medidas del gobierno, existen muchos taxistas ilegales no registrados y estos tienen fama de ser peligrosos, sobre todo si eres una mujer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>England has one of the highest densities of railway lines per square mile in the world.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>Inglaterra tiene una de las mayores densidades de líneas ferroviarias por metro cuadrado en el mundo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>There has been much improvement and investment in recent years to the railway network and rolling stock but delays and cancellations do occasionally occur.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>Ha habido una gran cantidad de mejoras y se ha invertido en los últimos años en la red ferroviaria y el material rodante, aunque de vez en cuando se producen retrasos y cancelaciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Overcrowding can be a problem in large cities, especially at 'rush-hour' times (7AM - 9AM &amp; 5PM - 7PM, Monday to Friday) so it is best to avoid these times when tickets can be expensive as well.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>La aglomeración de personas puede ser un problema en las grandes ciudades, especialmente en los momentos de "hora punta" (07:00h - 09:00h y 17:00h - 19:00h de lunes a viernes) así que lo mejor es evitar estas horas en las que los billetes también son más caros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>See also <ph x="0">&lt;t0/&gt;</ph>Rail travel in the United Kingdom<ph x="1">&lt;t1/&gt;</ph>.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>Véase el artículo de los viajes en tren en el Reino Unido (disponible sólo en inglés).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Buses are numerous, frequent and reliable in most of the larger towns and cities and an ideal way of getting around.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>Los autobuses son numerosos, frecuentes, fiables en la mayoría de los pueblos y ciudades de mayor tamaño y una forma ideal de moverse por la ciudad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Rural areas are less well served and hiring a car is often the best option to explore the countryside and villages.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>Las zonas rurales están peor atendidas y, a menudo, la mejor opción para explorar el campo y aldeas es alquilar un coche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The roads are of generally excellent quality (although can deteriorate in rural areas, with cheap materials often used to repair the roads, only for the workmen and resulting road closures to rerun soon later.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>En general, las carreteras son de excelente calidad (aunque algunas pueden estar deterioradas en las zonas rurales)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Potholes are a huge nuisance to locals, as it can takes weeks or months for them to be repaired, although done cheaply using a method called "Patching"). Care should be taken on rural and minor roads, some of which are extremely narrow, twisty and poorly marked, while many are two way roads and only wide enough for one car, meaning a meeting situation can be unpleasant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The signs and markings on most roads are clear, although roundabouts make traffic slow to a crawl during "Rush Hour". The main problem with driving in England is the sheer volume of traffic on the roads.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>y las señales y las líneas de señalización vial son claras. El principal problema de la conducción en Inglaterra es el gran volumen de tráfico en las carreteras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Unfortunately this is not only limited to rush-hours and large cities, and even cross country motorways can slow to a stop as they pass urban areas.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>Desgraciadamente, esto no está limitado a los momentos de hora punta y a las grandes ciudades, y pueden producirse incluso algunas detenciones en las autopistas que atraviesan el país cuando se conduce por áreas urbanas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Prepare for travel times being longer than you'd normally anticipate in relation to the mileage.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>Prepárate para <ph x="0">&lt;t0/&gt;</ph>que los viajes duren más tiempo de lo esperado con relación al kilometraje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The speed limit, unless otherwise stated, is 30 or 40 mph in built-up areas, 50 or 60 mph (approx 95 km/h) elsewhere and 70 mph (approx. 110 km/h) on motorways and other controlled-access roads.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>El límite de velocidad, a menos que se indique otra cosa, es de 30 o 40 millas por hora (50 km/h) en las zonas urbanas, 50 o 60 millas por hora (unos 95 km/h) en otros lugares y 70 mph (unos 110 km/h) en las autopistas y otras vías de acceso controlado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Speed cameras and traffic police are numerous so caution is advised.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>Hay un gran número de radares de control de velocidad y policías de tráfico, por lo que se recomienda tener precaución.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The traditional British 'reserve' and politeness may occasionally dissolve under the stress of congestion on the major routes, especially with the traffic problems in some of England's larger cities, but generally driving around Britain is an enjoyable experience and it is polite to acknowledge the courtesy of another driver with a nod or the raising of the hand as a form of thank you.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>El "autocontrol" y la cortesía tradicionales británicos pueden desvanecerse ocasionalmente bajo situaciones de estrés causadas por los atascos en las principales carreteras (especialmente con los problemas de tráfico de algunas de las ciudades más grandes de Inglaterra), pero, en general, conducir por Gran Bretaña es una experiencia placentera y es de buena educación agradecer la cortesía de otro conductor con una inclinación de cabeza o levantando la mano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Drivers will often flash their headlights to indicate that you are clear to pull out, or otherwise to give way to you, and it is considered polite to say thank you by giving a wave or a quick flash of your headlights.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>Los conductores suelen hacer parpadear las luces de su coche para indicar que puedes salir o bien para dejarte paso y se considera de buena educación darle las gracias mediante un saludo o dando un rápido destello con las luces delanteras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>However, be prepared for drivers who do not agree with speed limits, especially newly created ones on roads where for example, the limit has been lowered from 60 to 30 after campaigns from locals.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Even if you are driving at the posted limit, there is a chance you will be overtaken and this will be more frequent if you have a sticker in your back window, implying you'll be sticking to it. Drivers with this <ph x="0">&lt;t0/&gt;</ph>attitude often spend ages driving behind you, while driving close behind as a means to make you speed up, even if it means breaking the law.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Do not worry about this, maintain your speed, as they are most likely the sort who are already collecting speeding points on their license, while you are sensible and in the right. Flashing your hazards (ie, both indicators at the same time) is only used as an indication of danger.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>Encender las luces intermitentes (es decir, ambos indicadores al mismo tiempo) sólo se hace cuando se quiere indicar peligro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Usually it's used to indicate the car's broken down or to warn other drivers that there's a hazard up ahead.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>Por lo general, se utiliza para indicar que el coche está averiado o para advertir a otros conductores de que hay un peligro más adelante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>But flashing your hazards a couple of times is another way of saying Thank you.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>Sin embargo, hacer parpadear los intermitentes un par de veces es otra forma de decir gracias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Brown and white road signs indicate nearby tourist attractions, and the blue <ph x="0">&lt;t0/&gt;</ph>i<ph x="1">&lt;t1/&gt;</ph> sign denotes Tourist Information.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>Las señales de tráfico marrones y blancas indican que hay atracciones turísticas cerca, las azules con una "i" en medio indican que hay una oficina de información turística.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The UK isn't as cycle-friendly as some other European countries, but it's still a great way to get around.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>No hay tantos ciclistas en el Reino Unido como en otros países europeos, pero también es una gran manera de moverse por las ciudades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>You'll see a lot more from a bicycle, have the freedom to stop wherever you want, no parking headaches and once you've got the bicycle there is nothing to pay.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>Verás muchas más cosas desde una bicicleta, tendrás la libertad de parar donde quieras sin los dolores de cabeza que produce aparcar y una vez que tengas la bicicleta, no tendrás que pagar nada más.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>It is unquestionably the fastest way around London and other major cities - it does have it's dangers but it's well worth the risk.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>Es, sin duda, la forma más rápida de moverse por Londres y las otras ciudades principales (tiene, por supuesto, sus peligros, pero merece la pena el riesgo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>There are many lovely cycle paths where you can avoid the traffic and soak in the cityscape or countryside.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>Hay muchas rutas preciosas para ciclistas con las que se puede evitar el tráfico e impregnarse del paisaje urbano o rural.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Rough examples of journey times at moderate speed: Buckingham Palace to Tower Bridge: 20 minutes; Buckingham Palace to Windsor Castle: 2 hours; Central London to Oxford city: 5 hours.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>Algunos ejemplos sencillos de la duración de un viaje a una velocidad moderada son: desde el palacio de Buckingham al puente de la torre (<ph x="0">&lt;t0/&gt;</ph>Tower Bridge<ph x="1">&lt;t1/&gt;</ph>): 20 minutos; desde el palacio de Buckingham al palacio de Windsor: 2 horas; desde el centro de Londres a Oxford: 5 horas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>A national online route planner can be found at <ph x="0">&lt;t0/&gt;</ph>Cycle Streets</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>Se puede encontrar un planificador de las carreteras nacionales en: <ph x="2">&lt;t2/&gt;</ph>Cycle Streets</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>You can hire a bicycle from some local bicycle shops, or purchase a decent one privately for between £0-100 second hand as the UK has a surplus of old bicycles.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>Puedes alquilar una bicicleta en algunas tiendas locales de bicicletas o comprar una decente de segunda mano para uso privado desde 0 a 100£, puesto que el Reino Unido tiene un excedente de bicicletas viejas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>You must use lights if you plan to cycle after dark and can be fined by the police for failing to do so.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>Debes utilizar las luces si circulas por la noche: la policía puede multarte si no lo haces.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>A front white light and red rear light are required.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>Se requiere una luz blanca delantera y una luz trasera roja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Flashing LED lights or bulb based bike lights both meet the legal requirements.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>Tanto las luces intermitentes de tipo LED como las bombillas para bicicletas cumplen con los requisitos legales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Helmets aren't compulsory.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>Los cascos no son obligatorios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>A decent lock is also essential, particularly in the cities bicycle theft is a common problem.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>Un buen candado es esencial, sobre todo en las ciudades donde el robo de bicicletas es un problema común.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Some of the London Underground trains and all London Overground accept cycles outside of peak hours. Local buses and trams don't accept bikes.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>Algunos de los trenes del metro de Londres y todos los trenes de superficie permiten la presencia de ciclistas fuera de los momentos de hora punta mientras que los buses locales y los tranvías no.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Mainline and suburban trains allow bicycles but normally have restrictions during peak hours on busy services.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>Las líneas de trenes interurbanas y las de cercanías permiten el tráfico de bicicletas pero normalmente tienen restricciones en los momentos de hora punta o en los servicios más concurridos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Policies vary from compulsory reservation of cycles space to no cycle during peak hours - its best to check with each rail operator or on the national rail web site for restrictions that could impact your planned journey.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>Las políticas varían desde la reserva obligatoria del espacio para bicicletas hasta la prohibición de su uso durante los momentos de hora punta - es mejor comprobar en las páginas web de cada operador ferroviario y de cada red de transporte nacional las restricciones que puedan provocar un imprevisto en tu plan de viaje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Folding bikes may travel at any time so long as they are collapsed completely.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>Se puede viajar con bicicletas plegables en cualquier momento siempre y cuando estén completamente plegadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Long distance coaches will normally let you on with a bicycle, as long as they're not too full.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>Los autobuses de larga distancia te dejarán montarte con la bicicleta siempre y cuando no vayan demasiado llenos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Arrive early for coaches so you get a space in the luggage hold.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T192517Z">
+        <seg>Es mejor que llegues pronto a los autobuses para conseguir un hueco en el portaequipajes.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

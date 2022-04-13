@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN"/>
+  <body>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Travelling from the European continent to Great Britain you will cross either the English Channel or the North Sea, and there are many different ways you can do this.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T184228Z">
+        <seg>Si viajas a Gran Bretaña desde Europa, tendrás que cruzar el Canal de la Mancha o el Mar del Norte, y tienes muchas formas diferentes de hacerlo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Ferry services operate from a number of ports and have good link-ups with both public transport and international coaches/buses.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T184228Z">
+        <seg>Hay servicios de ferry que operan desde distintos puertos de la Europa continental y que tienen buenas conexiones con servicios internacionales de autocar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The Channel Tunnel provides a non-stop rail link between Britain and the rest of Europe.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T184228Z">
+        <seg>El Eurotúnel ofrece un enlace por ferrocarril directo y fiable entre Europa y Gran Bretaña.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Prices among the ferries and the tunnel services remain competitive, and both options are good green alternatives to flying. Find out more:</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T184228Z">
+        <seg>Los precios se mantienen competitivos entre los servicios de ferry y el túnel, y ambas opciones son alternativas más ecológicas a tomar el avión.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Ferry services to Britain from Europe</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T184228Z">
+        <seg>Servicios de ferry desde Europa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>A network of car and passenger ferry services conveniently link several ports around the UK with northern and southern Europe.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T184228Z">
+        <seg>Una red de servicios de ferry para coches y pasajeros unen una docena de puertos británicos con el norte y el sur de Europa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Key international UK ferry ports include: Felixstowe, Harwich, Folkestone, Dover, Southampton, and Bristol in south England; Hull and Liverpool in north England; Edinburgh in Scotland, and Belfast in Northern Ireland.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Ferries can be convenient, economical and fun.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T184228Z">
+        <seg>Los <ph x="0">&lt;t0/&gt;</ph>ferries<ph x="1">&lt;t1/&gt;</ph> son un modo de transporte conveniente, económico y divertido tanto si viajas en coche como a pie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Fares vary greatly according to the season, time of travel and duration of stay so make sure you do you research before you book.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T184228Z">
+        <seg>Las tarifas varían dependiendo de la estación, la hora del viaje y la duración de la estancia, así que es conveniente consultar las diferentes opciones antes de hacer la reserva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T184228Z">
+        <seg>Hacer la reserva con bastante antelación ahorra mucho dinero.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T184228Z">
+        <seg>Un billete de ida y vuelta de Calais a Dover puede salir por tan solo £22 libras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Crossing times vary from just over an hour on the shortest routes to 24 hours on services from places like Spain and Scandinavia.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T184228Z">
+        <seg>La duración de la travesía puede variar entre poco más de una hora para los trayectos más cortos y hasta 24 horas para los servicios desde España o Escandinavia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>If you take an overnight sailing, it could be worth paying extra for sleeping quarters. <ph x="0">&lt;t0/&gt;</ph>DFDS<ph x="1">&lt;t1/&gt;</ph> runs fast Seacat (catamaran) services Boulogne in France, taking just under an hour.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T184228Z">
+        <seg>Si haces una travesía nocturna podría valer la pena pagar un poco más y reservar un camarote para evitar estar cansado al llegar. Brittany <ph x="0">&lt;t0/&gt;</ph>Ferries<ph x="1">&lt;t1/&gt;</ph> opera un servicio de catamarán entre Portsmouth y Cherburgo, en Francia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Catamarans can carry vehicles and lack the dip and sway of a conventional ship, so may be preferable for those who tend to get seasick.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T184228Z">
+        <seg>Los catamaranes pueden transportar vehículos y no cabecean tanto como los barcos convencionales, por lo que son una opción preferible para aquellas personas que tienden a marearse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Travel to Britain via the Channel Tunnel</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T184228Z">
+        <seg>Viajar por el Eurotúnel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The Channel Tunnel provides a route to Britain from the European continent via <ph x="0">&lt;t0/&gt;</ph>Eurostar trains<ph x="1">&lt;t1/&gt;</ph>(which take passengers) and Eurotunnel trains (which take passengers in their cars).</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T184228Z">
+        <seg>El Eurotúnel permite acceder a Gran Bretaña en el tren <ph x="0">&lt;t0/&gt;</ph>Eurostar<ph x="1">&lt;t1/&gt;</ph> desde las redes francesa y belga de ferrocarril. En Francia y Bélgica los trenes han llegado a alcanzar velocidades de hasta 300 km/h (186 millas por hora).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The cost is comparable to <ph x="2">&lt;t2/&gt;</ph>flying<ph x="3">&lt;t3/&gt;</ph> and the train can be more convenient and eco-friendly.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T184228Z">
+        <seg>El coste es similar al del avión, pero el tren es mucho más conveniente y mucho más respetuoso con el medioambiente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>A one-way ticket between London and Paris can cost as little as £29; prices depend on the day and time of your journey and how far in advance you book.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T184228Z">
+        <seg>Por lo general, el precio de un billete de Londres a París cuesta unas £110, pero puede ser tan bajo como £46.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Passengers on coaches/buses and in cars board a freight train run by Eurotunnel that takes 35 minutes to travel from Calais in France to the port of Folkestone in the UK.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T184228Z">
+        <seg>Los pasajeros que van en coche o en autobús abordan un tren para vehículos de la empresa <ph x="0">&lt;t0/&gt;</ph>Eurotunnel<ph x="1">&lt;t1/&gt;</ph> que tarda 35 minutos en hacer el recorrido de Calais a Folkestone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Eurostar passenger rail services, operated by the French, Belgians and British, run frequent direct services from Brussels in Belgium, and Paris, Lille and Calais in France to Ashford and Ebbsfleet in southeast England and <ph x="0">&lt;t0/&gt;</ph>St Pancras station<ph x="1">&lt;t1/&gt;</ph> in London.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T184228Z">
+        <seg>Para los que viajen directamente en tren, hay unos 40 servicios regulares de Eurostar, únicamente para pasajeros, operados por las redes francesa, belga y británica de ferrocarril. Estos servicios salen directamente de Bruselas, París, Lille y Calais para dirigirse a <ph x="2">&lt;t2/&gt;</ph>Ashford<ph x="3">&lt;t3/&gt;</ph>, <ph x="4">&lt;t4/&gt;</ph>Ebbsfleet<ph x="5">&lt;t5/&gt;</ph> y a la estación de <ph x="6">&lt;t6/&gt;</ph>St<ph x="7">&lt;t7/&gt;</ph> Pancras en Londres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T184228Z">
+        <seg>Hay dos túneles para los trenes regulares, además de un túnel de servicio, todos excavados a una profundidad de entre 25 y 45 m (entre 82 y 147 pies) por debajo del fondo marino.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>International coach travel to Britain</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T184228Z">
+        <seg>Viajes internacionales en autocar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Coach<ph x="0">&lt;t0/&gt;</ph>/bus is a cheaper option for travelling into the UK. Many services offer regular routes that cross the Channel from the European continent. You could choose to terminate your journey in London or other major cities in the UK.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T184228Z">
+        <seg>Los viajes en autocar (autobús) son bastante más baratos que otras formas de viajar, y son estupendos si se cuenta con tiempo suficiente. Se tarda más que en otros medios de transporte, pero a algunos viajeros les encanta esta experiencia que es, además, considerablemente económica.  Una vez que hayas pagado el billete, no tendrás que pagar gastos adicionales para el ferry o el Eurotúnel.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

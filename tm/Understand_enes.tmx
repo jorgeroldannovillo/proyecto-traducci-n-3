@@ -1,0 +1,716 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN"/>
+  <body>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Understand<ph x="0">&lt;t0/&gt;</ph>[<ph x="1">&lt;t1/&gt;</ph>edit<ph x="2">&lt;t2/&gt;</ph>]</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T190125Z">
+        <seg>Interpretación<ph x="0">&lt;t0/&gt;</ph>[<ph x="1">&lt;t1/&gt;</ph>editar<ph x="2">&lt;t2/&gt;</ph>]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Don't confuse "England" with the the larger "Britain" or "United Kingdom"; see the <ph x="0">&lt;t0/&gt;</ph>United Kingdom<ph x="1">&lt;t1/&gt;</ph> article for details.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T190125Z">
+        <seg>No hay que confundir "Inglaterra" con "Gran Bretaña" o "Reino Unido" que son más grandes; véase el artículo de <ph x="0">&lt;t0/&gt;</ph>Reino Unido<ph x="1">&lt;t1/&gt;</ph> para más detalles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Climate<ph x="0">&lt;t0/&gt;</ph>[<ph x="1">&lt;t1/&gt;</ph>edit<ph x="2">&lt;t2/&gt;</ph>]</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T190125Z">
+        <seg>Clima<ph x="0">&lt;t0/&gt;</ph>[<ph x="1">&lt;t1/&gt;</ph>editar<ph x="2">&lt;t2/&gt;</ph>]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>England has been stereotyped as being cold, grey and rainy since the ancient Romans wrote home, but this is not an entirely accurate picture.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T190125Z">
+        <seg>Inglaterra se ha estereotipado por ser fría, gris y lluviosa, desde que los antiguos romanos escribían a casa; pero ésta no es una idea del todo exacta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Temperatures rarely get very cold or very hot, and while the country certainly gets rain, it's really not as wet as rumour has it.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T190125Z">
+        <seg>Las temperaturas rara vez llegan a ser muy frías o muy calientes, y aunque sí que llueve, en realidad no es tan húmedo como se rumorea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>London alone has lower annual rainfall than Paris, New York and Sydney, and it's not uncommon for parts of the country to go without rain for weeks.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T190125Z">
+        <seg>Londres tiene unas precipitaciones anuales inferiores a las de París, Nueva York y Sídney, y no es raro que en algunas partes del país no llueva durante semanas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Parts of southern England often have summer water restrictions due to a lack of adequate rainfall during the previous winter.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T190125Z">
+        <seg>Hay partes del sur de Inglaterra a menudo tienen restricciones de agua en verano debido a la falta de precipitaciones adecuadas durante el invierno anterior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>There is some scope for leaving your raincoat at home, but make sure you've got one.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T190125Z">
+        <seg>Hay algunas posibilidades de salir de casa sin el impermeable, pero asegúrate de tener uno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Northern and western parts are usually wetter than the rest of England due to the prevailing wind from the north west bringing down cold moist air from the North Atlantic, and the sunniest and warmest areas are in the far south and south east.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T190125Z">
+        <seg>Las zonas del norte y el oeste son generalmente más húmedas que el resto de Inglaterra debido al viento predominante del noroeste que baja el aire frío y húmedo del Atlántico Norte, y las zonas más soleadas y más cálidas se encuentran en el extremo sur y sudeste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Winter and autumn are usually the wettest seasons where the weather is often very changeable and at times quite windy, especially in the north and west, where cold Arctic winds arrive.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T190125Z">
+        <seg>El invierno y el otoño suelen ser las estaciones más húmedas en las que el clima es a menudo muy cambiante y en ocasiones bastante ventoso, sobre todo en el norte y el oeste, donde llegan los fríos vientos árticos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Spring conditions are very changeable: a day of hot sunshine is likely as not to be followed by a week of cold wind and rain; and vice-versa.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T190125Z">
+        <seg>El tiempo en primavera es muy cambiante: a un día de cálido sol no es probable que le siga una semana de frío viento y lluvia y viceversa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Occasional snow even as late as May is not unheard of in northern England, but it will melt quickly.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T190125Z">
+        <seg>Que nieve esporádicamente incluso hasta finales de mayo no es algo extraño en el norte de Inglaterra, pero la nieve se derretirá rápidamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Snow is particularly rare in the south east.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T190125Z">
+        <seg>La nieve es particularmente poco común en el sureste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Summer is generally warm in the south with average highs usually ranging from 18-23°C, but be prepared for unsettled weather at any time of the year and make sure to check a weather forecast if you plan to be outdoors.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T190125Z">
+        <seg>El verano es generalmente cálido en el sur, con temperaturas medias que oscilan por lo general ente los 18 y los 23°C, pero prepárate para el tiempo inestable en cualquier momento del año y asegúrate de informarte sobre la previsión meteorológica si vas a estar al aire libre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Hot spells of weather can occur from May to September where temperatures may reach 30°C in the warmest areas of England, typically London and parts of the South East.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T190125Z">
+        <seg>Puede haber períodos cálidos de mayo a septiembre, cuando las temperaturas pueden alcanzar los 30°C en las zonas más cálidas de Inglaterra, por lo general en Londres y en partes del sudeste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Central Europe has very hot summers and very cold winters, but England is both less extreme (surrounded by water) and milder in the winter (influenced by the warmth of the North Atlantic Drift).</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T190125Z">
+        <seg>Europa central tiene veranos muy calurosos e inviernos muy fríos, pero Inglaterra es al mismo tiempo menos extrema (por estar rodeada por agua) y más suave en invierno (por estar influenciada por la calidez de la corriente del Atlántico Norte).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>If it were not for the North Atlantic Drift, England would be much much colder.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T190125Z">
+        <seg>Si no fuera por esta corriente, Inglaterra sería mucho más fría.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Heavy, prolonged, snow is rare and temperatures are rarely below freezing for more than a few days.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T190125Z">
+        <seg>Fuertes y prolongadas, las nevadas son poco comunes y las temperaturas raramente se encuentran bajo cero durante más de unos pocos días.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Some years there will be a few days of road and rail disruption from snow - even the slightest amount of snow often causes delays on public transport, especially rail.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T190125Z">
+        <seg>Algunos años habrá unos días en que la nieve causará problemas en las carreteras y en las líneas de tren - incluso la más mínima cantidad de nieve a menudo causa retrasos en el transporte público, especialmente en el ferroviario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Very severe weather conditions are rare and remedial action is usually taken promptly.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T190125Z">
+        <seg>Las condiciones climáticas extremas son poco frecuentes y normalmente se toman medidas correctivas de inmediato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Flooding and droughts are unlikely to affect the traveller.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T190125Z">
+        <seg>Las inundaciones y las sequías no suelen afectar al viajero.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>High winds occasionally disrupt travel, most often outside summer.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T190125Z">
+        <seg>Los fuertes vientos ocasionalmente interrumpen viajes, sobre todo cuando no es verano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>English people are said to have a passion for debating the weather: actually this is usually just an opening gambit to start a conversation with a stranger.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T190125Z">
+        <seg>Se dice que los ingleses tienen una pasión por debatir sobre el clima: en realidad se trata normalmente sólo de una estrategia inicial para entablar conversación con un desconocido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Typically, these conversation openers are now heard only among the elderly members of society.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T190125Z">
+        <seg>Normalmente, estas formas de romper el hielo sólo se escuchan ahora entre los habitantes más mayores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Most discussions that do involve weather usually include criticisms of it - including (though perhaps not at the same time) both that it's "too cold" and it's "too hot".</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T190125Z">
+        <seg>La mayoría de las discusiones que involucran el clima por lo general incluyen críticas a éste - incluyendo (aunque tal vez no al mismo tiempo), tanto que hace "demasiado frío" como "demasiado calor".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Well-known conversational gambits (with due acknowledgement to Peter Kay) : "It's too cold for snow"; "It's that fine rain that soaks you through".</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T190125Z">
+        <seg>Algunas de las tácticas de conversación más conocidas (con el debido reconocimiento a Peter Kay) son: " Hace demasiado frío para que nieve"; "La lluvia fina es la que te empapa".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>People<ph x="0">&lt;t0/&gt;</ph>[<ph x="1">&lt;t1/&gt;</ph>edit<ph x="2">&lt;t2/&gt;</ph>]</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T190125Z">
+        <seg>Habitantes<ph x="0">&lt;t0/&gt;</ph>[<ph x="1">&lt;t1/&gt;</ph>editar<ph x="2">&lt;t2/&gt;</ph>]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The people of England, like their language, are a mixed bunch who have regularly been infused with new blood - from the Romans nearly 2000 years ago taking control of the ancient British in the region, to the later influences of Angles, Saxons and others from Europe after which created the original idea of the English, to the Vikings and then the Normans about a thousand years ago.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T190125Z">
+        <seg>La gente de Inglaterra, al igual que su lengua, es un heterogéneo mixto que con regularidad se ha infundido con sangre nueva - de los romanos, hace casi 2000 años, cuando tomaron el control sobre los antiguos británicos de la región, a las posteriores <ph x="0">&lt;t0/&gt;</ph>influencias de los anglos, los sajones y otros pueblos de Europa, quienes crearon después la idea original de los ingleses, hasta los vikingos y luego los normandos hace aproximadamente mil años.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Since then, there have been Hugenots, Chinese, Jews fleeing pogroms, people from former British colonies in the Caribbean in the 1950s and 60s, Indians expelled from newly independent former African colonies, workers from <ph x="0">&lt;t0/&gt;</ph>new EU member states such as Poland, not to mention people from other UK nations and the Republic of Ireland.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T190125Z">
+        <seg>Desde entonces, ha habido hugonotes, chinos, judíos que huyen de los pogromos, personas de las antiguas colonias británicas en el Caribe en los años 50 y 60, los indígenas expulsados ​​de las antiguas colonias africanas de reciente independencia, los trabajadores de los nuevos Estados miembros de la UE como Polonia, por no hablar de gente de otras naciones del Reino Unido y la República de Irlanda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The full list is very long, but England has long been used to outsiders making it their home - even before England existed!</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T190125Z">
+        <seg>La lista completa es muy larga, pero durante mucho tiempo los extranjeros han convertido Inglaterra en su casa - ¡incluso antes de que existiera Inglaterra!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Like in any country you will get people who are unfriendly to foreign visitors, but England is noted as being one of the most tolerant countries in Europe, and racism is very low when comparing to other nations.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T190125Z">
+        <seg>Al igual que en cualquier país te encontrarás con personas que son antipáticas con los visitantes extranjeros, pero Inglaterra se considera uno de los países más tolerantes de Europa, y el nivel de racismo es muy bajo si lo comparamos con otras naciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Almost everyone will treat you well if you are polite and make an effort to fit in.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T190125Z">
+        <seg>Casi todo el mundo te tratará bien si eres amable y haces un esfuerzo por encajar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Smile, be polite, don't be pushy if you can help it: that's how to get on with the English.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T190125Z">
+        <seg>Sonríe, sé educado, no seas agresivo si puedes evitarlo: así te llevarás bien con los ingleses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The English are well used to foreign tourists and you can expect them to be friendly and polite.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T190125Z">
+        <seg>Los ingleses están muy habituados a los visitantes extranjeros y puedes esperar que sean amables y educados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>One thing to bear in mind is that many mostly elderly English people are terrified of giving offence and dislike lying, and so will try to avoid potential pitfalls by sticking to safe (often boring) topics of conversation and occasionally doing the tricky job of avoiding offence by evading a question which worries them, while also trying not to offend you by point blank refusing you an answer.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T190125Z">
+        <seg>Una cosa a tener en cuenta es que muchos ingleses, en su mayoría ancianos, tienen miedo de ofender y no les gusta mentir, así que intentarán evitar los posibles riesgos ciñiéndose a los temas de conversación prudentes (a menudo aburridos) y de vez en cuando hacer el delicado trabajo de evitar la ofensa evadiendo un asunto que les preocupa, y al mismo tiempo tratando de no ofender al negarse tajantemente a dar una respuesta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>This sort of thing generally wears off as people get to know you.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T190125Z">
+        <seg>Este tipo de cosas por lo general desaparecen conforme la gente te conoce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The younger generation are often quite different as far as giving offence is concerned.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T190125Z">
+        <seg>Los más jóvenes son normalmente muy diferentes en cuanto a ofender se refiere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Big cities and even some rural areas, like those anywhere, have their social problems, but England is predominantly an affluent country with little visible poverty.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T190125Z">
+        <seg>Las grandes ciudades e incluso algunas zonas rurales tienen sus problemas sociales, como las de todas partes, pero Inglaterra es predominantemente un país rico con poca pobreza visible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Rough areas contain rough people in England as in any country: muggings, car theft, and other street crime are unhappily common in some districts of many towns and cities, but England is by and large a very safe country as long as you use common sense.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T190125Z">
+        <seg>En las zonas peligrosas de Inglaterra, como en cualquier país, hay gente peligrosa: asaltos, robo de automóviles, y otros delitos callejeros son desgraciadamente comunes en algunos distritos de muchos pueblos y ciudades, pero Inglaterra es por lo general un país muy seguro, siempre y cuando se utilice el sentido común.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>In tourist destinations you will meet a mostly friendly people who will take the time to answer a stranger's question, and who may speak English in a colourful or accented way but will be willing to standardize and simplify their speech if you're struggling.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T190125Z">
+        <seg>En los destinos turísticos te encontrarás con gente en su mayoría amable que se tomará el tiempo necesario para responder a la pregunta de un extraño, y que puede que hable inglés de una manera peculiar o con acento, pero que estará dispuesta a normalizar y simplificar su discurso si te estás esforzando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Some would say there is a north-south divide, with people in the North more friendly and approachable (Liverpool for instance was voted the fourth friendliest city in the world by travel magazine Rough Guide in 2014), while the South (mostly just London though) is a more closed culture with people less willing to stop and speak, but don't take offence, remember most Londoners you see on the streets will usually be rushing to get to somewhere (eg work) and simply don't have the time to talk.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T190125Z">
+        <seg>Algunos dirían que hay una división entre el norte y el sur, siendo los del norte más amables y accesibles, mientras que los del sur (aunque en su mayoría sólo de Londres) son de una cultura más cerrada, con gente menos dispuesta a pararse y hablar, pero no te ofendas, recuerda que la mayoría de los londinenses que ves por la calle normalmente tendrá prisa para llegar a algún lugar (por ejemplo al trabajo) y simplemente no tiene tiempo para hablar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>If anything, the South of England is split between the "overheated" and overcrowded South-East, and the more rural, amiable South-West/West Country where a more laid back, relaxed, friendlier atmosphere beckons.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T190125Z">
+        <seg>En todo caso, el sur de Inglaterra se divide entre el "acalorado" y superpoblado sudeste, y el más rural y amable sudoeste donde te verás atraído por su ambiente más tranquilo y cordial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The North/South divide is also somewhat confused by the fact that Bristol (the largest city in the South West) has a very laid back, relaxed, left field and mellow atmosphere that is completely different with the relentless hedonistic atmosphere of the likes of Brighton and Bournemouth or the conservatism of many cities in Southern England.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T190125Z">
+        <seg>La división entre norte y sur también se confunde un poco por el hecho de que Bristol (la ciudad más grande del sudoeste) tiene un ambiente muy relajado, tranquilo, despreocupado y apacible que es completamente diferente al implacable ambiente hedonista de la talla de Brighton y Bournemouth o el conservadurismo de muchas ciudades en el sur de Inglaterra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>In rural areas of the south, particularly East Anglia and the West Country, people are generally much more laid back and enjoy taking the time to have a chat with strangers.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T190125Z">
+        <seg>En las zonas rurales del sur, en particular en East Anglia y el oeste del país, la gente es generalmente mucho más calmada y disfruta tomándose el tiempo necesario para charlar con los extranjeros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>In most of England you will usually find that if you are polite and friendly, you'll get the same in return.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T190125Z">
+        <seg>En la mayor parte de Inglaterra verás que si eres educado y amable, obtendrás lo mismo a cambio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>London itself is a very international city where you may meet a variety of nationalities, depending on what part of the city you are in.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T190125Z">
+        <seg>Londres en sí es una ciudad muy internacional donde puedes encontrar una gran variedad de nacionalidades, dependiendo de en qué parte de la ciudad estés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Talk<ph x="0">&lt;t0/&gt;</ph>[<ph x="1">&lt;t1/&gt;</ph>edit<ph x="2">&lt;t2/&gt;</ph>]</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T190125Z">
+        <seg>Lengua<ph x="0">&lt;t0/&gt;</ph>[<ph x="1">&lt;t1/&gt;</ph>editar<ph x="2">&lt;t2/&gt;</ph>]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Unsurprisingly, English is the main language in England, though it is spoken with many different accents throughout the country.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T190125Z">
+        <seg>Como era de esperar, el inglés es el idioma principal en Inglaterra, a pesar de que se habla con muchos acentos diferentes en todo el país.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Generally, English accents can be broadly divided into Northern and Southern accents, with natives of Liverpool having a very distinctive accent that is easily distinguishable from that of someone from neighbouring Manchester.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T190125Z">
+        <seg>Generalmente, los acentos ingleses se pueden dividir a grandes rasgos en los acentos del norte y del sur, teniendo los nativos de <ph x="0">&lt;t0/&gt;</ph>Liverpool un acento muy particular y "chirriante" que es fácilmente diferenciable del de alguien próximo a Manchester.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>No other languages are widely spoken, but with widespread immigration to England in the past few decades, you might also hear other languages such as Polish, Chinese, German, various South Asian languages or even various African languages being spoken in their respective communities.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T190125Z">
+        <seg>No hay más idiomas que se hablen mucho, pero con la inmigración generalizada de Inglaterra en las últimas décadas, puede que también escuches otros idiomas como polaco, chino, alemán, varios idiomas del sur de Asia o incluso varias lenguas africanas que se hablan en sus respectivas comunidades. El francés, el español (y en menor medida el alemán) se enseñan en los colegios y, por tanto, los entiende mucha gente y la mayoría de los ingleses hablan con fluidez en ambos idiomas, al menos a nivel de conversación. El hecho de que los ingleses vayan de vacaciones a Francia o España o tengan una propiedad allí, donde viven durante meses ha ayudado a mantener el francés o el español vivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Cornish is spoken in <ph x="0">&lt;t0/&gt;</ph>Cornwall<ph x="1">&lt;t1/&gt;</ph>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>When an English person says "Meet me at half five", they mean "Meet me at 17:30".</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T190125Z">
+        <seg>Cuando un inglés dice <ph x="0">&lt;t0/&gt;</ph>Meet me at half five<ph x="1">&lt;t1/&gt;</ph> ("Nos vemos a media de cinco"), quiere decir "Nos vemos a las 17:30 ".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>If the directions say "go to the top of the road", that means the end of the road.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T190125Z">
+        <seg>Si las indicaciones dicen <ph x="2">&lt;t2/&gt;</ph>go to the top of the road<ph x="3">&lt;t3/&gt;</ph> ("ve a la parte superior de la carretera"), querrán decir el final de la carretera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Some words mean one thing to Americans and something else entirely to British folks.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T190125Z">
+        <seg>Algunas palabras significan una cosa para los estadounidenses y algo completamente distinto para los británicos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>When an English man says he shared a "fag" with his "mate" that means only that he smoked a cigarette with a friend.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T190125Z">
+        <seg>Cuando un hombre inglés dice que ha compartido un <ph x="0">&lt;t0/&gt;</ph>fag<ph x="1">&lt;t1/&gt;</ph> ("maricón") con su <ph x="2">&lt;t2/&gt;</ph>mate<ph x="3">&lt;t3/&gt;</ph> ("pareja") sólo significa que se ha fumado un cigarrillo con un amigo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>If he adds that they also had a "gorgeous" meal, it means it was followed by a nice dinner.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T190125Z">
+        <seg>Si añade que también tuvieron <ph x="4">&lt;t4/&gt;</ph>a gorgeous meal<ph x="5">&lt;t5/&gt;</ph> (una comida "magnífica"), significa que a ello le siguió una buena cena.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>If they had a "shag" it means they had sex afterwards.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T190125Z">
+        <seg>Si echaron un <ph x="6">&lt;t6/&gt;</ph>shag<ph x="7">&lt;t7/&gt;</ph> (polvo)", significa que tuvieron relaciones sexuales después.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>See our <ph x="0">&lt;t0/&gt;</ph>English language varieties<ph x="1">&lt;t1/&gt;</ph> article for more insights.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T190125Z">
+        <seg>Mira nuestro artículo sobre las variedades lingüísticas para ver más ejemplos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Then there are the words unique to British English; a sneaker or tennis shoe, for instance, is called a "trainer."</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T190125Z">
+        <seg>También están las palabras únicas del inglés británico; a una <ph x="0">&lt;t0/&gt;</ph>sneaker<ph x="1">&lt;t1/&gt;</ph> o <ph x="2">&lt;t2/&gt;</ph>tennis shoe<ph x="3">&lt;t3/&gt;</ph> (zapatilla), por ejemplo, se le llama <ph x="4">&lt;t4/&gt;</ph>trainer<ph x="5">&lt;t5/&gt;</ph>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Moreover, the diverse history of the country, and the influx of various cultures over the centuries (e.g. Vikings, Normans, Romans, Celtic peoples), have produced a very wide range of accents, and there are still traces of regional dialects (vocabulary and grammar).</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T190125Z">
+        <seg>Por otra parte, los contrastes de la historia del país, y la afluencia de diferentes culturas a lo largo de los siglos (por ejemplo, los vikingos, los normandos, los romanos, los celtas), han creado una gran variedad de acentos, y aún hay vestigios de dialectos regionales (vocabulario y gramática).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Best not to imitate the accents, you will be seen as mocking.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T190125Z">
+        <seg>Es mejor no imitar los acentos o parecerá que te estás burlando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>An <ph x="0">&lt;t0/&gt;</ph>accent<ph x="1">&lt;t1/&gt;</ph> will usually reveal where someone was brought up — sometimes to within quite a small area (a criminal was recently caught because his accent on a recorded phone call was traceable to a single neighbourhood).</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T190125Z">
+        <seg>Un <ph x="0">&lt;t0/&gt;</ph>acento<ph x="1">&lt;t1/&gt;</ph> generalmente revelará de dónde es una persona - a veces dentro de una zona bastante pequeña (a un criminal se le capturó recientemente porque su acento en una grabación de una llamada telefónica fue atribuible a un solo barrio).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Today, even well-educated professionals are happy to keep their regional accent: the unhappy days when people from outside the South East felt that they had to hide their accent to "get on" have gone.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T190125Z">
+        <seg>Hoy en día, incluso a los profesionales bien educados les gusta mantener su acento regional: se han acabado los días infelices en que la gente de fuera de la región del sudeste sentía que tenía que ocultar su acento para "tener éxito".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>It is now only people who go to public (i.e. private, fee-paying) schools who learn to speak in a "geography-free" way (the "upper-class accent" of colonial rulers, well-known from old British films, or modern parodies).</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T190125Z">
+        <seg>Ahora sólo la gente que va a colegios privados (es decir, de pago) aprende a hablar sin acentos geográficos (el "acento de clase alta" de los gobernantes coloniales, conocido por las viejas películas británicas o las parodias modernas).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Differences in accent are very real: a visitor who is expecting a particular accent they are familiar with from the cinema or television (perhaps "Dick van Dyke Cockney" or "Hugh Grant Silly Ass Upper Crust") will usually have to wait a day or two to get really accustomed to the real accents they hear around them.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T190125Z">
+        <seg>Las diferencias entre los acentos son un hecho: el visitante que está esperando oír un acento particular con el que está familiarizado gracias al cine o la televisión (quizás con el acento <ph x="2">&lt;t2/&gt;</ph>cockney<ph x="3">&lt;t3/&gt;</ph>de Dick van Dyke o con el acento de la flor y nata de los tontos, Hugh Grant) por lo general tiene que esperar un día o dos para acostumbrarse a los acentos reales que escuchan a su alrededor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Even English people, familiar with other accents from TV or by knowing neighbours or colleagues who have moved from other areas, can still struggle when far from home.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T190125Z">
+        <seg>Incluso a los ingleses, familiarizados con otros acentos de la televisión o que conocen a vecinos o compañeros de trabajo que se han trasladado desde otras áreas, les puede costar cuando están lejos de casa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>"Geordie", the accent/dialect of Tyneside, is a famously strong accent when spoken quickly amongst a group of people who do not know that a stranger is trying to tune in.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T190125Z">
+        <seg>El <ph x="4">&lt;t4/&gt;</ph>geordie<ph x="5">&lt;t5/&gt;</ph>, el acento o dialecto de Tyneside, es un famoso acento fuerte cuando se habla rápido entre un grupo de gente que no sabe que un extanjero está intentando enterarse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Most people are happy to tone down (or slow down) their accent when a stranger is in difficulty.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T190125Z">
+        <seg>A la mayoría de la gente no le importa moderar (o reducir) su acento cuando un extranjero tiene problemas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>When encountering a broad Geordie accent it can be quite difficult for someone who is not accustomed to it to understand it, and there are still various dialectic words in common use such as <ph x="2">&lt;t2/&gt;</ph>hyem<ph x="3">&lt;t3/&gt;</ph> = <ph x="4">&lt;t4/&gt;</ph>home<ph x="5">&lt;t5/&gt;</ph>, <ph x="6">&lt;t6/&gt;</ph>gan/gannin<ph x="7">&lt;t7/&gt;</ph> = <ph x="8">&lt;t8/&gt;</ph>going<ph x="9">&lt;t9/&gt;</ph>, <ph x="10">&lt;t10/&gt;</ph>wor<ph x="11">&lt;t11/&gt;</ph> = <ph x="12">&lt;t12/&gt;</ph>our<ph x="13">&lt;t13/&gt;</ph>, <ph x="14">&lt;t14/&gt;</ph>divvint<ph x="15">&lt;t15/&gt;</ph> = <ph x="16">&lt;t16/&gt;</ph>don't<ph x="17">&lt;t17/&gt;</ph> and <ph x="18">&lt;t18/&gt;</ph>howay<ph x="19">&lt;t19/&gt;</ph> = <ph x="20">&lt;t20/&gt;</ph>come on<ph x="21">&lt;t21/&gt;</ph>.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T190125Z">
+        <seg>Enfrentarse a un acento <ph x="6">&lt;t6/&gt;</ph>geordie<ph x="7">&lt;t7/&gt;</ph> cerrado puede ser muy difícil de entender para alguien que no está acostumbrado, e incluso hay varias palabras dialectales de uso común, tales como <ph x="8">&lt;t8/&gt;</ph>Hyem<ph x="9">&lt;t9/&gt;</ph>= <ph x="10">&lt;t10/&gt;</ph>home<ph x="11">&lt;t11/&gt;</ph> ("casa"), <ph x="12">&lt;t12/&gt;</ph>gan/gannin<ph x="13">&lt;t13/&gt;</ph> = <ph x="14">&lt;t14/&gt;</ph>going<ph x="15">&lt;t15/&gt;</ph> (" ir"), <ph x="16">&lt;t16/&gt;</ph>wor<ph x="17">&lt;t17/&gt;</ph> = <ph x="18">&lt;t18/&gt;</ph>our<ph x="19">&lt;t19/&gt;</ph> ("nuestro"), <ph x="20">&lt;t20/&gt;</ph>divvint<ph x="21">&lt;t21/&gt;</ph> = <ph x="22">&lt;t22/&gt;</ph>don't<ph x="23">&lt;t23/&gt;</ph> ("no") y <ph x="24">&lt;t24/&gt;</ph>howay<ph x="25">&lt;t25/&gt;</ph> = <ph x="26">&lt;t26/&gt;</ph>come on<ph x="27">&lt;t27/&gt;</ph> ("vamos").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Dialects<ph x="0">&lt;t0/&gt;</ph> exist, but as a matter of interest, not confusion.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T190125Z">
+        <seg>Los <ph x="0">&lt;t0/&gt;</ph>dialectos<ph x="1">&lt;t1/&gt;</ph> existen, pero esto es sólo un dato de interés y su finalidad no es confundir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>People across England would expect to understand anyone from anywhere else in England, because the few everyday dialect words are usually well known from TV.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T190125Z">
+        <seg>Gente de toda Inglaterra puede esperar entender a cualquier persona de cualquier otro lugar del país, debido a que las pocas palabras dialectales cotidianas se suelen conocer bien gracias a la televisión.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Differences are interesting, but not critical.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T190125Z">
+        <seg>Las diferencias son interesantes, pero no de vital importancia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Some examples from the north of England: "ey up" ("Hello"), "aye" ("yes", as in Scotland and the North of England); "tha" ("you", as in thee and thou, still common in South Yorkshire).</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T190125Z">
+        <seg>Algunos ejemplos del norte de Inglaterra son: <ph x="2">&lt;t2/&gt;</ph>ey up" = <ph x="3">&lt;t3/&gt;</ph>hello" ("hola "), <ph x="4">&lt;t4/&gt;</ph>aye<ph x="5">&lt;t5/&gt;</ph>= <ph x="6">&lt;t6/&gt;</ph>yes<ph x="7">&lt;t7/&gt;</ph> (como en <ph x="8">&lt;t8/&gt;</ph>Escocia y el norte de Inglaterra) ("sí"); <ph x="9">&lt;t9/&gt;</ph>tha<ph x="10">&lt;t10/&gt;</ph> = <ph x="11">&lt;t11/&gt;</ph>you<ph x="12">&lt;t12/&gt;</ph> ("tú"), (al igual que <ph x="13">&lt;t13/&gt;</ph>thee<ph x="14">&lt;t14/&gt;</ph> y <ph x="15">&lt;t15/&gt;</ph>thou<ph x="16">&lt;t16/&gt;</ph> que todavía son comunes en el sur de Yorkshire).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Real differences are of little consequence these days: for instance, people growing up in Manchester, Leeds and Sheffield use "jennel", "jinnel", and "ginnel" as the word for a particular type of narrow alley between houses.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T190125Z">
+        <seg>Las diferencias reales son de poca importancia a día de hoy: por ejemplo, las personas de Manchester, Leeds y Sheffield utilizan <ph x="17">&lt;t17/&gt;</ph>jennel<ph x="18">&lt;t18/&gt;</ph>, <ph x="19">&lt;t19/&gt;</ph>jinnel<ph x="20">&lt;t20/&gt;</ph> y <ph x="21">&lt;t21/&gt;</ph>ginnel<ph x="22">&lt;t22/&gt;</ph> en lugar de <ph x="23">&lt;t23/&gt;</ph>alley<ph x="24">&lt;t24/&gt;</ph> para llamar a un determinado tipo de callejón estrecho entre las casas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Other common words are "wee", "bonnie", "lass" (small, beautiful and girl, respectively in Scotland).</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T190125Z">
+        <seg>Otras palabras comunes son <ph x="25">&lt;t25/&gt;</ph>wee<ph x="26">&lt;t26/&gt;</ph>, <ph x="27">&lt;t27/&gt;</ph>bonnie<ph x="28">&lt;t28/&gt;</ph>, <ph x="29">&lt;t29/&gt;</ph>lass<ph x="30">&lt;t30/&gt;</ph>(<ph x="31">&lt;t31/&gt;</ph>small<ph x="32">&lt;t32/&gt;</ph> (pequeño), <ph x="33">&lt;t33/&gt;</ph>beautiful<ph x="34">&lt;t34/&gt;</ph> (bonito) y <ph x="35">&lt;t35/&gt;</ph>girl<ph x="36">&lt;t36/&gt;</ph> (chica) respectivamente en Escocia).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>A few useful words which may help you understand the English (particularly in the Midlands and North): "ta" = thank you, "ta ra/ta ta" = goodbye, "summat/summit/summink" = something, "nowt" = nothing, "owt" = "anything", "dunna/dunno" = don't know, "canna/cannit = cannot.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T190125Z">
+        <seg>Algunas palabras útiles que pueden ayudarte a entender el inglés (particularmente en las Midlands y el norte) son: "ta" = <ph x="0">&lt;t0/&gt;</ph>thank you<ph x="1">&lt;t1/&gt;</ph> (gracias), "ta ra/ta ta" = <ph x="2">&lt;t2/&gt;</ph>goodbye<ph x="3">&lt;t3/&gt;</ph> (adiós), "summat/summit/summink" = <ph x="4">&lt;t4/&gt;</ph>something<ph x="5">&lt;t5/&gt;</ph>(algo), "nowt" = <ph x="6">&lt;t6/&gt;</ph>nothing<ph x="7">&lt;t7/&gt;</ph> (nada), "dunna/dunno" = <ph x="8">&lt;t8/&gt;</ph>don't know<ph x="9">&lt;t9/&gt;</ph> (no lo sé), "canna/cannit" = <ph x="10">&lt;t10/&gt;</ph>cannot<ph x="11">&lt;t11/&gt;</ph> (no se puede).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Be prepared to have to use English to make yourself understood.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T190125Z">
+        <seg>Prepárate para tener que utilizar el inglés para hacerte entender.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Few people here speak a second language fluently.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T190125Z">
+        <seg>Pocas personas aquí hablan un segundo idioma con fluidez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>However, most people were taught one second language (usually French, German, Italian or Spanish) at school, and may remember enough to be willing to help a stranger in difficulties (if they can get over the embarrassment of being seen to "show off").</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T190125Z">
+        <seg>Sin embargo, la mayoría de la gente aprendió una segunda lengua (por lo general, francés, alemán, italiano o español) en el colegio, y posiblemente recuerde lo suficiente como para estar en condiciones de ayudar a un desconocido con problemas (si puede superar la vergüenza de que la vean "alardear" de sus conocimientos).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Because of immigration, especially from Commonwealth countries, many languages are spoken in the big cities.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T190125Z">
+        <seg>A causa de la inmigración, sobre todo de los países de la Commonwealth, se hablan muchas lenguas en las grandes ciudades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>There are also smaller places where particular languages are common.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T190125Z">
+        <seg>También hay lugares más pequeños en los que las lenguas particulares son comunes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Expect to hear (and even see signs in) Urdu, Punjabi, Hindi, Gujarati, Polish, Italian, Greek, Turkish and varieties of Arabic.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T190125Z">
+        <seg>Prepárate para escuchar conversaciones (e incluso ver señales) en urdu, punjabí, hindi, gujarati, polaco, italiano, griego, turco y en variantes del árabe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Because of links with Hong Kong, many Chinese people live here (London and Manchester have thriving communities, and Liverpool has one of the oldest Chinese communities in Europe).</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T190125Z">
+        <seg>Debido a los vínculos con Hong Kong, viven aquí muchos chinos (concretamente, Londres y Manchester tienen grandes comunidades).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Another English peculiarity is the use of terms of endearment for strangers such as "darling", "pet", "love", "hun", "duck", "bab", "mate", "sweetheart", "flower", "queen" and a few others.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T190125Z">
+        <seg>Otra peculiaridad del inglés es el uso de expresiones cariñosas para los extraños como <ph x="0">&lt;t0/&gt;</ph>darling<ph x="1">&lt;t1/&gt;</ph> (cariño), <ph x="2">&lt;t2/&gt;</ph>pet<ph x="3">&lt;t3/&gt;</ph> (mascota), <ph x="4">&lt;t4/&gt;</ph>love<ph x="5">&lt;t5/&gt;</ph> (amor), <ph x="6">&lt;t6/&gt;</ph>hun<ph x="7">&lt;t7/&gt;</ph> (diminutivo de <ph x="8">&lt;t8/&gt;</ph>honey<ph x="9">&lt;t9/&gt;</ph>, cariño), <ph x="10">&lt;t10/&gt;</ph>duck<ph x="11">&lt;t11/&gt;</ph> (pato), <ph x="12">&lt;t12/&gt;</ph>bab<ph x="13">&lt;t13/&gt;</ph> (cariño), <ph x="14">&lt;t14/&gt;</ph>mate<ph x="15">&lt;t15/&gt;</ph> (colega), <ph x="16">&lt;t16/&gt;</ph>sweetheart<ph x="17">&lt;t17/&gt;</ph>(cielo, amor), <ph x="18">&lt;t18/&gt;</ph>flower<ph x="19">&lt;t19/&gt;</ph> (flor), <ph x="20">&lt;t20/&gt;</ph>queen<ph x="21">&lt;t21/&gt;</ph> (reina) y algunos otros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>It can be confusing, or perhaps even embarrassing, for somebody who is not accustomed to this to be called "darling" by a total stranger; however, this is something which is nowadays mainly used by the older generation and found less in the younger generation although some younger males may call a woman "Darlin" this is usually either as a form of cat calling (and can often be followed by derogatory demands or language but is often harmless) or directed towards a female friend.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T190125Z">
+        <seg>Otra peculiaridad del inglés es el uso de expresiones cariñosas para los extraños como <ph x="22">&lt;t22/&gt;</ph>darling<ph x="23">&lt;t23/&gt;</ph> (cariño), <ph x="24">&lt;t24/&gt;</ph>pet<ph x="25">&lt;t25/&gt;</ph> (mascota), <ph x="26">&lt;t26/&gt;</ph>love<ph x="27">&lt;t27/&gt;</ph> (amor), <ph x="28">&lt;t28/&gt;</ph>hun<ph x="29">&lt;t29/&gt;</ph> (diminutivo de <ph x="30">&lt;t30/&gt;</ph>honey<ph x="31">&lt;t31/&gt;</ph>, cariño), <ph x="32">&lt;t32/&gt;</ph>duck<ph x="33">&lt;t33/&gt;</ph> (pato), <ph x="34">&lt;t34/&gt;</ph>bab<ph x="35">&lt;t35/&gt;</ph> (cariño), <ph x="36">&lt;t36/&gt;</ph>mate<ph x="37">&lt;t37/&gt;</ph> (colega), <ph x="38">&lt;t38/&gt;</ph>sweetheart<ph x="39">&lt;t39/&gt;</ph> (cielo, amor), <ph x="40">&lt;t40/&gt;</ph>flower<ph x="41">&lt;t41/&gt;</ph> (flor), <ph x="42">&lt;t42/&gt;</ph>queen<ph x="43">&lt;t43/&gt;</ph> (reina) y algunos otros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>You will hear English people say "sorry".</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T190125Z">
+        <seg>Escucharás a los ingleses decir <ph x="0">&lt;t0/&gt;</ph>sorry<ph x="1">&lt;t1/&gt;</ph> (lo siento).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>This is not down to guilt or self-consciousness but simply because it is synonymous with "excuse me", and is used to get somebody's attention.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T190125Z">
+        <seg>Esto no se debe a la culpa o la inseguridad, sino que simplemente es un sinónimo de <ph x="2">&lt;t2/&gt;</ph>excuse me<ph x="3">&lt;t3/&gt;</ph> (perdón), y se utiliza para llamar la atención de alguien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Alternatively it can be synonymous with "pardon".</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T190125Z">
+        <seg>También puede ser sinónimo de <ph x="4">&lt;t4/&gt;</ph>pardon<ph x="5">&lt;t5/&gt;</ph> (perdón).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Any comments along the lines of "What are you sorry about?" are pointless.</seg>
+      </tuv>
+      <tuv xml:lang="ES" creationid="OmegaT Aligner" creationdate="20190407T190125Z">
+        <seg>Cualquier comentario del tipo que "¿Por qué lo sientes?" carece de sentido.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
